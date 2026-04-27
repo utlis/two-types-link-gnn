@@ -1,0 +1,3949 @@
+vsd
+hbf
+tsh
+stilet
+adi
+avidity
+antiphlogistic
+fomentations
+embrocations
+purgative
+venesection
+lancet
+scirrhus
+constitution
+emetic
+convulsion
+sweetness
+hue
+bougie
+taste
+mode
+inflammation
+pustule
+frc
+infancy
+habit
+hermaphroditism
+fauces
+crepitation
+deglutition
+peep
+remedy
+latitude
+ali
+ea
+erysipelas
+gangrene
+att
+antispasmodic
+cure
+inquiry
+colony
+bitterness
+cast
+exudation
+sympathy
+alum
+excitement
+ia
+stomachic
+let
+canal
+be
+auricle
+ephelis
+hypochondria
+rheumatism
+tracheotomy
+attachment
+preservation
+pulverization
+relief
+settle
+tmj
+liniment
+hematoidin
+icd
+ointment
+weakness
+gum
+excoriation
+imv
+still
+ri
+resolution
+nad
+plague
+tn
+wax
+circulation
+hiccup
+refuse
+mastication
+tone
+die
+cheek
+genus
+paropsis
+ecchymosis
+faint
+imp
+rem
+trituration
+tongue
+disposition
+poison
+vomer
+adipocere
+exostosis
+precipitate
+sentiment
+cap
+ammonia
+firing
+pus
+rutin
+brushite
+induration
+impression
+pedigree
+rest
+chilblain
+crest
+bridge
+concavity
+eclipse
+emollient
+fa
+head
+mri
+periosteotomy
+variola
+camphor
+eructation
+guardian
+mch
+ovum
+powder
+taper
+struma
+tooth
+caustic
+concussion
+epiglottis
+ffa
+ether
+swelling
+tapering
+wheel
+hoarseness
+pronunciation
+stimulant
+ridge
+respiration
+elephantiasis
+expiration
+examination
+irritability
+hemiplegia
+instruction
+acid
+dentistry
+mortar
+bandage
+direction
+crust
+pellicle
+paralysis
+suture
+skull
+aphthae
+deposit
+medicament
+mercury
+ostitis
+rer
+atheroma
+cystoma
+digestion
+hook
+plaster
+paracentesis
+shield
+sharpness
+weighing
+water
+cauterization
+camp
+anchorage
+dextrin
+chloroform
+crushing
+dentition
+fog
+irritant
+porcelain
+phlegmon
+pain
+rr
+starch
+ccu
+nostril
+protoplasm
+periostitis
+thrush
+trial
+antiseptic
+cachexia
+bar
+ards
+diphtheria
+coa
+contusion
+inspiration
+pit
+subscription
+resorcin
+crucible
+epithelioma
+glycerin
+is
+lining
+negligence
+odor
+margin
+spur
+af
+casting
+digestive
+disease
+physician
+r
+spasm
+socket
+suggestion
+sugar
+wart
+antidote
+defect
+crowding
+furuncle
+post
+point
+tragus
+wash
+curette
+exophthalmus
+laxative
+injury
+paraplegia
+rolling
+swallowing
+trimming
+asphyxia
+ec
+dispensing
+cone
+ci
+cea
+fermentation
+hyperemia
+isf
+icterus
+myoma
+pt
+perforation
+pseudopodia
+shedding
+restraint
+stopper
+caseation
+aphagia
+anosmia
+callosity
+coma
+expression
+mydriatic
+soporific
+rna
+ventilation
+wedge
+amalgam
+antipyrine
+drill
+menstruation
+ovary
+plantation
+shivering
+surveying
+unconsciousness
+bacillus
+hanging
+friction
+hydramnion
+jaw
+paste
+reflex
+spindle
+value
+dic
+cementum
+feeding
+fat
+fibroma
+ir
+nose
+obturator
+rbe
+paresis
+rds
+scrofuloderma
+repair
+tubercle
+waxing
+antisyphilitic
+chloasma
+epec
+fungus
+headache
+icf
+mineral
+poisoning
+preparation
+restoration
+syphilis
+bouillon
+bending
+condyle
+diastase
+gland
+empyema
+flask
+hyperesthesia
+heredity
+operation
+pap
+pachydermia
+strip
+syringe
+tarnish
+asepsis
+antagonist
+cf
+complication
+drainage
+compensation
+clamp
+cuspid
+excision
+excess
+inspection
+nephritis
+solution
+stains
+thymol
+utp
+base
+bleaching
+bevel
+bur
+atrophy
+cements
+delivery
+cement
+embryo
+electrolysis
+grinding
+got
+hyaline
+mv
+narcosis
+nitrates
+statistics
+strap
+tuberculin
+tonsillitis
+amblyopia
+breathing
+hardness
+hysteria
+il
+pest
+protection
+papule
+preservative
+ulcer
+telemeter
+bracket
+amalgamation
+cementing
+enamel
+invasion
+mac
+plane
+pancreatin
+recovery
+petechia
+polishing
+resistance
+strain
+suppression
+smallpox
+antitoxin
+ankylosis
+creosote
+cretinism
+diaphragm
+emotion
+endoplasm
+illumination
+liability
+investigation
+hypo
+milling
+nmu
+parasite
+quartz
+shoulder
+staphylococcus
+tuberculosis
+tremor
+varix
+argyria
+addition
+dimple
+ffd
+hyperosmia
+induction
+heteroplasia
+laryngoscope
+oxalate
+recurrence
+setting
+streptococcus
+rickets
+abutment
+acidity
+bite
+administration
+deficiency
+clutch
+exudate
+icu
+jaundice
+lipoma
+mef
+opacity
+load
+pulse
+recall
+pack
+secretion
+substitution
+broth
+bleeding
+albumin
+depression
+granules
+eosinophile
+emulsion
+gonorrhea
+indication
+infection
+nurse
+pulpitis
+sarcoma
+runner
+beriberi
+brittleness
+basophile
+cusp
+dye
+epulis
+hemoptysis
+hematemesis
+mold
+malaria
+oil
+numbness
+lues
+pickling
+plexus
+piping
+suction
+sedative
+salivation
+shock
+vibrio
+tetany
+casein
+discoloration
+dissection
+dentist
+census
+fibrin
+gelatin
+illusion
+maintenance
+oligochromemia
+necropsy
+massage
+reamer
+paraffin
+saliva
+rotation
+stripping
+transportation
+trismus
+aids
+diplegia
+diagnosis
+elasticity
+fibromatosis
+envelope
+health
+jig
+laboratory
+intrusion
+medium
+manometer
+mixtures
+palsy
+reduction
+reaming
+sealing
+ventilator
+trna
+carrier
+bacteriolysis
+bbb
+chickenpox
+file
+epp
+host
+mixing
+precipitation
+ossification
+overgrowth
+stridor
+tumor
+anthracosis
+atropine
+agglutination
+diffuse
+dowel
+embryoma
+nausea
+radium
+pmn
+serum
+tinnitus
+arteriosclerosis
+contour
+filament
+infiltration
+hypha
+psammoma
+organization
+reposition
+transfer
+chromatin
+cmi
+conflict
+decortication
+germination
+etiology
+opsonin
+lithopedion
+molar
+mpo
+quotient
+serotherapy
+stretcher
+verruca
+toxin
+calory
+colloid
+elisa
+encephalomeningocele
+evacuation
+filler
+interpretation
+prophase
+prevalence
+pigmentation
+remodelling
+swab
+torticollis
+biliverdin
+brachycephaly
+catheter
+absorption
+cheiloplasty
+decalcification
+cementation
+compliance
+goiter
+hemoglobinuria
+psoriasis
+redifferentiation
+osmometer
+rejection
+sneeze
+sv
+treponema
+urticaria
+adl
+bcg
+dentifrice
+dth
+epipharynx
+fillers
+hypersensitiveness
+mumps
+nutrition
+purpura
+pasteurization
+scopolamine
+transposition
+trypsin
+adh
+blastomycosis
+articulation
+amp
+abrasion
+content
+consultation
+lymphangioma
+pellagra
+alloy
+anesthetic
+cresol
+coupling
+expansion
+fusion
+elimination
+extrasystole
+lipoid
+investing
+mvv
+persistence
+quenching
+release
+wetting
+ascites
+acromegaly
+decubitus
+ductility
+excretion
+histogenesis
+triad
+anaphylatoxin
+anemia
+cathode
+dissimilation
+diuretic
+dehiscence
+fungicide
+headgear
+serodiagnosis
+spatula
+stress
+stippling
+balancing
+cheiloschisis
+emphysema
+lacuna
+inversion
+myxedema
+mydriasis
+odontoblast
+mmr
+puberty
+osteoplasty
+tattooing
+autodigestion
+corrosion
+glyceride
+embolism
+lipase
+sludge
+xanthine
+annealing
+curettage
+dissociation
+leiomyoblastoma
+hydantoin
+loop
+penumbra
+pac
+scaler
+spirometer
+tourniquet
+welding
+adhesion
+eog
+linguoversion
+predisposition
+pressor
+resection
+stomatitis
+anxiety
+antithrombin
+dislocation
+contracture
+contamination
+gamete
+globulin
+endothelium
+gallstone
+emg
+investment
+hemolysin
+mtm
+mummification
+oxidation
+papilloma
+roentgen
+vaporization
+acne
+cellulose
+denture
+conjugate
+divergence
+cristobalite
+etching
+hemostatic
+neurosyphilis
+mfr
+overcorrection
+oscillation
+secretin
+viscosity
+beam
+consistency
+disintoxication
+clearance
+diuresis
+cuff
+flux
+epistaxis
+hypertrophy
+mask
+mucoid
+protective
+reagent
+psychoneurosis
+xerophthalmia
+ataxia
+anoxemia
+emulsification
+lecithin
+infraversion
+ifn
+maltase
+mic
+msd
+ranula
+thermocouple
+conjugation
+glossitis
+exposure
+intake
+hemoglobin
+malocclusion
+ngf
+mutarotation
+plethysmograph
+primer
+sucrose
+segregation
+tpr
+toughness
+carbohydrate
+acth
+canine
+drowsiness
+cystine
+chitin
+concrescence
+crystalloid
+equilibrium
+leukoplakia
+indicator
+metastasis
+osteomalacia
+scoliosis
+saturation
+tingling
+twitch
+abortion
+abrasive
+diluent
+cristae
+discoid
+conduction
+glaucoma
+km
+ingestion
+hrt
+mesothelium
+sample
+subtraction
+susceptibility
+anode
+concretion
+compromise
+fsh
+liner
+pigment
+sludging
+senility
+solidus
+avitaminosis
+buffing
+alcohol
+disability
+compounding
+condensation
+dressings
+chewing
+flush
+infant
+narcotic
+mortality
+ra
+sterility
+rq
+restriction
+treatment
+antihypnotic
+formula
+flavor
+fading
+maternity
+maladjustment
+lubricant
+palate
+pitting
+pneumonia
+tic
+tray
+disintegration
+ergosterol
+labial
+hla
+itp
+index
+medicines
+antagonism
+carbuncle
+fixation
+immunity
+ig
+modification
+mallet
+rash
+puncture
+separator
+sucking
+wheal
+vaccination
+caries
+burst
+cleanser
+population
+rarefaction
+panting
+sella
+stimulus
+abscess
+accumulation
+gout
+maltose
+phosphate
+protocone
+suffocation
+vitamin
+backing
+cml
+coating
+eruption
+fasting
+idiosyncrasy
+insertion
+sprue
+starvation
+toxoid
+aggregates
+agglutinogen
+chill
+di
+delusion
+filter
+rectification
+waning
+bile
+burn
+biscuit
+degeneration
+cll
+glaze
+elongation
+gonad
+homicide
+lip
+leprosy
+mediastinum
+penetration
+reservoir
+translation
+calcite
+als
+audiometer
+appetite
+crown
+deafness
+ct
+embolus
+erosion
+hydrogenation
+histone
+interlocking
+nucleosome
+precipitin
+reciprocation
+pharynx
+phenol
+silica
+allotype
+half-life
+eia
+emulsifying
+neurofibril
+pn
+patch
+solubility
+x-ray
+carditis
+eating
+disc
+chisel
+dietitian
+cornification
+flow
+liquidus
+parathormone
+psychology
+parallax
+tablet
+solvent
+sweating
+extraction
+excavation
+fainting
+gonion
+gargling
+filtration
+iq
+kymography
+leveling
+mycelium
+poliomyelitis
+platinum
+spore
+tungsten
+distortion
+ecf
+fibrinolysin
+hypercholesteremia
+maxilla
+peroxide
+pad
+pallesthesia
+urease
+congestion
+compress
+deposition
+housing
+odorless
+murder
+septicemia
+support
+riboflavin
+tapping
+retainer
+sandpaper
+cavity
+bucking
+collapse
+elastic
+fistula
+formaldehyde
+ion
+melanosis
+prescription
+sc
+sunburn
+splint
+sterilization
+development
+crystal
+electrocardiograph
+fissure
+hatchet
+operculum
+projection
+premolar
+psittacosis
+porosity
+parotitis
+pestle
+resin
+sulfonamide
+rf
+regeneration
+transfusion
+weapon
+virus
+bicuspid
+atelectasis
+cough
+discrepancy
+dap
+cyclopropane
+flagellum
+hypoproteinemia
+hyperpnea
+ketone
+incisor
+introversion
+impulse
+metaphase
+neurosis
+prognathism
+osteitis
+paracone
+stuttering
+summation
+rehabilitation
+transmitter
+vibrator
+carving
+cyanosis
+coagulation
+creatine
+colchicine
+gi
+fatigue
+gargles
+esthetics
+growth
+larynx
+nitrogen
+niacin
+lymphosarcoma
+plasmodium
+patient
+ria
+urea
+ultracentrifuge
+vibration
+ans
+band
+anoxia
+aldehyde
+adenoacanthoma
+autoclave
+amine
+contraction
+dermatitis
+face
+hyperpotassemia
+hemorrhage
+neutralization
+mobilization
+mmf
+mandible
+mole
+procaine
+perspiration
+phlebothrombosis
+penicillin
+rickettsia
+retention
+urine
+urobilinogen
+budding
+alloxan
+causalgia
+child
+elevator
+injection
+indole
+insufficiency
+mouth
+plasticizer
+source
+choline
+cosmetics
+extrusion
+gypsum
+grid
+inlay
+insufflation
+mcf
+plastic
+output
+pregnanediol
+seizure
+reline
+spillway
+streptomycin
+resuscitator
+twin
+dehydration
+detergent
+complement
+fluoride
+fad
+ephedrine
+fenestration
+fluctuation
+intolerance
+incision
+nucleus
+overload
+prothrombin
+permeability
+phosphorescence
+stabilizer
+relapse
+relaxation
+virulence
+thirst
+tolerance
+autopsy
+adaptation
+anesthesia
+attrition
+apatite
+core
+colorimetry
+childhood
+contrast
+dosage
+displacement
+detoxication
+formalin
+honeycomb
+libido
+isomer
+hyaluronidase
+recrystallization
+overprotection
+placement
+pharmacist
+q
+pediatrics
+xanthoma
+tracer
+vomiting
+capsule
+astringent
+annulus
+calcification
+cyst
+complex
+clotting
+clasp
+edema
+competence
+glycine
+graft
+inhibition
+identification
+intoxication
+hydrolysis
+miotic
+litigation
+mif
+mucin
+ph
+polycythemia
+psychosis
+pyrophosphate
+recalcification
+stagnation
+toothache
+variance
+valine
+castability
+acclimatization
+algae
+bruise
+birefringence
+antacid
+alanine
+cumulation
+diffusion
+cortisone
+consciousness
+cementoid
+gradient
+generalization
+evolution
+expectorant
+electrocardiogram
+excitability
+hydration
+involution
+incompatibility
+inhalation
+isotope
+measles
+newborn
+melena
+occlusion
+pyrogen
+purine
+pemphigus
+osteoclastoma
+phage
+srid
+spectrophotometer
+thrombophlebitis
+telophase
+bacitracin
+barbiturate
+asparagine
+donor
+cholinesterase
+denaturation
+fgf
+epinephrine
+glycoside
+fluoridation
+fructose
+glycerol
+gingiva
+hallucination
+facet
+innervation
+ketosis
+hyperthyroidism
+hematuria
+karyorrhexis
+malnutrition
+necrosis
+melanin
+monetite
+polyp
+pollution
+polymerization
+repression
+retractor
+spacer
+scattering
+suppository
+thyrotoxicosis
+zonography
+tsa
+thromboplastin
+aging
+coenzyme
+deformation
+chin
+dose
+dentin
+citrulline
+debris
+glycogen
+excitation
+fab
+geriatrics
+ionization
+histoplasmosis
+mps
+protozoa
+percussion
+pepsin
+reagin
+sensation
+sem
+sampling
+undernutrition
+transamination
+variant
+anaphase
+autoxidation
+antibiotic
+attenuation
+aslo
+corticotropin
+dyspnea
+cilia
+demineralization
+cvp
+electrolyte
+fungistatic
+handpiece
+helix
+epithesis
+ip
+hypnotic
+oligemia
+orbit
+ppd
+radioactivity
+recipient
+potion
+reabsorption
+pneumoconiosis
+pyridoxine
+scid
+uracil
+transformation
+vitrification
+adolescence
+bonding
+brm
+adsorption
+densitometer
+chondroma
+diphosphate
+crystallite
+differentiation
+gp
+granuloma
+glucose
+hexosamine
+histamine
+hyperlipemia
+neurilemmoma
+nasion
+neutron
+mitosis
+mucocele
+pharmacy
+rapport
+orientation
+ribose
+sensitivity
+reticulosis
+thyroxine
+tsd
+trichloroethylene
+vaccine
+tetanus
+agglutinin
+carcinoma
+additive
+athetosis
+antimetabolite
+adenine
+anomer
+callus
+dextran
+connector
+cytoplasm
+emulsifier
+explantation
+homograft
+hypopharynx
+keratin
+integration
+hypervitaminosis
+maturation
+monomer
+mineralization
+mobility
+mutation
+methemoglobin
+pharmaceutical
+processing
+oxyhemoglobin
+parakeratosis
+overlap
+plasticity
+osteosclerosis
+polysaccharide
+pyrimidine
+screening
+vasodepressor
+tocopherol
+angioma
+austenite
+coagulase
+diastole
+emergence
+gaba
+entropy
+hangover
+electroencephalograph
+hypnosis
+immunization
+imprinting
+hexokinase
+hemagglutination
+irv
+hydrate
+oleandomycin
+luminance
+mucopolysaccharide
+microsome
+normality
+nutrient
+overlay
+perception
+protein
+pethidine
+pneumothorax
+rationalization
+plaque
+orthodontics
+probe
+pps
+rad
+radioisotope
+secretor
+strabismus
+scaling
+sensibility
+tetracycline
+threshold
+vasodilatation
+vasoconstrictor
+uridine
+cardiolipin
+aneurysm
+beading
+blastospore
+antiserum
+configuration
+dosimeter
+chloramphenicol
+crisis
+deamination
+ceramics
+criteria
+copolymer
+gigantism
+ethanolamine
+hydroxyproline
+leukocytosis
+kwashiorkor
+leucine
+karyolysis
+isp
+oliguria
+nuclide
+neoplasm
+neurohypophysis
+metabolism
+metastable
+pyelonephritis
+radiosensitivity
+polarization
+pinhole
+pentobarbital
+pregnancy
+osteoid
+sensitometry
+respirator
+stimulator
+relaxant
+ribonuclease
+siderosis
+serine
+tranquilizer
+uremia
+vial
+undercut
+thymus
+bilirubin
+adhesiveness
+biotin
+acetylcholine
+atypism
+cyclotron
+deletion
+degassing
+cyanocobalamin
+chelation
+ctl
+flowmeter
+fetus
+ganglioma
+ethanol
+fradiomycin
+guanine
+fibrosarcoma
+eugenol
+electroencephalogram
+keratinization
+inactivation
+hemisection
+hydroxyzine
+heme
+infusion
+isomerization
+inducer
+hemolysis
+hypothermia
+martensite
+miosis
+nevus
+lysine
+lt
+matrix
+myxoma
+mannose
+mapping
+nystatin
+psychotherapy
+phenylalanine
+prognosis
+proline
+rebreathing
+overdosage
+radiography
+suicide
+vasopressor
+timbre
+thrombin
+transaminase
+thymine
+therapy
+victim
+vertigo
+adenohypophysis
+calorie
+acrinol
+aminophylline
+aldolase
+alcoholism
+cancer
+albinism
+catalase
+anthropology
+amylase
+conformation
+drug
+chymotrypsin
+dysproteinemia
+cistern
+dizziness
+ecg
+crystallinity
+cysteine
+ecm
+eeg
+chromatography
+cerebroside
+glycolysis
+esterase
+granulocytopenia
+erythromycin
+enzyme
+gingivitis
+glutamine
+histidine
+leukemia
+hematocrit
+hyperplasia
+hybrid
+inositol
+isoleucine
+interaction
+intensifier
+irreversibility
+odontoma
+model
+mesenchyme
+opium
+opsin
+nicotinamide
+mlr
+mitochondria
+mesoderm
+physiotherapy
+oxidase
+polyarteritis
+porphyrin
+porphyria
+phc
+phenobarbital
+phosphatase
+racemization
+serology
+spectrophotometry
+steroid
+superimposition
+sourness
+synergism
+vasodilator
+transmittance
+tryptophan
+transducer
+vector
+antigen
+audiometry
+bronchoscopy
+bacterium
+anticholinesterase
+arginine
+atherosclerosis
+alkalosis
+clone
+ectoderm
+chordoma
+cineradiography
+depolarization
+domain
+decompression
+dehydrogenase
+fibrinogen
+erythrocyte
+genetics
+habituation
+handedness
+efficacy
+keratohyaline
+hyperventilation
+hemosiderosis
+interdigitation
+lactose
+inhibitor
+kinin
+hypoxanthine
+hormone
+morphine
+mannitol
+nucleation
+motivation
+microhardness
+pvc
+pharmacology
+promethazine
+reattachment
+radioresistance
+osteomyelitis
+phonation
+reconstitution
+poly
+polymer
+phenylketonuria
+pepsinogen
+parameter
+sorbitol
+resorption
+tetracaine
+thyroglobulin
+thrombosis
+anesthesiology
+cadaver
+angina
+aggregation
+antibody
+agranulocytosis
+aftercare
+disaccharide
+denervation
+cephalometry
+chromosome
+cryostat
+cytosine
+dummy
+disinfectant
+compatibility
+fucose
+frostbite
+fluorescence
+enemas
+facilitation
+hapten
+leukopenia
+lipid
+individualization
+hemocoagulase
+isograft
+hepatoma
+hypalgesia
+hyperkinesia
+malfunction
+nocardiosis
+myoepithelium
+metaplasia
+mutism
+luxation
+plasmin
+redness
+premedication
+palpation
+spirogram
+specificity
+scleroderma
+senescence
+stereotype
+risk
+wakefulness
+zygote
+tyrosine
+transplantation
+aldosterone
+acclimation
+cardiotonic
+autonomy
+autosome
+bioassay
+adjuvant
+catabolism
+adp
+diplopia
+cognition
+dedifferentiation
+ceruloplasmin
+collagen
+ecology
+fibrosis
+epimerase
+electromyogram
+enolase
+ferritin
+electrophoresis
+esr
+endotoxin
+glomerulonephritis
+infarct
+immunoelectrophoresis
+implantation
+ld50
+homozygote
+insulin
+nucleoside
+myoglobin
+recipe
+radiopaque
+pyrolysis
+polyarthritis
+photon
+periodontium
+perfusion
+polyurethane
+pfc
+oxygenation
+sarcolemma
+stoichiometry
+sensitizer
+taurine
+retinal
+resuscitation
+substrate
+rubor
+tachyphylaxis
+toxoplasmosis
+translocation
+venule
+thymidine
+thiopental
+aplasia
+aglycone
+arteriole
+allergy
+autoradiography
+absorbance
+dibucaine
+developer
+ctp
+dopa
+dendrite
+fibrillation
+fibrinolysis
+fibroadenoma
+enhancement
+halothane
+heparin
+levallorphan
+myosin
+lysozyme
+microorganism
+nucleotide
+macromolecule
+pressoreceptor
+osteoma
+prosthesis
+potentiation
+puromycin
+progesterone
+pg
+pca
+syncytium
+replication
+sedation
+toxicity
+uvula
+vca
+thyrotropin
+adenoma
+achondroplasia
+adenovirus
+antiemetic
+crp
+desmosome
+chylomicron
+creatinine
+glutathione
+glycogenolysis
+gnathology
+epimerization
+gene
+hypesthesia
+hypersensitivity
+herpes
+latency
+interferon
+hypopituitarism
+neurofibroma
+myeloma
+niacinamide
+mpd
+olfaction
+plastid
+paraformaldehyde
+prednisolone
+rheology
+renin
+sphingomyelin
+stenosis
+sulcoplasty
+toxicology
+vasoconstriction
+transferrin
+vasopressin
+atp
+analgesic
+apicoectomy
+anaerobes
+cathartic
+atresia
+cofactor
+cytolysis
+coccidioidomycosis
+coping
+chloroplast
+conidium
+dialysis
+delirium
+cytochrome
+extraversion
+erythroplasia
+elastin
+laser
+kyphoscoliosis
+id50
+hypoxia
+inpatient
+liquefaction
+morbidity
+onlay
+micelle
+oligomycin
+polypeptide
+osteogenesis
+pathogenesis
+pili
+polycarbonate
+proliferation
+pneumotachograph
+phagocytosis
+repressor
+subculture
+trisomy
+triamcinolone
+therapist
+vmax
+viability
+thrombus
+adenosine
+asthma
+aphasia
+glandular cavity
+insensible perspiration
+calcareous deposition
+ophthalmic remedy
+arsenious acid
+p substance
+preventive administration
+exciting cause
+nitrous oxide
+temporal muscle
+climacteric disorder
+basal bone
+grape sugar
+lacerated wound
+bite taking
+cutting instrument
+interrupted suture
+absorptive action
+adhesive plaster
+fatty degeneration
+lower jaw
+swallowing position
+synovial membrane
+organic disease
+alveolar part
+calcareous metastasis
+fibrous bone
+compound fracture
+eruptive forces
+judicial autopsy
+specific inflammation
+parietal bone
+pricking pain
+enamel crack
+mucous membrane
+spiral tube
+gallic acid
+hereditary predisposition
+upper jaw
+alveolar arch
+linea alba
+posterior tooth
+cervical wall
+medical jurisprudence
+oblique line
+spiral arrangement
+decayed tooth
+pathological anatomy
+senile disease
+catarrhal inflammation
+central tubercle
+curved needle
+nitric acid
+pharyngeal cavity
+carious cavity
+recumbent position
+senile atrophy
+white spot
+brown induration
+buccal abscess
+lymphatic follicle
+maxillary nerve
+pressure anesthesia
+lingual artery
+purulent inflammation
+main arch
+scarlet fever
+hard chancre
+motor paralysis
+secondary disease
+special sense
+lateral ligament
+median line
+retarded eruption
+phosphoric acid
+supernumerary cusp
+bacillus anthracis
+gastric juice
+mucous degeneration
+ophthalmic nerve
+point a
+antipyretic action
+general examination
+motor ataxia
+slight fever
+cardiac stimulant
+frontal bone
+periodical examination
+pharmaceutical preparation
+sensory paralysis
+senile change
+splint bandage
+artificial tooth
+miliary tuberculosis
+acute nephritis
+copper amalgam
+dietetic treatment
+external use
+exudative inflammation
+fibrous polyp
+nasal bone
+penetrating wound
+plastic operation
+posterior border
+vasomotor nerve
+hemorrhagic diathesis
+lupus vulgaris
+brown atrophy
+continuous suture
+diabetic coma
+alveolar structure
+chronic inflammation
+curative effect
+premature delivery
+streptococcus pyogenes
+cartilaginous tumor
+exploratory operation
+natural selection
+sharp pain
+unpleasant feeling
+artificial abortion
+cement filling
+facial spasm
+gastric gland
+hyaline degeneration
+mucous cell
+natural tooth
+pancreatic calculus
+prolonged action
+radical operation
+salivary fistula
+secondary lesion
+alveolar process
+cane sugar
+double end
+hyaline bodies
+main point
+mental development
+motor area
+oral respiration
+bacillus subtilis
+boric acid
+buried suture
+fixing agent
+lingual tonsil
+pharyngeal tonsil
+potassium permanganate
+thyroid cartilage
+vertical position
+fecal stone
+staphylococcus epidermidis
+amyl nitrite
+distilled water
+malignant adenoma
+spontaneous fracture
+upper lip
+articular cavity
+central body
+general circulation
+germicidal action
+mixed infection
+muscular relaxation
+sphenoidal sinus
+subcutaneous inoculation
+cranial nerves
+dental surgery
+foramen ovale
+granulation tissue
+hard palate
+hyoid bone
+immediate action
+iron preparation
+operative position
+pure culture
+stab culture
+tendon reflex
+operative dentistry
+post crown
+speech center
+zinc chloride
+circulatory disturbance
+congenital defect
+dermatitis herpetiformis
+lactic acid
+resting stage
+selective action
+sensory root
+atmospheric pressure
+immediate effect
+motor nerve
+porcelain inlay
+stomach tube
+vocal cord
+bile pigment
+cervical cyst
+external causes
+fatty infiltration
+filling material
+internal secretion
+pityriasis versicolor
+postmortem lividity
+thyroid gland
+unidentified complaint
+cavity margin
+facial palsy
+fibrinoid degeneration
+fine grain
+peritonsillar abscess
+pharmaceutical jurisprudence
+potassium hydroxide
+residual nitrogen
+sensory nerve
+tracheal cannula
+amputation neuroma
+bactericidal action
+casting ring
+electric furnace
+lateral branch
+nuclear membrane
+reinforced anchorage
+respiratory disturbance
+agglutination reaction
+dental education
+dysentery bacillus
+granular layer
+grinding movement
+lead poisoning
+medical examination
+methyl salicylate
+passive state
+spastic paralysis
+water bath
+ciliary movement
+deep breathing
+immune serum
+internal cavity
+laryngeal reflex
+normal occlusion
+point b
+respiratory quotient
+school physician
+school children
+stratum granulosum
+axial wall
+cerebral hemorrhage
+cell embolism
+concha nasalis
+cutting edge
+facial nerve
+fruit sugar
+lingual nerve
+nutritional disturbance
+opaque porcelain
+pemphigus vegetans
+plate denture
+pressure side
+spontaneous discharge
+adjacent tooth
+chronic leukemia
+endogenous infection
+gingivobuccal fold
+hand mixing
+intermaxillary anchorage
+minor operation
+pulse wave
+tuberculin reaction
+vegetative form
+audible area
+buccal surface
+cold compress
+condyle path
+emetic action
+habitual dislocation
+individual disposition
+metal bracket
+multiple carcinoma
+nociceptive reaction
+osteoid tissue
+parotid gland
+pulmonary circulation
+self control
+acquired disposition
+coagulation time
+deglutition reflex
+fluorescent screen
+gustatory cell
+infiltration anesthesia
+pernicious anemia
+respiratory pause
+sheet wax
+bald tongue
+circulatory system
+contact point
+coronoid process
+dental arch
+essential oil
+fatty metamorphosis
+iodine value
+pain spot
+respiratory center
+total blind
+white thrombus
+communicable disease
+early treatment
+hemorrhagic infarct
+masticatory movement
+preliminary medication
+school dentist
+silicate cement
+alveolar air
+auricular fibrillation
+industrial accident
+inlay cavity
+absolute arrhythmia
+articular surface
+cerebral embolism
+cervical anchorage
+complement fixation
+depressant action
+drop number
+first choice
+hydrogen peroxide
+hyperplastic pulpitis
+intraspinal injection
+metachromatic granule
+occult blood
+passive immunity
+physical disability
+postoperative pneumonia
+pressure pain
+projectile vomiting
+working point
+zygomatic arch
+abdominal breathing
+antipruritic drug
+auricular block
+auricular flutter
+central incisor
+resting saliva
+rheumatic fever
+solid medium
+temporal fascia
+vibratory sensation
+water requirement
+water jet
+xanthoma cell
+compact bone
+dermoid cyst
+erythema induratum
+incubation period
+latent time
+mucous cyst
+purified water
+reflex arc
+abrasion test
+action current
+blood agar
+central osteoma
+common wart
+dental caries
+focal infection
+individual tray
+photographic contrast
+pyruvic acid
+tipping movement
+visible ray
+visual disturbance
+zone phenomenon
+artificial nipple
+business management
+cutting efficiency
+dental formula
+droplet infection
+gas gangrene
+mouth cleaning
+tuberculous lymphadenitis
+ball thrombus
+basal metabolism
+buffer action
+clinical test
+hot compress
+industrial physician
+operating field
+papillary adenoma
+sublingual gland
+subcutaneous administration
+terminal branch
+antirheumatic action
+diabetes insipidus
+epithelial tumor
+external respiration
+incomplete regeneration
+mycosis fungoides
+static sense
+symptomatic treatment
+temporal bone
+bone conduction
+compensatory hypertrophy
+ethmoidal sinus
+full stomach
+heat stroke
+industrial medicine
+intraocular inoculation
+mouth breathing
+quantitative character
+spot welding
+temperature regulation
+tooth root
+dental pulp
+hypotonic solution
+masseter muscle
+staphylococcus aureus
+trypan blue
+zinc sulfate
+bronchial asthma
+chemical test
+chemical injury
+cross infection
+end artery
+intrarectal administration
+latent infection
+referred pain
+regressive change
+resolving power
+sodium fluoride
+venous pressure
+working length
+auriculotemporal nerve
+cement line
+characteristic curve
+grand mal
+intraperitoneal inoculation
+ionization chamber
+light reaction
+manual method
+mylohyoid muscle
+primary culture
+pulmonary ventilation
+barbituric acid
+blood disease
+cold working
+cystic lymphangioma
+defense reaction
+endemic disease
+health examination
+jaw reflex
+light reflex
+needle holder
+oral surgery
+oxygen content
+radiating pain
+scattered radiation
+sinus arrhythmia
+vapor pressure
+vagus nerve
+central fossa
+centrifugal casting
+first aid
+intracutaneous injection
+reduced hemoglobin
+reducing sugar
+sodium bicarbonate
+sore throat
+surface tension
+vital reaction
+brown pigment
+osmotic pressure
+pressure spot
+public health
+second exposure
+sodium hydroxide
+uric acid
+bite plate
+compressive strength
+digestive juice
+lingual arch
+local immunity
+peptone water
+upright position
+afferent nerve
+calcium preparation
+formic acid
+inspired air
+oleic acid
+preliminary test
+yield point
+chin cap
+complete regeneration
+epidemic disease
+measuring apparatus
+metal base
+natural immunity
+neutral fat
+side wall
+cerebral arteriosclerosis
+health nurse
+natural resistance
+palisade arrangement
+pulp chamber
+rhythmic segmentation
+rheumatic carditis
+sodium hypochlorite
+surface anesthesia
+temporary cement
+centric relation
+epithelial attachment
+general management
+lateral incisor
+major operation
+wax pattern
+gingival crevice
+health guidance
+interstitial irradiation
+legal medicine
+lingual surface
+maxillary sinus
+metal plate
+postmortem examination
+artificial respiration
+bodily movement
+chronic poisoning
+electrical axis
+health education
+labor accident
+lethal dose
+occupational disease
+solid solution
+clonic convulsion
+dental examination
+physical examination
+salivary secretion
+butt joint
+dark room
+emulsifying agent
+extrinsic factor
+fundamental taste
+gonadotropic hormone
+group guidance
+periodontal membrane
+primary lesion
+proportional limit
+soda lime
+social adjustment
+acetic acid
+acute poisoning
+casting machine
+hypochromic anemia
+intracerebral inoculation
+mandibular movement
+mandibular canal
+premotor area
+preventive medicine
+coil spring
+emotional instability
+health service
+life history
+optimum ph
+preventive measures
+sezary syndrome
+setting time
+sulfuric acid
+time factor
+whole blood
+chemical mediator
+chronic stage
+chronological age
+color reaction
+rapid development
+crude drug
+irregular dentin
+occlusal pressure
+tetanic contraction
+ulcerative pulpitis
+vasomotor reflex
+vicious circle
+vitamin a
+vitamin deficiency
+wetting agent
+blood plasma
+dental treatment
+dental health
+field survey
+fungicidal action
+nicotinic acid
+precipitin reaction
+prophylactic treatment
+cerebral concussion
+general practitioner
+inflammatory reaction
+intermediate layer
+obstructive jaundice
+pantothenic acid
+proof stress
+scalp flap
+silver alloy
+subcutaneous injection
+vitamin e
+angina pectoris
+complete denture
+conditioned response
+condylar process
+conversion hysteria
+dental hygiene
+emergency operation
+epidemic typhus
+intravenous drip
+mediastinal emphysema
+physiological saline
+pityriasis rosea
+pulp tester
+sedimentation velocity
+added filter
+arsenic poisoning
+bacterial endocarditis
+civil liability
+local action
+sodium sulfate
+social security
+social insurance
+wheel chair
+agar impression
+antibacterial substance
+block anesthesia
+caries activity
+causative agent
+chief complaint
+circulation time
+crush syndrome
+dental clinic
+incipient caries
+mandibular arch
+motor age
+nasal cavity
+periarteritis nodosa
+physical status
+sudden death
+air vent
+allowable concentration
+anesthetic agent
+antibacterial action
+cold agglutination
+curing shrinkage
+horizontal plane
+inhalation anesthesia
+mass examination
+peptic ulcer
+rapid expansion
+resin base
+skin irritant
+social adaptability
+solubility product
+working time
+benzoic acid
+delayed elasticity
+health activity
+heat treatment
+hot working
+intramuscular injection
+morbidity rate
+oral examination
+plasma substitute
+shearing stress
+solid carcinoma
+aseptic necrosis
+dietary habit
+environmental sanitation
+fetal erythroblastosis
+gastric secretion
+health administration
+latent period
+lateral projection
+m phase
+social medicine
+social welfare
+topical application
+business administration
+clotting time
+coated tablet
+collateral circulation
+high frequency
+intelligence test
+mandibular protrusion
+poor risk
+preventive treatment
+supporting tissue
+tissue fluid
+tolerance dose
+under exposure
+unstimulated saliva
+abrasion resistance
+alcohol block
+aspartic acid
+caries incidence
+coronary insufficiency
+cuspal interference
+dark adaptation
+dental medicine
+initial dose
+measuring device
+nutrient broth
+stainless steel
+stimulant action
+traumatic pneumothorax
+vertical dimension
+adrenocortical hormone
+adverse effect
+alveolar ridge
+atomic number
+attenuation curve
+caseous necrosis
+cerebral palsy
+conduction anesthesia
+cutting needle
+enamel epithelium
+epidermoid carcinoma
+hospital pharmacy
+intermediate product
+intermaxillary fixation
+maximum velocity
+muscle tonus
+nitrogen balance
+palmitic acid
+parenteral administration
+pituitary gland
+pure tone
+specific action
+storage temperature
+tooth extraction
+age composition
+bone factor
+circulatory insufficiency
+conditioned reflex
+dry syrup
+emotional disturbance
+frontal sinus
+health center
+late reaction
+medical institution
+orthophosphoric acid
+setting expansion
+silver halide
+steroid diabetes
+sternohyoid muscle
+trichomonas vaginalis
+tricarboxylic acid
+urinary output
+vital capacity
+water diuresis
+absorption coefficient
+agar plate
+anaphylactic shock
+articular capsule
+bond energy
+cavity preparation
+cerebrospinal fluid
+chemical transmitter
+chemotherapeutic agent
+circulatory collapse
+clinical pathology
+complete antigen
+dead space
+delayed effect
+dental office
+dosage forms
+elective operation
+equilibrium constant
+external radiation
+human engineering
+individual growth
+laminar flow
+local infection
+metastatic calcification
+nutrition survey
+operative risk
+partial denture
+polycythemia vera
+ringer solution
+sense organ
+serum hepatitis
+social worker
+solution treatment
+stabilizing effect
+therapeutic dose
+urinary volume
+vascular collapse
+antistreptolysin o
+cardiac rate
+central action
+chronic toxicity
+corynebacterium diphtheriae
+dietary survey
+eating function
+electric knife
+ethical drugs
+fatty acid
+glucuronic acid
+inapparent infection
+incomplete block
+isoelectric point
+isometric contraction
+nucleic acid
+optical density
+oxygen uptake
+pharmacological action
+population statistics
+pressure casting
+radiation hazard
+respiration rate
+skin dose
+soft palate
+specific activity
+speech therapist
+thermal expansion
+absorption test
+age distribution
+antibacterial spectrum
+binary alloy
+blood sugar
+carotid artery
+cell permeability
+cleft formation
+control test
+developmental anomaly
+distal rest
+general hypothermia
+gold alloy
+horny layer
+implant denture
+intracellular fluid
+masticatory load
+maxillary protrusion
+metabolic antagonism
+operating room
+plasma protein
+plasma expander
+pressure breathing
+pressure impression
+pyrimidine nucleotide
+radiation dosage
+sensitivity test
+side shift
+spontaneous mutation
+thermal stimulation
+traumatic neuroma
+viscosity coefficient
+adrenocorticotropic hormone
+adrenogenital syndrome
+allelic gene
+antibody formation
+blood coagulation
+buffer solution
+capillary permeability
+cleidocranial dysostosis
+cleft palate
+dry socket
+gas analysis
+growth curve
+handicapped child
+hearing test
+hereditary disease
+infectious disease
+intrinsic factor
+intradermal injection
+laryngeal spasm
+mumps virus
+occlusal surface
+occlusal plane
+oxygen deficiency
+physical stimulation
+proteolytic enzyme
+radiographic examination
+radiation injury
+radiation effect
+random sampling
+roentgen equivalent
+skin temperature
+speech development
+surface cooling
+test solution
+thermal decomposition
+thermal analysis
+tongue habit
+turbulent flow
+vasopressor drug
+visible light
+wear resistance
+word deafness
+acrylic resin
+acquired immunity
+additive action
+alginate impression
+amalgam alloy
+alveolar wall
+anatomical root
+arterial bleeding
+basal arch
+bonding agent
+calibration curve
+collagen disease
+condyloma acuminatum
+connective tissue
+controlled respiration
+cor pulmonale
+cross resistance
+cutaneous sensation
+dissociation constant
+early diagnosis
+elastic deformation
+electron microscope
+exposure time
+fat embolism
+field study
+focal spot
+food poisoning
+free energy
+gouty arthritis
+infrared spectrum
+intravenous administration
+lymphatic leukemia
+manufacturing licence
+malignant tumor
+molluscum contagiosum
+nutritional requirement
+organic solvent
+oxygen intake
+oxygen consumption
+oxygen effect
+permanent dentition
+plastic deformation
+preanesthetic medication
+precious metal
+psychological test
+prothrombin time
+pulmonary heart
+recording system
+shielding material
+signal-to-noise ratio
+solubilizing agent
+thermal sweating
+traffic accident
+tubular adenoma
+visceral sensation
+white muscle
+active ingredient
+activation energy
+blood volume
+brittle fracture
+cardiac failure
+cavity wall
+cellular atypism
+electrode potential
+field block
+frontal plane
+genetic effect
+glossopharyngeal nerve
+hepatic coma
+immature infant
+impression material
+intestinal absorption
+internal irradiation
+ionizing radiation
+metabolic rate
+mental disorder
+mutation rate
+optical illusion
+pedicle flap
+prenatal period
+psychosomatic disease
+pulmonary insufficiency
+radiation damage
+ribonucleic acid
+salivary gland
+sensory area
+slip joint
+solvent extraction
+speech therapy
+thrombotic embolism
+tin foil
+transplantation immunity
+unit cell
+visceral pain
+vitamin b12
+water loss
+arterial pressure
+arterial embolism
+biting force
+body weight
+body temperature
+chewing time
+chemical bond
+clinical examination
+cold stimulus
+compression test
+contrast medium
+diffusion coefficient
+dosage schedule
+dose rate
+drinking water
+emergency exposure
+extracellular fluid
+film speed
+folic acid
+food preservative
+hospital pharmacist
+hydrocolloid impression
+intermetallic compound
+intrapleural pressure
+linoleic acid
+local infiltration
+monosynaptic reflex
+muscle twitch
+nonepithelial tumor
+occipital bone
+oral administration
+premature infant
+prone position
+protective device
+reaction time
+reference standard
+serologic diagnosis
+spontaneous respiration
+starting point
+sympatholytic drug
+thymidylic acid
+vegetative dystonia
+vitamin b6
+a cell
+abnormal behavior
+acid mucopolysaccharide
+acoustic neurinoma
+activating system
+amino sugar
+antifungal antibiotic
+antibody production
+bending strength
+blood transfusion
+blood group
+bond strength
+body fluid
+chelating agent
+diethyl ether
+ectopic eruption
+epoxy resin
+equilibrium potential
+esophageal speech
+external exposure
+fatty liver
+flexural strength
+heart disease
+impression tray
+interstitial fluid
+linear accelerator
+local analgesic
+mass spectrometer
+medical exposure
+neck dissection
+noble metal
+orbital plane
+parasympatholytic drug
+phage typing
+placental barrier
+protective clothing
+quantitative analysis
+radiation biology
+rapid induction
+reaction rate
+residual volume
+resting potential
+rickettsial disease
+safety margin
+serum sickness
+spinal reflex
+steady state
+thermal stress
+threshold dose
+usual dose
+water intake
+abutment tooth
+acute leukemia
+adrenal gland
+antibody titer
+blood flow
+bone marrow
+cardiac massage
+cell division
+cell wall
+cross matching
+dental cement
+deoxycholic acid
+diaminopimelic acid
+double cancer
+electron density
+emergency treatment
+forensic medicine
+free radical
+generation time
+humoral regulation
+in situ
+inotropic action
+lower lip
+luteotropic hormone
+masticatory efficiency
+mechanical property
+mitotic cycle
+normal distribution
+oral cavity
+oxygen requirement
+p wave
+ph indicator
+premature baby
+protective effect
+psychogenic reaction
+qualitative analysis
+radiation exposure
+radiation dose
+reticuloendothelial system
+reticular fiber
+s phase
+serum calcium
+serum cholinesterase
+situs inversus
+slow wave
+skin graft
+sphenoid bone
+tooth surface
+transition state
+water balance
+waste water
+abnormal hemoglobin
+absorbed dose
+acid phosphatase
+active transport
+air embolism
+amino acid
+angioneurotic edema
+automatic processing
+base resin
+branchial arch
+breath holding
+buccal mucosa
+buffer system
+carbonic anhydrase
+combined therapy
+congenital micrognathia
+constitutional jaundice
+culture medium
+deoxyribonucleic acid
+direct bilirubin
+dose distribution
+edentulous jaw
+edge effect
+electromagnetic wave
+electromagnetic radiation
+enzyme activity
+environmental factor
+expiratory phase
+film thickness
+fluorescent antibody
+gallium alloy
+health level
+home care
+hyaluronic acid
+hydrogen bond
+inclusion body
+inhibition test
+inhalation therapy
+lag phase
+light microscope
+metal ion
+mesial rest
+nasal septum
+new drug
+occupational health
+peripheral resistance
+prophylactic administration
+respiratory tract
+rheumatoid arthritis
+salmonella typhi
+slow induction
+standard deviation
+standard error
+sublingual administration
+surface electrode
+sympathetic nerve
+systemic disease
+tetanic stimulation
+toxic dose
+treatment denture
+turnover rate
+venous return
+acid etching
+acquired disease
+adrenal medulla
+adipose tissue
+alveolar ventilation
+assisted respiration
+bacterial shock
+blood pressure
+bone age
+bone cyst
+cleft lip
+clinical study
+cold spot
+cough reflex
+death certificate
+dental anesthesia
+developmental quotient
+effective dose
+elastic modulus
+emission spectrum
+enrichment culture
+exhalation valve
+gas chromatography
+gastrointestinal tract
+germ tube
+growth hormone
+heart beat
+heavy metal
+herpes zoster
+hospital infection
+immune hemolysis
+immunological enhancement
+jet injection
+melanin pigment
+mental retardation
+model material
+mutation frequency
+natural antibody
+outer membrane
+oxygen demand
+parenteral solution
+permanent tooth
+peripheral blood
+pituitary hormone
+rate equation
+selective toxicity
+sex chromosome
+sitting position
+styloid process
+trigeminal nerve
+urea cycle
+vagal reflex
+water deprivation
+zygosity diagnosis
+afferent fiber
+alkaline phosphatase
+alveolar bone
+attenuated vaccine
+average growth
+back scatter
+benign tumor
+bleeding time
+carious dentin
+caries experience
+cardiovascular system
+cell membrane
+cholesterol ester
+clean room
+competitive inhibition
+congenital disease
+congenital abnormality
+covalent bond
+dental calculus
+denture base
+disuse atrophy
+double exposure
+elastic fiber
+electrolyte balance
+facial profile
+food hygiene
+free graft
+heart sound
+health statistics
+in vitro
+information activity
+inspired gas
+intractable pain
+labor science
+lupus erythematosus
+medical security
+medical specialist
+muscular dystrophy
+neonatal period
+oral temperature
+personality characteristic
+plasma cell
+platelet factor
+plastic surgery
+potency ratio
+primary response
+reference point
+salmonella paratyphi
+sleeping habit
+speech area
+stationary phase
+supine position
+survival rate
+therapeutic ratio
+tooth axis
+volitional movement
+alkylating agent
+allergic purpura
+alveolar space
+anterior fontanelle
+arsenic trioxide
+basal body
+base excess
+biological property
+blood clotting
+body position
+breast feeding
+capillary pressure
+cardiac output
+community health
+cytotoxic factor
+cytoplasmic membrane
+differential diagnosis
+drug addiction
+early detection
+evans blue
+facial cleft
+feedback control
+fractionated irradiation
+functional group
+gas sterilization
+immune reaction
+in vivo
+medical insurance
+noxious stimulus
+ointment base
+osteogenic sarcoma
+perinuclear space
+pharmacological activity
+precocious puberty
+red muscle
+refractory period
+rheumatoid factor
+sensory threshold
+submucosal tissue
+tooth crown
+wet lung
+acute exposure
+additive effect
+adrenergic nerve
+antibacterial activity
+antithyroid drug
+articular disc
+centric occlusion
+chronic effect
+contractile protein
+depressive state
+developmental test
+diastolic pressure
+early adolescence
+electron transfer
+endocrine gland
+essential hypertension
+exudate cells
+frontal view
+functional analysis
+health consultation
+infectious mononucleosis
+investigational drug
+investigation report
+medical examiner
+mentalis muscle
+microbial substitution
+mixed tumor
+motion sickness
+myeloblastic leukemia
+optical isomer
+orthodontic force
+partition coefficient
+periodontal disease
+psychic dependence
+recovery room
+residual cyst
+respiratory insufficiency
+reversed occlusion
+rorschach test
+root resorption
+sensory perception
+stroke volume
+stratum spinosum
+systemic scleroderma
+tidal volume
+venturi effect
+accessory nerve
+acanthosis nigricans
+adolescent growth
+aging phenomenon
+aplastic anemia
+apocrine gland
+arch wire
+autonomic imbalance
+bacterial antigen
+blood clot
+bone graft
+cerebral hypoxia
+competitive antagonist
+endotoxin shock
+eosinophilic leukocyte
+established cell
+expressive language
+food additives
+general toxicity
+golgi body
+hypoglossal nerve
+indigenous bacterium
+interpersonal relationship
+intercuspal position
+life support
+log phase
+mandibular nerve
+malignant lymphoma
+metal crown
+model analysis
+muscle spindle
+neuromuscular system
+occlusal force
+occlusal adjustment
+operant conditioning
+oxygen saturation
+parasympathomimetic drug
+papillary cystadenocarcinoma
+pathological fracture
+percutaneous absorption
+peptide bond
+physical dependence
+polyacrylic acid
+prolonged apnea
+radiation dosimetry
+residual ridge
+residual stress
+resin cement
+ring chromosome
+root apex
+salivary amylase
+sagittal plane
+screen film
+septal defect
+specific antibody
+special education
+spina bifida
+surface roughness
+vascular tone
+water quality
+actual image
+adhesive force
+adverse reaction
+age class
+alveolar mucosa
+analgesic effect
+antidiuretic hormone
+antigenic determinant
+arteriovenous fistula
+arteriovenous shunt
+body height
+brain wave
+caries prevention
+clinical pharmacology
+coagulation necrosis
+combined drug
+creatine phosphate
+drip infusion
+doubling time
+drug effect
+early childhood
+electrophoretic analysis
+endoplasmic reticulum
+facial bone
+gas exchange
+gel filtration
+giant cell
+hard tissue
+health planning
+hemolytic anemia
+hot spot
+individual difference
+indwelling catheter
+internal exposure
+lethal damage
+local response
+mandibular condyle
+megaloblastic anemia
+metabolic disease
+messenger rna
+monoamine oxidase
+multiple sclerosis
+nerve block
+oxygen affinity
+palatine tonsil
+papillary adenocarcinoma
+quality factor
+radiation irradiation
+sample preparation
+sensorimotor area
+shunt effect
+sliding surface
+surgical risk
+tooth replantation
+adaptive behavior
+aerobic bacteria
+alcohol dehydrogenase
+allergic diathesis
+alveolar hypoventilation
+antibacterial agent
+cardiac pacemaker
+chlorpheniramine maleate
+clinical evaluation
+complete adjuvant
+coronary vasodilator
+defense mechanism
+dental hygienist
+dental amalgam
+dose equivalent
+endochondral ossification
+enzyme induction
+environmental contamination
+epidemiological survey
+feedback inhibition
+guide wire
+handicapped person
+head injury
+intracranial pressure
+ion electrode
+life cycle
+linolenic acid
+lymph node
+lymphoid cell
+lung volume
+malpractice suit
+mental nerve
+missing tooth
+mucolytic agent
+neural transmission
+oral mucosa
+organ culture
+oxygen therapy
+pain sensation
+physical therapy
+pulmonary embolism
+receptive field
+ribosomal rna
+salmonella typhimurium
+satiety center
+sodium pump
+submandibular gland
+swallowing reflex
+taste bud
+water retention
+abo incompatibility
+action potential
+adenylate kinase
+airway conductance
+antitussive action
+aphthous stomatitis
+bacterial plaque
+blood viscosity
+birth weight
+blood platelet
+cardiac glycoside
+cerebral edema
+chronic exposure
+coenzyme a
+composite material
+coupling agent
+deep pain
+denture cleaner
+drug therapy
+eccrine gland
+environmental pollution
+extraosseous osteosarcoma
+fitness test
+frey syndrome
+heavy chain
+heart rate
+hyperventilation syndrome
+infraorbital nerve
+inhalation anesthetics
+intensifying screen
+involuntary movement
+laryngeal edema
+light chain
+life style
+liquid chromatography
+local anesthesia
+major tranquilizer
+medullary carcinoma
+mercury poisoning
+moro reflex
+motor unit
+nasotracheal tube
+open reduction
+oral cancer
+oral hygiene
+paracortical area
+pinocytotic vesicle
+pulp exposure
+respiratory resistance
+resin matrix
+retrograde amnesia
+screening test
+selective medium
+self care
+single blind
+storage disease
+stratum corneum
+submandibular ganglion
+therapeutic gain
+threshold value
+time series
+tumor immunity
+urinary retention
+airway resistance
+attached gingiva
+blood level
+burning sensation
+cerebral contusion
+condylar point
+conduction velocity
+consumption coagulopathy
+cranial base
+deep overbite
+dental stone
+diabetes mellitus
+drug abuse
+drug dependence
+enzyme kinetics
+evoked potential
+exocrine gland
+feeding behavior
+gel chromatography
+genetic information
+golgi area
+hearing loss
+incidence rate
+inspiratory phase
+irreversible damage
+liver cirrhosis
+mass spectrometry
+matrix system
+membrane oxygenator
+minor tranquilizer
+muscle tone
+narcotic antagonist
+neuromuscular transmission
+normal flora
+package insert
+pemphigus vulgaris
+phantom limb
+precancerous lesion
+respiratory acidosis
+respiratory complication
+root canal
+slow muscle
+structural gene
+thrombocytopenic purpura
+thyroid hormone
+viral hepatitis
+wound healing
+acceptable concentration
+actinomycin d
+active site
+acute bleeding
+bile acid
+brown tumor
+carbonate stone
+cellular immunity
+cerebral infarction
+chondroitin sulfate
+chronic tonsillitis
+chronic use
+cross contamination
+cross tolerance
+cyanide poisoning
+dental plaque
+drug information
+drug eruption
+enterohepatic circulation
+erythema multiforme
+examination room
+f wave
+general anesthetic
+gene recombination
+globular protein
+glossopharyngeal neuralgia
+herpes simplex
+hypotensive anesthesia
+knoop hardness
+ketone body
+laser radiation
+low dose
+lysosomal enzyme
+maximal dose
+membrane potential
+molecular disease
+morita therapy
+necrotic tissue
+nephrotic syndrome
+nitrogen oxide
+obligate anaerobe
+oral contraceptive
+osteogenesis imperfecta
+passive immunization
+pedunculated polyp
+pigment degeneration
+respiratory chain
+respiratory arrest
+roc curve
+scar tissue
+skeletal pattern
+stable isotope
+sympathomimetic drug
+tooth transplantation
+tracheoesophageal fistula
+ultrasonic nebulizer
+vitamin d
+wisdom tooth
+acute toxicity
+active immunotherapy
+adenosine monophosphate
+aerobic metabolism
+anaerobic metabolism
+antiarrhythmic action
+apert syndrome
+antigravity muscle
+axon reflex
+bordetella pertussis
+burkitt lymphoma
+caloric intake
+cardiac cycle
+cardiac arrhythmia
+cell fusion
+cell organelle
+cholinergic agent
+chemical carcinogen
+chromosome aberration
+common drug
+complex odontoma
+coxsackie virus
+cytotoxicity test
+dose limit
+drug intoxication
+drug metabolism
+general anesthesia
+gingival hypertrophy
+health care
+immunosuppressive agent
+immune response
+initiation stage
+lymphocyte transformation
+lunate bone
+malignant hyperpyrexia
+malignant neoplasm
+marfan syndrome
+massive bleeding
+maxillary artery
+monitoring system
+multifactorial inheritance
+myocardial depressant
+mycobacterium tuberculosis
+neonatal jaundice
+neuromuscular junction
+noncollagenous protein
+nuclear medicine
+parasympathetic nerve
+papanicolaou stain
+peripheral vasodilator
+phase transition
+polymorphonuclear leukocyte
+positive image
+primary fibrinolysis
+psychotropic drug
+pseudomonas aeruginosa
+pulmonary edema
+radicular cyst
+respiratory depression
+rosette formation
+sex hormone
+simple suture
+streptolysin o
+systemic infection
+synaptic transmission
+temporomandibular joint
+therapeutic environment
+turner syndrome
+variable region
+ventricular fibrillation
+xeroderma pigmentosum
+acute injury
+adrenergic drug
+age estimation
+alveolar macrophage
+behavior disorder
+bell palsy
+blood gas
+bony septum
+bone resorption
+bone expansion
+cell cycle
+cell culture
+chemotactic factor
+circadian rhythm
+chronic sinusitis
+condylar cartilage
+cortical plate
+cortical bone
+dental floss
+diagnostic model
+diabetic retinopathy
+dizygotic twin
+dosage regimen
+electric injury
+environmental standard
+epidermoid cyst
+facial paralysis
+fallot tetralogy
+humoral immunity
+luteinizing hormone
+malignant melanoma
+medical radiation
+metabolic control
+muscle relaxant
+myelogenous leukemia
+narcotic analgesic
+neisseria meningitidis
+nonspecific immunotherapy
+nutritional status
+oral health
+posttransfusion hepatitis
+radiation therapy
+reparative dentin
+respiratory compensation
+reservoir bag
+serum concentration
+large salivary gland
+poisons and deleterious
+disorder of sensation
+period of gestation
+chronic articular rheumatism
+acute infectious disease
+late middle age
+path of pain
+cause of death
+carcinoma of tongue
+doctor in charge
+mean molecular weight
+acute febrile disease
+discoid lupus erythematosus
+disturbance of consciousness
+modulus of elasticity
+root canal preparation
+maximal blood pressure
+chronic hyperplastic pulpitis
+chronic ulcerative pulpitis
+complement fixation test
+transverse facial cleft
+skin reaction test
+external carotid artery
+hydrogen ion concentration
+national health insurance
+systolic blood pressure
+blood platelet count
+national nutrition survey
+cranial base line
+impacted supernumerary tooth
+basal metabolic rate
+body of maxilla
+hard of hearing
+public health service
+delusion of persecution
+school health program
+squamous cell carcinoma
+blood coagulation time
+lingual arch appliance
+idiopathic glossopharyngeal neuralgia
+manual artificial respiration
+inferior nasal concha
+half value layer
+cause of disease
+giant cell tumor
+dental health education
+unsaturated fatty acid
+compound action potential
+langhans giant cell
+corpus luteum hormone
+powder liquid ratio
+congenital heart disease
+biological false positive
+external auditory meatus
+undifferentiated mesenchymal cell
+breath holding time
+infected root canal
+progressive muscular dystrophy
+sodium fluoride solution
+comprehensive medical care
+free fatty acid
+medical examiner system
+polyostotic fibrous dysplasia
+basal cell carcinoma
+blood coagulation factor
+prickle cell layer
+dental caries prevention
+maximal breathing capacity
+monoamine oxidase inhibitor
+incompatible blood transfusion
+granular cell myoblastoma
+purpuric drug eruption
+total body water
+absolute refractory period
+circulating blood volume
+cumulative survival rate
+dental health care
+relative biological effectiveness
+high voltage radiography
+mean survival time
+mixed venous blood
+di guglielmo syndrome
+double blind method
+emission spectrochemical analysis
+lateral spinothalamic tract
+maximum biting force
+recurrent nerve paralysis
+reticular activating system
+bone marrow death
+chronic myelocytic leukemia
+fluorescent antibody technique
+logarithmic growth phase
+public health administration
+site of action
+solitary bone cyst
+stratified squamous epithelium
+cerebral metabolic rate
+double blind test
+electron spin resonance
+enteropathogenic escherichia coli
+essential amino acid
+mean blood pressure
+occlusive dressing therapy
+pharmaceutical affairs law
+cervical lymph node
+citric acid cycle
+electron transport system
+genetically significant dose
+maximum oxygen intake
+pain producing substance
+passive cutaneous anaphylaxis
+pulmonary diffusing capacity
+buccal fat pad
+congenital ectodermal dysplasia
+mean arterial pressure
+oral microbial flora
+relative refractory period
+renal blood flow
+alveolar bone resorption
+duration of action
+hemagglutination inhibition test
+maximal expiratory flow
+particle size distribution
+administration of drug
+broad antibacterial spectrum
+cerebellopontine angle tumor
+lactic acid bacteria
+scanning electron microscope
+thin layer chromatography
+tungsten carbide bur
+central nervous system
+congenital rubella syndrome
+hydrocolloid impression material
+linear energy transfer
+second order reaction
+autonomic nervous system
+ion exchange chromatography
+physically handicapped person
+reduced enamel epithelium
+sterile distilled water
+superior nasal meatus
+virus neutralizing antibody
+mnss blood group
+atomic absorption spectrophotometry
+blood coagulation inhibitor
+carcinoma in situ
+cerebral blood flow
+chronic lymphocytic leukemia
+colloid osmotic pressure
+spinal cord injury
+total lung capacity
+ventilation perfusion ratio
+viable cell count
+head of mandible
+new drug application
+total lung volume
+total peripheral resistance
+corticotropin releasing factor
+forced expiratory volume
+iron deficiency anemia
+side effect information
+vitamin k deficiency
+well differentiated carcinoma
+rh blood group
+amino acid sequence
+gastric emptying time
+idiopathic thrombocytopenic purpura
+intravenous drip infusion
+maximum oxygen uptake
+systemic blood pressure
+day care center
+peripheral nervous system
+pulmonary blood flow
+basal cell layer
+central venous pressure
+drug metabolizing enzyme
+floor of mouth
+prospective cohort study
+root canal irrigation
+saturated fatty acid
+abo blood group
+chronic renal failure
+essential fatty acid
+mandibular nerve block
+clinical laboratory test
+cytochrome c oxidase
+glycogen storage disease
+health care industry
+herpes simplex virus
+mixed lymphocyte reaction
+ventricular function curve
+lewis blood group
+acinic cell tumor
+acute lymphocytic leukemia
+cell surface antigen
+effective atomic number
+excitatory postsynaptic potential
+giant cell granuloma
+radical neck dissection
+agar impression material
+amorphous calcium phosphate
+angle of mandible
+aromatic amino acid
+end tidal air
+forced vital capacity
+low density lipoprotein
+maximum diastolic potential
+metabolic bone disease
+oxygen dissociation curve
+peripheral vascular resistance
+potentially lethal damage
+premature ventricular contraction
+protein synthesis inhibitor
+simple bone cyst
+bundle branch block
+classical complement pathway
+colony stimulating factor
+poorly differentiated adenocarcinoma
+root surface caries
+amyotrophic lateral sclerosis
+blood coagulation system
+cell surface marker
+colony forming unit
+high density lipoprotein
+pulmonary function test
+suppressor t cell
+viral capsid antigen
+acute pseudomembranous candidiasis
+killer t cell
+medical security system
+minimum inhibitory concentration
+primary health care
+progressive systemic sclerosis
+cytotoxic t lymphocyte
+inferior alveolar nerve
+inspiratory flow rate
+nerve growth factor
+obstructive pulmonary disease
+vocal cord paralysis
+autonomic temperature regulation
+blood alcohol concentration

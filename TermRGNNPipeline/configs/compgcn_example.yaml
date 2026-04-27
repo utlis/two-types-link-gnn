@@ -1,0 +1,43 @@
+run_name: compgcn_complex_100
+data_dir: data
+ngram: all
+domains:
+  - Agriculture
+  - Computer
+  - Dentistry
+  - Physics
+
+use_embedding: false
+embedding_path: data/cc.en.300.bin
+seed: 42
+
+negative_sampling:
+  seed: 42
+  ratio: 1
+  hard_mode: mixed
+  corrupt_mode: both
+
+training:
+  epochs: 100
+  eval_every: 10
+  seed: 42
+  device: auto
+  encoder: compgcn
+  decoder: complex
+  compgcn_composition: mult
+  hidden_dim: 64
+  embedding_dim: 32
+  lr: 0.01
+  lr_scheduler: false
+  save_final_model: false
+
+postprocess:
+  cutoff: 5
+  use_trained_dataset: true
+  shortest_only: true
+  reconstruction_mode: predicted_term_links
+  include_predicted_negatives: false
+  composition_from_test: false
+
+outputs:
+  root: TermRGNNPipeline/runs

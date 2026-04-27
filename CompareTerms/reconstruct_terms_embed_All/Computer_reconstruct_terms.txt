@@ -1,0 +1,535 @@
+abort
+abstract data
+ac
+access
+ada
+address bus
+addressing
+algebraic code
+algebraic system
+alignment
+alphabet
+analogy
+application management
+application system
+approximation algorithm
+archive
+area code
+argument
+arm
+array
+assembly program
+asynchronous system
+attachment
+attribute value
+automatic control
+automatic program generation
+availability
+available
+available time
+background image
+backup system
+base
+battery
+binarize
+binary code
+bipartite graph
+bipartite graph data generation
+bipolar
+bipolar transistor
+bit
+block code
+buffer memory
+bus
+bus system
+by pass
+capacitance
+carrier
+cassette
+cathode
+cathode ray
+ccitt
+central processing unit
+centralization
+cepstrum
+ceramics
+character processing
+characteristic distortion
+characteristic function
+chart
+check
+circuit
+clear
+clipping
+clone
+close
+closed loop
+coding theory
+color image
+color printer
+column
+combinational circuit
+commit
+common software
+communication channel
+communication interface
+communication processor
+compiler
+compiler generator
+compressed data
+computability
+computer game
+computer graphics
+computer security
+concurrent processing
+conditional entropy
+conductor
+constraint
+consultation system
+contradiction
+control block
+control instruction
+control program
+conversational interface
+converter
+cooperation
+coordinator
+correctness
+covariance
+covering
+cryptanalysis
+cryptography
+cybernetics
+cycle time
+data description language
+data description language processor bus system simulation model
+data evaluation
+data security
+data security management
+data segment
+data switching
+database schema
+decidable
+decimal
+declaration
+decode
+definition
+degradation
+delete
+derivation tree
+design rule
+design tool
+detach
+development system
+device
+dft
+diagnostics
+dialog
+diaphragm
+digit
+digital network
+digital servo
+digital transmission
+digitalization
+direct method
+discharge
+discrete
+disk file
+dispatcher
+dispatching
+displacement
+display unit
+divider
+division
+document file
+document retrieval
+dos
+driver
+dual port
+duplication
+dynamic memory
+dynamic optimization
+dynamic system
+ecma
+educational technology
+effective time
+egi
+electric charge
+electrical network
+electronic file
+electronic signature
+energy function
+entropy coding
+equipment failure
+etching
+ethernet
+euclidean algorithm
+exclusion
+exponent
+extended storage
+extract
+fading
+failure rate
+fcc
+feed
+feedback control
+feedback loop
+feedforward control
+fibonacci search
+flash memory
+flight simulation
+flow
+fluctuation
+focusing
+font
+formant
+frequency modulator
+fundamental frequency
+fuzzy logic
+fuzzy system
+gateway computer
+gaussian noise
+generation
+gks
+glossary
+graphic data
+graphics
+graphics workstation
+halting problem
+hardware
+hardware monitor
+harmonics
+hash
+hashing algorithm
+header
+hermite interpolation
+heuristic search
+hold
+holography
+huffman coding
+human communication
+hunting
+id
+identifier
+identity mapping
+image data
+image memory
+import
+imprint
+inclusion
+increment
+indexing
+indirect
+information channel
+information transfer
+input
+inquiry
+instance
+integrated software
+integrated system
+integrator
+intellectualization
+interleave
+intermediate representation
+internetworking
+interruption
+inverter
+item
+iteration method
+jitter
+join dependency
+justify
+kana
+keyboard
+language
+language design
+language processor
+laplacian
+laser
+layout design
+leaf
+learning
+lexicographic order
+library function
+limit
+line control
+linear
+linear interpolation
+literal
+load distribution
+loading
+locator
+lock
+locking
+log
+logic element
+logic operation
+logical structure
+longitudinal recording
+look up table
+loosely coupled
+loss
+lower bound
+machine cycle
+machine translation
+machine translation system
+macro instruction
+magnetic circuit
+magnetic film
+magnitude
+main memory
+main process
+mainframe computer
+maintenance free
+mantissa
+mapper
+mapping
+mask pattern
+matching method
+mathematical programming
+med
+median filter
+mesh
+microcomputer
+minimum distance
+modeling
+modular architecture
+modulus
+moment
+monitor
+morphological
+mta
+multilayer board
+multimedia database
+multiple computer graphics system
+multiprocessor system
+network architecture
+network operation
+node processor
+nonvolatile storage
+notation
+numeration
+numeric data
+numerical
+office automation
+one chip
+one shot
+operand
+operating point
+optical head
+ordered set
+organization
+orthogonality
+oscillator
+output buffer
+output data
+overload
+ownership
+packaging design
+pade approximation
+panning
+parallel programming
+parallel search
+pass
+passivation
+patent
+pcm
+pfm
+phase jitter
+photodetector
+photometric stereo
+piezoelectric device
+pipeline
+pipeline processing
+pipelined architecture
+pitch
+plot
+polynomial
+power unit
+predefined
+predicate logic
+print head
+priority control
+private network
+probabilistic algorithm
+production system
+program maintenance
+programming environment
+projection
+prompt
+propagation delay
+protection
+prototype model
+ps
+quantifier
+quantization error
+quantum
+random
+randomized algorithm
+randomness
+rank
+rapid control instruction processor bus system
+raw data
+reachable
+read out
+reconstruction
+recording head
+recovery time
+recursive program
+reference
+reflection
+relational operation
+relative order
+reliable
+remote diagnosis
+remote education
+reset
+resolution
+resolution principle
+resource
+response
+restriction
+retrieval
+retrieval system
+retry
+risk management
+roll
+rounding error
+router
+routing
+rs
+running time
+scalar
+scaling
+scan
+scanning method
+screen
+scrolling
+search algorithm
+secondary memory
+secretary
+section
+security class
+security management
+selecting
+semantic analysis
+semantic representation
+semantics
+semantics description
+semiconductor chip
+sense
+separation
+sequence
+sequential control
+server
+service
+service quality
+shading
+shift
+shrinking
+signature
+simplification
+simulation model
+simulation program
+skew
+skip
+smoothing
+sna
+software component
+sorter
+source document
+source level
+space
+specification
+specifications
+speech spectrum
+spindle
+spline
+stability
+standard file
+standard procedure
+standardization
+standby
+static memory
+static ram
+status
+steady state
+stereoscopic vision
+still image
+stochastic
+stop condition
+storage space
+stress
+stripe
+subscriber
+subscript
+subspace
+substitution
+supervisor
+switch
+switching
+synchronous system
+syndrome
+syntax tree
+system
+system management
+system manager
+system simulation
+tandem system
+task
+telemeter
+text editing
+text editor
+text manipulation
+text processing
+think tank
+timer
+to dispatch
+to transcribe
+to translate
+tool
+total system
+trace
+trademark
+transducer
+transformer
+transition system
+translation
+transmission
+transmission line
+transmission line control instruction processor bus system
+transmitter
+transpose
+trap
+tree
+trigger
+tss
+tuning
+typesetting
+ui
+uncertain knowledge
+uncorrelated
+undirected graph
+unix
+unknown pattern
+unnormalized relation
+update
+user management
+video recording
+virtual circuit
+virtual circuit data description language processor bus
+virtual disk
+virtual space
+vocal cords
+voicing
+vt
+walk through
+wavelength
+weight function
+windowing
+word
+word dictionary
+word recognition
+workstation
+zero element
+zoning

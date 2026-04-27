@@ -1,0 +1,1053 @@
+stadium
+sausage
+satellite
+tumour
+tensiometer
+thymus
+variability
+tetraploidy
+atomization
+actinomycetes
+caliper
+aquatic
+allophane
+biotin
+centrifugation
+cohesion
+deletion
+cytology
+devernalization
+degradation
+f1
+fetus
+eyeball
+habitat
+inactivation
+inducer
+lysine
+matrix
+mannose
+meristem
+mutant
+marketability
+pairing
+phenylalanine
+proline
+sclerotium
+vanillin
+transect
+calorie
+blastula
+bovine
+betaine
+bifurcation
+anticoagulant
+cannibalism
+albedo
+cancer
+albinism
+catalase
+amylase
+conformation
+chymotrypsin
+ecg
+cysteine
+conifer
+glycolysis
+gestation
+esterase
+granulosa
+endocrine
+enzyme
+histidine
+leukemia
+hyperplasia
+hybrid
+isoleucine
+linkage
+interaction
+oxidase
+otolith
+photosynthesis
+phosphatase
+sourness
+zonality
+terpene
+thermocline
+vector
+trafficability
+antigen
+carotenoid
+autotrophic
+clone
+desalinization
+depolarization
+chip
+dehydrogenase
+fibrinogen
+fragipan
+erythrocyte
+genetics
+endoparasitism
+environment
+landmark
+lactose
+kinetics
+inhibitor
+heterozygote
+hypoxanthine
+hormone
+heterozygous
+malformation
+marker
+microbiology
+precursor
+pvc
+photoperiod
+phytotoxicity
+parameter
+sorbitol
+spermatogenesis
+regression
+viviparity
+threonine
+truncation
+anthocyanin
+aggregation
+antibody
+biometry
+aquifer
+attractant
+aerosol
+biosynthesis
+activation
+dominance
+eclosion
+chromosome
+convolution
+diabetes
+dispersibility
+coding
+dummy
+disinfectant
+compatibility
+eubacteria
+evapotranspiration
+fluorescence
+lipid
+homozygous
+interphase
+immunology
+imidazole
+isopropanol
+microspore
+morphology
+multiparous
+mitochondrion
+reflectivity
+phylogeny
+specificity
+skewness
+sector
+senescence
+repeatability
+tyrosine
+transplantation
+acclimation
+autosome
+bioassay
+anaerobic
+broadcaster
+bacteriophage
+adjuvant
+catabolism
+dewatering
+desorption
+collagen
+ecology
+haploid
+gametogenesis
+gliadin
+electrophoresis
+fetlock
+haylage
+endotoxin
+heterogeneity
+hypotrophy
+implantation
+ld50
+mudflow
+nipple
+microflora
+oogenesis
+myoglobin
+plinthite
+permeation
+ovine
+sublethal
+replicates
+taurine
+substrate
+sensilla
+taxonomy
+toxoplasmosis
+translocation
+aroma
+absorbance
+chlamydospore
+diploidy
+composting
+fibrillation
+fragmentation
+epiphytic
+humification
+heritability
+hypocotyl
+intravenous
+lysolecithin
+microstructure
+modifier
+myosin
+lysozyme
+microorganism
+nucleotide
+microclimate
+promoter
+photosynthate
+taxon
+syncytium
+sensillum
+replication
+salmonellosis
+statistic
+toxicity
+throughput
+villus
+transparency
+clonal
+cip
+creatinine
+degreening
+glutathione
+foregut
+eutrophic
+greening
+eggshell
+gene
+karyotype
+hypersensitivity
+interferon
+heterotrophic
+humidifier
+landslide
+olfaction
+predation
+pesticide
+plastid
+subadult
+rheology
+renin
+sibling
+yarder
+atp
+aerobic
+butanediol
+aneuploid
+cytogenetics
+chloroplast
+conidium
+dialysis
+cytochrome
+germinability
+feedback
+exogenous
+endogenous
+homogenization
+lysimeter
+morbidity
+ontogeny
+node
+morphogenesis
+micelle
+pseudotuberculosis
+polypeptide
+pretreatment
+postnatal
+osmosis
+proliferation
+polysome
+polyphyletic
+repressor
+subculture
+simulation
+viability
+aftermath
+auxotroph
+bacteriocidal
+ciguatera
+deodorant
+diarrhea
+covariance
+dbh
+embedding
+herbicide
+mycoplasma
+neuron
+predator
+stepladder
+windbreaking
+transcription
+autecology
+acidosis
+anestrus
+basidiomycetes
+disinfection
+ecotype
+cultivar
+epidemiology
+hypoplasia
+incubator
+introgression
+mesophyll
+piglet
+porcine
+syndrome
+symbiont
+ribosome
+viscoelasticity
+allopolyploidy
+biopsy
+carcinogen
+bivoltine
+activator
+chemotherapy
+exotoxin
+groundwater
+eutrophication
+gluconeogenesis
+irradiance
+hydrophobic
+oligotrophic
+obesity
+mutagen
+particleboard
+pedogenesis
+pectinase
+organelle
+retinol
+revertant
+serotype
+advection
+anorexia
+amylogram
+aflatoxin
+carboxylase
+contraception
+enterotoxin
+gonadotropin
+hybridization
+mf
+ploidy
+peroxidase
+prenatal
+polyphenol
+overgrazing
+peptidase
+outcrossing
+pseudogamy
+peptide
+symbiosis
+sweetener
+subclinical
+symbiotic
+transmissivity
+template
+biotype
+biosphere
+constipation
+euploid
+gnotobiote
+fibroin
+exocrine
+infertility
+heterochromatin
+metabolite
+operon
+mixoploidy
+neonate
+postpartum
+pollutant
+organogenesis
+polymorphism
+pathogen
+salinization
+thrombocyte
+tethering
+allele
+antibiosis
+denitrification
+delimbing
+cleanup
+chemostat
+enterobacteria
+glycolipid
+estrogen
+genotype
+homology
+immobilization
+immunoglobulin
+nulliparous
+oocyte
+lipoprotein
+mycorrhiza
+overfishing
+photoperiodicity
+suppressor
+volatility
+ultrafiltration
+tourism
+anovulation
+booting
+cathepsin
+ecosystem
+dechlorination
+dna
+entomophily
+embryogenesis
+hydrophilic
+histogram
+radioimmunoassay
+protease
+caffeine
+biomass
+ascomycetes
+carcinogenicity
+actin
+foredune
+glucomannan
+heterozygosity
+hydroponics
+micromorphology
+phenology
+randomization
+receptor
+surfactant
+carotene
+aspergillosis
+bolus
+chemotaxis
+chevon
+embryoid
+genome
+glycoprotein
+kurtosis
+lectin
+homeostasis
+pheromone
+plasmon
+rhizosphere
+speciation
+aquaculture
+andosol
+dystocia
+ionophore
+histopathology
+leafminer
+micronutrient
+phagocyte
+superovulation
+saltiness
+totipotency
+intercropping
+mycotoxin
+mutagenicity
+mutagenesis
+pollinator
+phytotoxin
+phenotype
+propagule
+subtype
+teasing
+viroid
+monophyletic
+plasmid
+reelability
+parasitoid
+biodegradation
+aerenchyma
+cloning
+flavonoid
+nucleocapsid
+segmentation
+yoghurt
+amyloid
+allelopathy
+codon
+chemoautotroph
+ligase
+biodegradability
+dripped
+recombinant
+ectoparasitism
+enantiomer
+caramel
+bc1
+hydrophobicity
+mollisol
+ultisol
+biotechnology
+inceptisol
+pseudogene
+pathotype
+scp
+vernalization
+agroecosystem
+photosensitizer
+transduction
+hydrophilicity
+transfection
+bioreactor
+basidiocarp
+macronutrient
+antioxidant
+bacteriocin
+heterophagy
+chlorella
+flavedo
+defrosting
+kefir
+imogolite
+glucosamine
+lycopene
+photorespiration
+peptidoglycan
+phosphorylase
+enterotoxemia
+antigenicity
+pentose
+ecdysis
+androgenesis
+polygene
+isozyme
+autolysis
+exodermis
+phytochrome
+cytokinin
+goethite
+inosine
+hexaploid
+methionine
+tetraploid
+ecdysone
+homoeologous
+phototaxis
+biological production
+biological concentration
+chemical mutagen
+continuous selection
+culled chicken
+current shoot
+cultivation techniques
+electron acceptor
+flag leaf
+flower picking
+flower induction
+forest floor
+generation interval
+land subsidence
+lunar age
+mixed cropping
+multiple resistance
+multiple cropping
+native species
+nitrogen fixation
+organic fertilizer
+oral inoculation
+photosynthetic bacteria
+redox potential
+ridge side
+rice grain
+ribosomal rna
+rural development
+tidal flat
+tropical forest
+wild type
+windbreak forest
+yield potential
+birth weight
+cell differentiation
+common wheat
+diameter distribution
+eluvial horizon
+energy budget
+energy metabolism
+environmental pollution
+exotic species
+food chain
+ground skidding
+heart rate
+home range
+hypersensitive reaction
+interrow space
+internode elongation
+key factor
+milk replacer
+molecular biology
+monozygotic twins
+opportunity cost
+physiological disorder
+plant vigour
+processed food
+rain damage
+random number
+removal method
+reproductive growth
+resistant rootstock
+screening test
+selection intensity
+selective medium
+snow damage
+soil property
+steering wheel
+threshold value
+tip drying
+trace element
+travel reduction
+water uptake
+agricultural waste
+anaerobic fermentation
+aspect ratio
+carbon assimilation
+chilling injury
+clutch size
+cover culture
+dehydroascorbic acid
+food policy
+fruit vegetables
+gel electrophoresis
+genetic variance
+genetic information
+genetic variability
+genotypic value
+green revolution
+growth promotion
+insect resistance
+intragenic recombination
+land productivity
+life form
+maternal effect
+net energy
+nitrogen cycle
+paddy soil
+population size
+population dynamics
+rapeseed meal
+regional agriculture
+selection pressure
+slurry injector
+soil amelioration
+soil amendment
+soilless culture
+stand type
+thyroid hormone
+anaerobic bacteria
+application amount
+black tea
+chisel plow
+coat protein
+crop science
+electron transport
+feed ingredient
+genetic gain
+growth regulator
+ketone body
+land evaluation
+linear regression
+multivariate analysis
+organochlorine pesticide
+plant length
+reproductive isolation
+rice hull
+rooting zone
+secondary structure
+segregating population
+sewage sludge
+soil microorganism
+solution culture
+thickening growth
+acute toxicity
+additive gene
+adventitious bud
+boot stage
+brush cutter
+catadromous fish
+cell fusion
+dominance hierarchy
+environmental variation
+exponential growth
+feeding speed
+fertilizer injection
+fermented milk
+floating rice
+frequency table
+full sib
+genetic background
+green manure
+groundwater table
+infrared drying
+inorganic fertilizer
+insecticidal activity
+intermediate stock
+interspecific competition
+japanese encephalitis
+mass balance
+mating type
+metabolic pathway
+null hypothesis
+pesticide applicator
+pesticide spray
+plant community
+piston flow
+population genetics
+protection forest
+remote sensing
+root nodule
+sex discrimination
+sex hormone
+soil salinity
+substitution line
+systemic infection
+water activity
+yield component
+absorbing root
+adult tree
+aggregate structure
+batch culture
+blood glucose
+cell cycle
+cell culture
+circadian rhythm
+cumulative temperature
+environmental conservation
+extracellular enzyme
+foam stability
+fluid fertilizer
+grazing intensity
+ice cream
+land readjustment
+luteinizing hormone
+microbial degradation
+mulberry field
+newcastle disease
+rice transplanter
+salt tolerance
+seedling age
+sex determination
+soil component
+somatic cell
+subclinical mastitis
+temperate forest
+upland farming
+water deficit
+accumulated temperature
+artificial selection
+bacterial leaching
+berry drop
+biosynthetic pathway
+cluster analysis
+differential species
+disease susceptibility
+food microbiology
+food ingredient
+fruiting body
+functional property
+gene pool
+genome constitution
+lethal gene
+minor gene
+nitrification inhibitor
+nuclear transplantation
+pathogenic fungus
+pest resistance
+plasma membrane
+restoring gene
+root hair
+salinity tolerance
+secondary tuber
+seed storage
+subsurface soil
+vinyl house
+yield prediction
+big baler
+calving number
+cone index
+detection limit
+digestive enzyme
+drip irrigation
+fertilizer response
+flower bed
+food web
+fruit skin
+gene dosage
+germination test
+grain filling
+infection cycle
+intrarow spacing
+jar fermentor
+nutrient uptake
+organophosphorus pesticide
+planting density
+replacement rate
+root vegetables
+seed soaking
+selection criteria
+seed presoaking
+seed contamination
+sex pheromone
+shoot blight
+target organ
+transect method
+wound infection
+aseptic filling
+cell line
+chilling requirement
+damage analysis
+environmental assessment
+external fertilization
+gene interaction
+gene locus
+genotypic variance
+genetic heterogeneity
+infrared heating
+japanese quail
+management plan
+maternal inheritance
+oral infection
+pathogenic bacterium
+performance test
+recessive mutation
+roll baler
+rural households
+suppressive soil
+air permeability
+aggregated distribution
+bark compost
+blood type
+cold chain
+cold upland
+cocoon shell
+embryo culture
+food irradiation
+fruit cracking
+fruit bunch
+ground seedbed
+habitat segregation
+harvest index
+nature conservation
+phenotypic variance
+plant phenology
+pruning machine
+rice cropping
+solar drying
+substrate mycelia
+tilt angle
+transmission rate
+electric fence
+germination speed
+key species
+killer yeast
+multiple factors
+quality inspection
+root tuber
+statistical genetics
+barnyard millet
+borna disease
+breeding objective
+forma specialis
+front yard
+meteorological disasters
+sesame oil
+variance component
+brown rice
+carbon cycle
+coronal root
+overall application
+paddy farming
+protoplast fusion
+snack food
+abomasum displacement
+antimicrobial activity
+anther culture
+compression wood
+control threshold
+food safety
+infection route
+locational conditions
+microbial control
+restriction enzyme
+reverse mutation
+transplanting culture
+wild relatives
+aggregation pheromone
+gene bank
+genetic resource
+heterosis breeding
+kuroboku soil
+recombinant dna
+selection efficiency
+soil pore
+void ratio
+wind pollination
+anaerobic respiration
+gene engineering
+monoclonal antibody
+snow endurance
+upland cropping
+allogamous plant
+barrier method
+enzyme electrode
+forest age
+gene manipulation
+gene amplification
+growth factor
+isogenic line
+phenotypic selection
+root box
+segregation distortion
+aerobic respiration
+barn cleaner
+exchangeable base
+fish sauce
+food dye
+gene expression
+genetic parameter
+greenhouse effect
+interannual variation
+leaf curl
+mutation site
+ovule culture
+rib eye
+seeding density
+black rice
+floral organ
+linkage map
+necrotic spot
+registered variety
+regulator gene
+spherical virus
+storage disorder
+chromosome addition
+marker gene
+pause day
+artificial grassland
+eyed egg
+fog machine
+gene analysis
+phylogenetic tree
+rotational application
+salty wind
+contract farming
+excess sludge
+flowering regulation
+livestock barn
+genome analysis
+multiple genes
+upland irrigation
+hourly precipitation
+livestock waste
+reproductive disorder
+rice starch
+lethal factor
+microbial pesticide
+scented rice
+soybean flour
+protected horticulture
+coagulating agent
+dew condensation
+combined pollution
+freezing resistance
+node order
+power tiller
+common millet
+mineral deficiency
+working performance
+back mutation
+sex control
+poisson distribution
+sexual cycle
+wood nematode
+clonal line
+concentration polarization
+growth respiration
+storage tissue
+differential host
+net photosynthesis
+fabricated food
+pollen culture
+heat insulation
+recurrent selection
+uronic acid
+immobilized enzyme
+type culture
+adsorbed water
+affinity chromatography
+elongation growth
+photosynthetic rate
+suspension culture
+glutamic acid
+intercellular space
+ionic strength
+optimum temperature
+oxygen electrode
+photosynthetic products
+photochemical reaction
+reynolds number
+ascorbic acid
+grazing pressure
+mitotic index
+tissue culture
+trypsin inhibitor
+cultivation method
+base saturation percentage
+mass transfer coefficient
+maximum likelihood method
+panicle formation stage
+rotational paddy field
+specific growth rate
+drying air temperature
+lactic acid fermentation
+african swine fever
+global solar radiation
+polyunsaturated fatty acid
+crop growth rate
+dry matter weight
+physiological fruit drop
+agricultural structure improvement
+cool temperate forest
+insect pest management
+minimum inhibitory concentration
+controlled atmosphere storage
+latent heat flux
+soil heat flux
+japanese black cattle
+pine wood nematode
+milk fat percentage
+paper disk method
+effective cumulative temperature
+farm land consolidation
+flower bud abscission
+outside air temperature
+specific leaf area
+basic vegetative growth
+diarrhetic shellfish poison
+excess moisture injury
+laminated veneer lumber
+principal component analysis
+raw silk percentage
+acceptable daily intake
+pine wilt disease
+inhibition of germination
+soy protein isolate
+flame ionization detector
+ground surface temperature
+limiting amino acid

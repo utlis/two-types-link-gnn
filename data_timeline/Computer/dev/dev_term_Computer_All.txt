@@ -1,0 +1,317 @@
+norm
+microwave
+phoneme
+polyhedron
+redundancy
+orthogonal
+rewrite
+staging
+tracking
+wavelength
+transducer
+vector
+access
+binaural
+array
+clone
+chip
+congruence
+domain
+cybernetics
+disjunction
+entity
+environment
+hierarchy
+itu
+isochronous
+kana
+network
+marker
+positioning
+parameter
+regression
+simulator
+scheduling
+semiconductor
+scalar
+simultaneity
+telemetry
+truncation
+trigger
+wafer
+bypass
+abort
+automaton
+associative
+convolution
+context
+coding
+dummy
+compatibility
+generic
+esd
+labelling
+iteration
+modulo
+maintainability
+monolithic
+polynomial
+raster
+pop
+orthogonality
+selectivity
+resource
+sector
+risk
+blinking
+cryptology
+concatenation
+digital
+computer
+eigenvalue
+generate
+inverter
+mib
+monotone
+programming
+packet
+subset
+scanner
+substrate
+subspace
+scan
+waveform
+thesaurus
+vlsi
+assembler
+ddr
+conversational
+demodulation
+constraint
+fsk
+ergodic
+enhancement
+format
+holography
+mig
+operand
+pci
+perceptron
+perspective
+retrieval
+throughput
+differentiator
+documentation
+correlator
+declarative
+fcc
+jcs
+latency
+manipulator
+morpheme
+mlp
+literacy
+queue
+preform
+subroutine
+schema
+subchannel
+syntax
+subsystem
+tutoring
+user
+chaining
+feedback
+laser
+jitter
+module
+node
+queuing
+programmer
+reflectance
+privacy
+portability
+color image
+color printer
+constant folding
+convex hull
+cost management
+data unit
+database system
+data path
+data structure
+deadlock detection
+description method
+digital communication
+disk access
+dynamic allocation
+engineering database
+engineering workstation
+error propagation
+facility management
+fault tolerant
+fault simulation
+file access
+fir filter
+function key
+game tree
+graphics workstation
+graphic processing
+handwritten characters
+hard disk
+hierarchical relation
+image understanding
+information loss
+integer programming
+integrated software
+interface card
+intermediate representation
+kana keyboard
+knowledge base
+knowledge engineering
+link protocol
+linear mapping
+network service
+nonlinear optimization
+numerical simulator
+optical disk
+parallel inference
+perpendicular recording
+pipelined architecture
+predicate logic
+production rule
+programming environment
+programming style
+programmable logic
+program file
+programming tool
+propositional logic
+protocol specification
+protocol converter
+protocol conversion
+query language
+recursive function
+recursive program
+relational operation
+relational algebra
+semantic network
+start point
+system architecture
+systolic array
+system call
+target language
+terminal emulator
+template matching
+type definition
+unit delay
+visual sensor
+access mechanism
+adaptive filter
+backward reasoning
+binary tree
+communication interface
+common software
+computer music
+concurrent programming
+conflict resolution
+connectionless type
+data segment
+data space
+data transformation
+database design
+database manipulation
+derivation tree
+direct manipulation
+dynamic hashing
+electrophotographic printer
+expert system
+forward reasoning
+functional language
+graphic library
+hierarchical model
+image information
+image sensor
+information technology
+information provider
+integrated database
+interrupt handler
+knowledge representation
+language processing
+laser diode
+laser disk
+memory density
+message passing
+nested loops
+optical switch
+package software
+parallel search
+parallel machine
+pattern matching
+physical log
+pointing device
+processing speed
+processor array
+register file
+regular expression
+remote diagnosis
+routing tag
+selection function
+semiconductor process
+source code
+speech recognition
+state assignment
+super computer
+system kernel
+token ring
+window system
+address translation
+arrival process
+attribute value
+binary image
+blackboard model
+compiler generation
+compile time
+common lisp
+conceptual diagram
+computer vision
+computer animation
+data type
+dialog conversation
+edge detection
+electronic dictionary
+electronic library
+equational logic
+evaluation function
+fault tolerance
+file server
+function call
+functional programming
+heuristic function
+inference engine
+kanji printer
+knowledge acquisition
+laser printer
+logic device
+logic programming
+matched filter
+memory sharing
+network management function
+parallel computation model
+pseudo random number
+pyramid data structure
+random access machine
+shared memory type
+virtual memory management
+adaptive digital filter
+electronic bulletin board
+remote procedure call
+remote sensing image
+round robin scheduling
+statistical pattern recognition
+data link layer
+higher order logic
+liquid crystal device
+massively parallel computer
+parallel processing algorithm
+random number generation
+standard data format

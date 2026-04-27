@@ -1,0 +1,918 @@
+abandonment of cultivation
+absorbance
+absorbed water
+absorbing ability
+acceptability
+acclimation
+acclimatization
+accommodation
+accuracy
+acidity
+activation
+active water
+adaptation
+additive
+adhesives
+adjustment
+adjuvant
+adult emergence
+aerial tuber
+aerobic bacteria
+aerobic fermentation
+aerobic respiration
+afforestation area
+aflatoxin
+agar
+age of tree
+agglutinin
+aggregated distribution
+agricultural insurance
+agroecosystem
+albino
+alimentary canal
+allopolyploidy
+allowance
+alternate pruning
+ammonium chloride
+anaemia
+anaerobic bacteria
+ancestor
+anchor
+andosol
+androecium
+annual change
+anoxia
+anther
+antibiosis
+antidote
+anus
+aperture
+apiculture
+aquaculture
+aquatic
+arable land
+arbor
+area
+arm
+artificial inoculation
+artificial pollination
+asexual reproduction
+aspect ratio
+aspergillosis
+assimilate
+attenuation
+attic
+autoxidation
+autumn cropping
+autumn plowing
+autumn sowing
+auxin
+available water
+avitaminosis
+background
+bactericidal activity
+bagging
+baiting method
+baking quality
+balk
+basal leaf
+batch
+bc1
+bean
+bearing tree
+bee
+beet pulp
+bending
+berry
+betaine
+biennial
+biodegradability
+biofuel
+biomass
+biotype
+birth rate
+bivoltine
+black rice
+blind
+blood pressure
+blooming
+blue stain
+body temperature
+boiling
+botulism
+boundary
+bread
+breakwater
+breeder
+bridging
+brix
+broad leaf
+broadcast seeding
+buccal cavity
+buckwheat
+budding time
+bunch
+burn
+burnt farming
+butt end
+butter
+cane
+carbonization
+carrying capacity
+cart
+casein
+catchment area
+cecum
+cellobiose
+cereal
+cereals
+chemical mutagen
+chevon
+chewing
+chlorella
+chromosome
+circulation type dryer
+cleavage
+climatic environment
+cloaca
+clonal line
+cluster
+cluster flowering
+coated fertilizer
+coding
+coffee bean
+cohesion
+cold hardiness
+cold tolerance
+coleoptile
+collapse
+combine
+common crop
+community
+compacting
+companion planting
+compatibility
+compatible
+concentrate
+conduit
+confidence interval
+configuration
+conidium
+consolidation
+constitution
+contamination
+control plot
+converter
+convulsion
+cooler
+coppice forest
+copra
+corona
+cow
+creatinine
+creek
+creeping
+crescent
+crest
+critical point
+cropping
+cropping season
+cropping type
+cross protection
+cross section
+crossing
+crown
+crude ash
+culm length
+cultivated soil
+cultivation
+culture medium
+cured meat
+cut flower
+cutting back
+cytology
+cytoplasm
+cytoplasmic inheritance
+dairy industry
+dam
+damage
+decay
+dechlorination
+deciduous forest
+deciduous fruit tree
+decline
+defecation
+deformity
+degumming
+denier
+deodorant
+desorption
+detached leaf
+detritus
+deuteromycotina
+development
+development plan
+development stage
+deviation
+diameter distribution
+diet
+diffusion
+digestibility
+digger
+diluent
+dilution
+discharge
+disease damage
+disease resistance
+disk
+dissemination
+dissipation
+distortion
+distribution pattern
+divergence
+diversified farm
+dna
+domestic animal
+dominant
+dough
+dressing
+dried food
+dripped
+drop
+drought
+dry season
+drying speed
+drying time
+dung pat
+duration
+dusting
+earliness
+earthing
+ecdysis
+ecesis
+ecological factor
+ecotype
+egg yolk
+elasticity
+emaciation
+embryogenesis
+emergence depth
+emissivity
+emulsifiability
+emulsifier
+endosperm
+endotoxin
+energy balance
+energy value
+enterotoxemia
+enzootic
+enzyme activity
+epistasis
+erythrocyte
+esophagus
+establishment
+estrus
+ewe
+excess
+excess sludge
+excess symptom
+exchangeable base
+exhibition
+exotic weed
+exotoxin
+extracellular enzyme
+fallow
+family
+family selection
+family size
+fancy plywood
+farm population
+farm products
+farmyard manure
+fast acting
+fat body
+feed rate
+feeder
+felt
+fibrillation
+fibrinogen
+field experiment
+field husbandry
+filament
+fillet
+filter paper
+first crop
+fish cake
+fixation
+flagellum
+flake
+flank
+flavonoid
+flock
+flood tide
+flour milling
+flowability
+flower cluster
+fluid fertilizer
+foliage plant
+foliation
+food chain
+food poisoning
+food policy
+forest fire
+forest zone
+fork
+formation
+formulation
+fragment
+free acid
+free energy
+freeze drying
+freezing
+freezing time
+fresh weight
+freshness
+frost resistance
+fructification
+fruit juice
+fruit tree
+fruiting habit
+furrow
+furrow sowing
+game
+geese
+genetic control
+genetic parameter
+genome analysis
+germinability
+germination ability
+gibberellin
+glasshouse
+gley
+gley soil
+globose
+glucosamine
+glue
+glutamic acid
+glutinous wheat
+glycogen
+glycoside
+goethite
+goiter
+good harvest
+gossypol
+grade
+grain
+grains
+granulation
+grassland development
+gravitational water
+grazing
+greenhouse
+greening
+groin
+growing
+growing period
+growth point
+guinea fowl
+gut
+ham
+handling
+hanging
+haploid plant
+harvesting stage
+haustorium
+heat
+heat exchanger
+heat resistance
+heater
+heeling in
+herbaceous
+herbaceous cutting
+herbicidal activity
+heterosis breeding
+heterozygosity
+hexaploid
+histology
+histopathology
+hive
+homeostasis
+homozygous
+hook
+horizon
+horse
+horticulture
+hull
+humid climate
+humin
+husking
+hybridization
+hydraulic gradient
+hydrophobicity
+hygiene
+hypersensitivity
+hypertrophy
+ice cream
+imago
+immaturity
+immersion method
+immunoglobulin
+imogolite
+inbred line
+inceptisol
+incorporation
+industrial crop
+industrial park
+infection cycle
+infectious disease
+infestation
+infrared drying
+infrared heating
+infrared radiation
+inhibiting
+inosine
+insecticidal activity
+insemination
+inspection
+intensive culture
+intensive farming
+intermediate
+intermediate host
+internode
+interstock
+intramuscular administration
+introgression
+invert
+iodine value
+irradiation
+isogenic line
+jointing
+keeping
+knob
+knocking
+lacquer
+lai
+land development
+land price
+land productivity
+land reclamation
+large water
+late planting
+late raising
+late ripening
+late wood
+lateral flower
+laterite
+lead
+leading variety
+leaf analysis
+leaf shape
+leafing
+leakage
+lethal factor
+levee
+light saturation
+lime
+lime nitrogen
+line selection
+liner
+liquid fertilizer
+liquid tank
+livestock
+livestock industry
+local market
+low tide
+luminosity
+lung
+lysimeter
+lysine
+macrobiotic seed
+maintenance
+male
+malformed fruit
+malt
+marbling
+mare
+margarine
+marine park
+mastication
+matrix
+mature seedling
+mayonnaise
+meal
+meat inspection
+medium ripening
+melanoidin
+membrane
+micelle
+microbe
+microbial control
+microspore
+milk beverage
+milk fat percentage
+milking
+milled rice
+minor gene
+mist
+mixing ratio
+moisture
+moisture percentage
+moldboard plow
+monophyletic
+monsoon
+montmorillonite
+mosaic
+mother plant
+mother tree
+motility
+mould
+moult
+mountain soil
+mudflow
+mulch
+multilocular
+multiple bud
+multiplication
+mutagen
+mycorrhiza
+nail
+narcotic
+native variety
+natural distribution
+natural forest
+natural hybrid
+nature conservation
+nectar
+nematode
+net energy
+newborn
+night temperature
+nipple
+nitrate respiration
+nitrogen assimilation
+nitrogen balance
+nitrogen fixation
+non fat milk
+normal curve
+nutritive value
+oocyte
+oogenesis
+opposite
+optimum temperature
+oral infection
+order
+ordinary rice
+organic acid
+organic fertilizer
+organophosphorus pesticide
+ovarian follicle
+ovary
+over sowing
+overripe
+overwintering
+oviduct
+packer
+painting
+palatability
+palea
+palm oil
+pan
+panicle weight type
+panting
+paralysis
+parasitism
+parenchyma
+parent
+partial correlation
+paste
+pasteurization
+peat
+pedogenesis
+peduncle
+peel
+pellet
+pentose
+percolation
+perianth
+periodicity
+persistency
+pesticide residue
+phosphatic fertilizer
+phosphorylase
+photolysis
+photosensitizer
+phyllotaxis
+physiological characteristics
+physiological isolation
+phytoalexin
+picking
+pigling
+piling
+pipeline
+piping
+pistil
+pith
+planter
+planting system
+plasticity
+plate culture
+ploidy
+plowed soil
+plowing in
+plumage
+podding
+podzolization
+polished rice
+pollinator
+polymerization
+polymorphism
+polypeptide
+pool
+poor land
+portable
+postmortem
+pot
+potassium silicate
+poultry
+powdered tea
+powdery mildew
+precooling
+preservatives
+pressing
+primary production
+primitive
+private garden
+processed food
+progenitor
+progeny test
+promoter
+protozoa
+pseudogene
+puffy fruit
+pulse
+pump
+pupa
+pupation
+pure forest
+purity
+pycnidium
+quarantine
+rack
+radiation
+rain damage
+rain forest
+rake
+random mating
+rapeseed meal
+raw milk
+recessive
+reed
+reelability
+refined oil
+regeneration
+regional planning
+registered variety
+rejuvenation
+renin
+renovation
+repeatability
+reproduction
+reproductive cell
+reproductive disorder
+reproductive stage
+respiratory system
+response
+resting cell
+resting place
+retarding
+reticulum
+return flow
+revertant
+rhizosphere
+rib eye
+ribonuclease
+ribosome
+rice mill
+rinsing
+rubber
+rubbing
+rumen
+rumination
+runoff
+safflower oil
+salinization
+salivary gland
+salmonellosis
+saltiness
+sample
+sampling
+sanctuary
+saprophyte
+sarcocarp
+saw
+scab
+scarification
+scavenger
+scion root
+scraper
+season
+seasoning
+secondary infection
+sediment yield
+seed box
+seed storage
+seeding time
+seedling age
+selection efficiency
+selective toxicity
+senescence
+separation
+septum
+serotype
+severity
+shade tree
+shearing
+shelf life
+shelter tree
+shocking
+shovel
+shrinkage
+sib
+sibling
+sick soil
+sieve
+silkworm larva
+silt
+site
+situation
+sizer
+skewness
+skidding
+slaked lime
+slaughter
+slaughter house
+smear method
+snack food
+snow damage
+soil culture
+soil disinfection
+soil pollution
+sole
+solubility
+sorting
+sowing bed
+specimen
+spice
+spike
+sporophore
+sport
+sporulation
+spray intensity
+stable
+stamp
+stamping
+stanchion
+stand
+standing
+staple
+starch sugar
+starvation
+stationary culture
+statistic
+steady flow
+steer
+sterility
+sternum
+stigma
+stock cattle
+stock seed
+storage tissue
+strain
+strangles
+straw
+stream
+strobile
+stunt
+stunting
+subacute toxicity
+subculture
+subcutaneous
+suberin
+submerging
+subterranean part
+succeeding crop
+successive application
+succinic acid
+suckering
+summer cropping
+surface culture
+surface sterilization
+surface water
+survival rate
+susceptibility
+symbiotic
+tablet
+tannin
+tapetum
+tdt
+tea garden
+temperate climate
+temperature control
+temporary storage
+terrace
+terrestrial
+tethering
+thawing
+theobromine
+thermal diffusivity
+thermostat
+thick white
+thinner
+thorax
+threshold value
+tibia
+tide
+till
+tiller
+tilt angle
+timber production
+tocotrienol
+top
+topdressing
+topical application
+tracheid
+traction
+tractor
+transient
+translocation
+transmission rate
+transpiration rate
+transpiration ratio
+transplanting culture
+tree height
+trench
+trencher
+trimming
+trimming machine
+triploid
+trochanter
+trough
+trunk
+tuber
+tuberous root
+tumour
+turbulence
+typhoon damage
+ulcer
+underdrainage
+unfertilization
+unripe
+upland irrigation
+upland rice
+uprooting
+urea
+uronic acid
+variability
+variation coefficient
+variegated
+variegation
+vegetable farming
+vegetation
+vigourous
+vine
+virulence
+viscosity
+vitality
+viviparity
+viviparous
+volatility
+volcanic ash soil
+volume
+volunteer
+vulva
+warmth index
+wart
+water content
+waxing
+waxy rice
+weeder
+weir
+wether
+wheat
+wheat cropping
+whole grain
+whorl
+wilting
+wilting point
+wind velocity
+winnowed paddy
+withering
+work system
+xylem
+yak
+yellow earth
+yellow sand
+yield potential
+yolk
+young fruit
+zymogen

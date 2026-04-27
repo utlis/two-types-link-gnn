@@ -1,0 +1,18 @@
+# Core scientific stack
+numpy
+pandas
+scikit-learn
+matplotlib
+networkx
+
+# Deep learning / graph neural network stack
+torch
+torch-geometric
+
+# Embedding and visualization utilities
+gensim
+pyvis
+
+# Config and developer tooling
+PyYAML
+ruff

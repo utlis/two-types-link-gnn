@@ -1,0 +1,499 @@
+abstract syntax
+access control
+access level
+access point
+active document
+adaptive routing
+address format
+adjacency
+adjacency matrix
+affine transformation
+algebraic multiplicity
+algorithm
+aliasing
+allocator
+appearance model
+application management
+application network
+approximation algorithm
+archive
+arithmetic coding
+artifact
+asynchronous circuit
+asynchronous communication
+asynchronous system
+authentication
+automorphism
+back propagation
+background image
+backoff
+backplane
+backtracking
+backup
+backward compatibility
+bidirectional
+binarize
+binary search
+binocular stereo vision
+bipartite graph
+bipolar
+block cipher
+bootstrap
+broadcast message
+browser
+byte
+byte code
+cache controller
+caching
+card reader
+cassette
+ccitt
+cdma
+cellular automaton
+cellular network
+cepstrum
+checkpoint
+child process
+chromaticity
+clustering
+codec
+coded image
+cognitive engineering
+cognitive model
+combinatorics
+commit protocol
+communication overhead
+communication protocol
+compressed data
+computability
+computational complexity
+computer game
+computerize
+concurrency
+conditional entropy
+connectionist model
+content retrieval
+conversational interface
+convolutional code
+coprocessor
+courseware
+covariance
+crosstalk
+cryptanalysis
+cryptogram
+cryptography
+cursor
+customize
+customizing
+data access
+data integration
+data model
+data modeling
+data protection
+data sharing
+database creation
+database schema
+datagram
+debug
+debugger
+debugging
+decidable
+decision tree
+declarative control logic
+declarative semantics
+decode
+decoder
+decoding
+decryption
+deductive database
+deontic logic
+descriptor
+desktop computer
+deterministic
+deterministic language
+diagnostics
+dialog
+digital signature
+digital television
+digitalization
+digitization
+digitize
+digitizer
+discretization
+discriminant
+distance transform
+distributed computing
+distributed memory
+dither method
+dma
+document management
+document structure
+downsizing
+downward compatibility
+dsp
+dynamic access
+ebcdic
+eigenvector
+electronic file
+ellipsis
+embedded system
+embedding
+emulator
+encapsulation
+encipherment
+encode
+encoder
+encoding
+encryption
+eniac
+entropy coding
+environmental model
+ergonomics
+estimation model
+ethernet
+expandability
+file format
+file sharing
+firmware
+flash memory
+floppy
+focusing
+font
+formal semantics
+fractal
+function design
+fuzzy control
+fuzzy logic
+fuzzy set
+fuzzy system
+gaas
+genetic algorithms
+geometric multiplicity
+glitch
+global
+global variable
+gps
+granularity
+graphics
+groupware
+hacker
+hamiltonian
+handy terminal
+hardware engine
+hardware resource
+hash
+hash function
+hash table
+hashing
+hashing algorithm
+hdlc
+heuristics
+hexadecimal
+highlighting
+histogram equalization
+hmm
+hologram
+holographic memory
+home automation
+hough transform
+hypergraph
+hypermedia
+hypertext
+icon
+identifier
+image sharpening
+implementation
+inequality condition
+information security
+information security management
+infrastructure
+initialization
+initialize
+instruction cache
+interactive
+interactive devices
+interface
+interleaving
+internet
+internetworking
+isdn
+jicst
+joystick
+kalman filter
+kanji
+kdd
+key class
+keyboard
+keyword
+keywords
+knowledge database
+language specification
+laplacian
+lexicon
+line search method
+load balancing
+machine learning
+macro
+mahalanobis distance
+manhattan distance
+markov model
+matroid
+maximum likelihood estimation
+mechatronics
+median filter
+medical image
+mega
+memory allocation
+memory architecture
+memory controller
+memory hierarchy
+menu
+mesh network
+message queuing
+metasymbol
+metrics
+mhz
+microcomputer
+microcontroller
+microprocessor
+microprogram
+microprogramming
+middleware
+minterm
+mirrored disk
+mobile communication
+modal logic
+modeling
+modularity
+modularization
+monitor
+monitoring
+multichip
+multimedia
+multimedia communication
+multimedia database
+multimicroprocessor
+multiple programming
+multiplexer
+multiplexing
+multiplication algorithm
+multipoint
+multiprocessing
+multiprocessor
+network address
+network architecture
+network buffer
+network model
+network path
+network protocol
+network resource
+network security
+network security management
+networking
+neural network
+neurocomputer
+newton method
+nfs
+node processor
+normalization
+normalize
+numeric
+object model
+octtree
+offline
+on site
+online
+online processing
+operability
+operational semantics
+optical flow
+optimal algorithm
+optimization
+optimization method
+optimize
+optimizer
+optoelectronics
+overwrite
+parallel programming
+parameterization
+parse tree
+parser
+parsing
+partitioning
+password
+pcm
+pfm
+phoneme recognition
+photodetector
+photodiode
+photometric stereo
+phototransistor
+piezoelectric device
+pipelining
+pixel
+plaintext
+poisson distribution
+polymorphic
+postprocessing
+pragmatics
+predefined
+preprocessing
+preprocessor
+primitives
+private network
+probabilistic algorithm
+probabilistic relaxation
+procedural knowledge
+process management
+processor
+processor management
+programmable
+programming paradigm
+protocol
+prototyping
+pushdown automata
+qualitative reasoning
+quantifier
+quantization
+quantization error
+quantizer
+query
+query processing method
+queue management
+quicksort
+randomized algorithm
+randomness
+reachable
+recognition ratio
+recursion
+remote access
+remote education
+restart
+reusable
+rewriting rule
+risk management
+robot
+robotics
+rollback
+router
+rpc
+scalability
+scheduling algorithm
+scrolling
+search algorithm
+search tree
+security level
+security management
+security technique
+segmentation
+semantic representation
+semantics
+semantics description
+semigroup
+sensor
+sequencing
+sequential circuit
+serializability
+serializable
+serialization
+server
+server process
+service quality
+shape model
+silicon valley
+simulation
+slotted aloha
+small business computer
+smalltalk
+snapshot
+software
+software component
+software engineering
+software tool
+sonagram
+source document
+source library
+space complexity
+spanning tree
+speaker recognition
+spline
+steady state
+steepest descent method
+still image
+stochastic
+stochastic programming
+stop condition
+structured
+student model
+subgoal
+subgraph
+submicron
+subprogram
+substring
+subtype
+svc
+swap
+swapping
+synchronization
+syndrome
+syntax analysis
+syntax rule
+system auditor
+tactile sensor
+telecommunication
+teleconference
+telematics
+telewriting
+template
+temporal logic
+text database
+text knowledge
+theorem prover
+threshold function
+tlb
+toner
+topology
+track pitch
+trademark
+transaction management
+transcription
+transition diagram
+transition system
+transponder
+turing machine
+ultrasonic wave
+uncorrelated
+undecidable
+undirected graph
+unix
+update
+usability
+user authentication
+user interface
+user management
+vectorization
+verifier
+version control
+video
+video data
+video game
+videotex
+viewdata
+virtual file
+virtual machine
+virtual set
+virtual space
+virtualization
+visual processing
+visualization
+vocoder
+voice mail
+voltage control
+vsam
+vulnerability
+window size
+windowing
+work memory
+working memory
+workstation
+zooming

@@ -1,0 +1,3837 @@
+aberration
+absorbance
+absorptiometry
+absorption
+absorptivity
+abundance
+ac
+acceleration
+accelerator
+accelerometer
+acceptance
+acceptor
+accommodation
+accuracy
+acoustics
+actinides
+actinometry
+activity
+adatom
+adc
+additive
+additivity
+adhesion
+adiabatic
+adjoint
+aerofoil
+aerosol
+affinity
+afterglow
+aging
+airfoil
+alignment
+allotrope
+allowance
+alloy
+am
+amorphous
+ampere
+amplification
+amplifier
+amplitude
+analysis
+analyticity
+analyzer
+anelasticity
+anion
+anisotropy
+anomaly
+antenna
+antiferromagnetism
+antimatter
+antioxidant
+antiresonance
+apodization
+are
+arm
+armature
+articulation
+association
+astigmatism
+astronomy
+astrophysics
+atmosphere
+atom
+atomizing
+attachment
+attenuator
+attraction
+autocollimation
+autoionization
+automaton
+azimuth
+backbending
+background
+baffle
+balance
+band
+bandwidth
+bar
+barrier
+baryon
+baryonium
+battery
+beam
+bearing
+becquerel
+bellows
+bending
+betatron
+bias
+bifurcation
+big-bang
+bimetal
+bioluminescence
+biopolymer
+biosensor
+biprism
+bit
+blanket
+blaze
+blistering
+blocking
+body
+boiling
+bolometer
+boson
+bracket
+breakdown
+breeder
+bremsstrahlung
+brightness
+brittleness
+buckling
+bunch
+buncher
+buoyancy
+calorimetry
+camber
+candela
+capacitance
+capacitor
+capillarity
+capture
+carrier
+catalysis
+cathode
+cation
+caustic
+cavitation
+cavity
+cell
+centrifuge
+channel
+channeling
+chaos
+charge
+charging
+charmonium
+chemisorption
+chimera
+chromaticity
+chromatography
+chuck
+circuit
+circulator
+cladding
+clamp
+cleavage
+coating
+coefficient
+coherence
+coherent
+coil
+collector
+collimator
+collision
+colloid
+coloring
+combustion
+comet
+commutator
+companion
+comparator
+compatibility
+compensation
+compensator
+completeness
+compliance
+compressibility
+compression
+computer
+condensate
+condensation
+condition
+conductance
+conductivity
+conductor
+configuration
+conjugate
+connection
+connector
+conoscope
+constraint
+contrast
+contravariant
+control
+convergence
+converter
+coolant
+coordinate
+coordination
+core
+corona
+coronagraph
+correction
+corrosion
+coset
+cosmology
+counter
+coupler
+coupling
+covariant
+crest
+criticality
+crowdion
+crucible
+cryopump
+cryostat
+crystal
+crystallite
+crystallography
+curie
+curl
+current
+curvature
+cut
+cut-off
+cycle
+damping
+database
+dc
+deactivation
+debye
+decay
+dechanneling
+decommissioning
+decuplet
+deduction
+dee
+deexcitation
+deformation
+degassing
+degeneration
+degree
+delay
+demodulation
+dendrite
+depolarization
+desorption
+detection
+detector
+detonation
+deuteron
+deviation
+devitrification
+diagonalization
+dialysis
+diaphragm
+dibaryon
+die
+dielectric
+diffraction
+diffractometer
+diffusion
+diffusivity
+digitizer
+dilatation
+dilatometer
+dilution
+diode
+diopter
+dipole
+disclination
+discriminator
+disintegration
+disorientation
+displacement
+dissipation
+dissociation
+dissolution
+distillation
+distortion
+distribution
+distributor
+divergence
+divertor
+donor
+doping
+dose
+dosimetry
+doughnut
+drag
+drain
+drawing
+dta
+duality
+ductility
+duopigatron
+duoplasmatron
+dwba
+dynamics
+dynamitron
+dynamo
+dyon
+earth
+eccentricity
+echelon
+echo
+efficiency
+eigenvalue
+eikonal
+elasticity
+electrification
+electrobalance
+electrode
+electroluminescence
+electrolysis
+electrolyte
+electromagnetics
+electrometer
+electron
+electronegativity
+electrostatics
+element
+ellipse
+ellipsometer
+ellipsometry
+elongation
+embrittlement
+emission
+emissivity
+emittance
+emitter
+emulsion
+encoder
+endor
+endothermic
+energy
+entanglements
+enthalpy
+entropy
+epitaxy
+equation
+equator
+equilibrium
+equivalent
+erg
+error
+esca
+etalon
+eutectic
+eutectoid
+ev
+evaporation
+event
+exafs
+excimer
+excitation
+exciton
+exergy
+experiment
+exposure
+extraction
+extrapolation
+extrusion
+eyepiece
+f-center
+fading
+failure
+falling
+fatigue
+feedback
+feedthrough
+fermi
+fermion
+ferrimagnetism
+ferroelasticity
+ferroelectrics
+ferromagnet
+ferromagnetism
+fibril
+fidelity
+field
+filament
+filter
+filtration
+finesse
+fission
+fixation
+fixer
+flashover
+flexibility
+flip-flop
+fluctuation
+fluid
+fluorescence
+fluxoid
+flywheel
+focusing
+fog
+force
+formula
+fractal
+fractionation
+fragment
+friction
+fringes
+frustration
+functional
+g-factor
+gage
+gain
+galaxy
+galvanometer
+gas
+gate
+gauge
+gauss
+generator
+geomagnetism
+geophysics
+getter
+gettering
+ghost
+gic
+gloss
+gluon
+gradient
+grain
+granularity
+granulation
+graviton
+gravity
+grid
+gyro
+gyroradius
+gyroscope
+gyrotron
+hadron
+hamiltonian
+hardness
+harmonics
+helicity
+helium
+heterodyne
+heterojunction
+heterostructure
+histogram
+hole
+hologram
+holography
+homodyne
+homogeneous
+homogenization
+homology
+homotopy
+howling
+humidity
+hybridization
+hydration
+hydraulics
+hydrodynamics
+hydrogen
+hydrolysis
+hypercharge
+hyperfunction
+hypernucleus
+hyperon
+hyperpolarizability
+hypersonic
+hypochromism
+hysteresis
+ic
+identity
+illuminance
+image
+impedance
+implosion
+imprisonment
+impulse
+impurity
+incoherent
+index
+indicator
+inelasticity
+inflector
+injector
+inlet
+input
+instanton
+insulation
+insulator
+intensity
+interaction
+intercalant
+interdiffusion
+interface
+interpolation
+invar
+invariance
+inverter
+ion
+ionization
+ionosphere
+irradiation
+irreducible
+irreversible
+iso
+isolator
+isomerism
+isoscalar
+isospin
+isotope
+jis
+junction
+k-absorption
+kelvin
+kerma
+kink
+klystron
+langmuir
+lanthanides
+laser
+latex
+lattice
+leak
+leed
+length
+lens
+level
+lifetime
+lift
+ligand
+light
+linac
+linearization
+liquidus
+lithography
+load
+loop
+loss
+loudness
+lsi
+luminance
+luminosity
+m-center
+macroscopic
+magnet
+magnetics
+magnetization
+magneto-optics
+magnetocardiogram
+magnetohydrodynamics
+magnetometer
+magneton
+magnetoresistance
+magnetorotation
+magnetosphere
+magnetron
+magnification
+magnon
+manifold
+manipulator
+manometer
+mapping
+maser
+mass
+matching
+matrix
+mbe
+mechanics
+medium
+mel
+melting
+meniscus
+meridian
+meson
+metallurgy
+metamagnetism
+meteor
+meter
+metric
+metrology
+micro-optics
+microcrystal
+micromagnetics
+micrometer
+microscope
+microspectrophotometry
+microtron
+mixture
+mobility
+mode
+modem
+moderator
+mole
+molecule
+moment
+monochromatic
+monochromaticity
+monochromator
+monochrome
+monolayer
+monopole
+motor
+multiplication
+multiplicity
+multiplier
+multipole
+muon
+muonium
+narrowing
+necking
+network
+neutral
+neutralization
+neutrino
+neutron
+nmr
+non-stoichiometry
+norm
+nova
+nozzle
+nucleation
+nuclide
+nutation
+observable
+observation
+octet
+octupole
+oligomer
+omegatron
+omnidirectional
+operation
+operator
+orbit
+ordinate
+orientation
+orifice
+orthonormality
+oscillation
+oscillator
+oscilloscope
+otf
+outgassing
+outlet
+overcurrent
+overload
+overshoot
+overtone
+overvoltage
+p-wave
+paracrystal
+paradox
+paramagnetism
+paramagnon
+parametron
+parity
+particle
+percolation
+perihelion
+peritectic
+permeance
+permittivity
+ph
+phantom
+phason
+phenomenology
+phonon
+phosphor
+phosphorescence
+photo-polymerization
+photocathode
+photoconduction
+photocurrent
+photodissociation
+photoelasticity
+photoelectron
+photoemission
+photoionization
+photoisomerization
+photomagnetism
+photometry
+photon
+photoproduction
+photoresist
+photosynthesis
+phototransistor
+physics
+piezoelectricity
+piezoresistance
+piezoresistor
+pinch
+pion
+plant
+plasma
+plasmon
+plasticity
+pointer
+polarimeter
+polariton
+polarizability
+polarizance
+polarization
+polaron
+polychromator
+polycrystal
+polyelectrolyte
+polymer
+polymorph
+polytype
+population
+porosity
+positronium
+potential
+potentiometer
+power
+pre-amplifier
+precession
+precipitation
+preinjector
+preionization
+pressure
+prism
+projectile
+projection
+propagator
+proton
+protostar
+prototype
+pseudomorphism
+pseudorapidity
+pseudoscalar
+pseudotensor
+pulse
+pumping
+pupil
+pyrometer
+q-branch
+qed
+quadrupole
+quantization
+quantum
+quark
+quartet
+quartz
+quasicrystal
+quasimolecule
+quasiparticle
+r-branch
+rad
+radar
+radian
+radiation
+radical
+radiolysis
+radiotherapy
+range
+rapidity
+ray
+reactance
+reaction
+reciprocity
+recombination
+recovery
+recrystallization
+rectification
+rectifier
+recurrence
+recursive
+reduction
+reflection
+reflectivity
+reflector
+refractometer
+regeneration
+register
+regularization
+relativistic
+relativity
+relaxation
+reliability
+reluctance
+rem
+renormalization
+replacement
+representation
+reproducibility
+resistivity
+resistor
+resolution
+resolvent
+resonance
+resonator
+response
+retardation
+retroreflection
+reverberation
+rheed
+rheogoniometer
+rheology
+rheometer
+rigidity
+ripplon
+roentgen
+rotation
+rotor
+roughing
+rule
+s-matrix
+saccharimeter
+saturation
+scalar
+scale
+scaler
+scan
+scatterer
+scattering
+scintillation
+scintillator
+screening
+second
+sedimentation
+segregation
+self-adjoint
+self-energy
+self-focusing
+semiconductor
+semimetal
+sensitivity
+sensitization
+sensor
+separation
+separatrix
+septet
+sequence
+series
+servomechanism
+servomotor
+sextet
+sextupole
+shadowing
+shake-up
+sharpness
+shield
+shift
+short-circuit
+shunt
+sieve
+signal
+silencer
+simulation
+simultaneity
+single-phase
+singularity
+sink
+skimmer
+skyrmion
+slip
+slit
+slope
+softening
+sol
+solidus
+soliton
+solute
+solution
+sonar
+sorption
+sound
+space
+space-charge
+space-like
+space-time
+spectrograph
+spectrometer
+spectrophotometer
+spectrophotometry
+spectroscope
+spectroscopy
+spectrum
+spheroid
+spherulite
+spicule
+spin
+spin-orbital
+spinel
+spinor
+spline
+squid
+stabilization
+stage
+standardization
+state
+static
+statics
+steady
+stoichiometry
+stokes
+straggling
+strain
+strangeness
+streamer
+streamline
+strength
+stress
+striation
+stroboscope
+structure
+sublattice
+sublimation
+subsonic
+substrate
+sunlight
+super-resolution
+superconductive
+superconductivity
+superconductor
+supercritical
+superfluid
+superfluidity
+superheating
+superleak
+supernova
+superparamagnetism
+superradiance
+supersaturation
+supersymmetry
+susceptance
+swelling
+swirl
+switch
+synchronization
+synchrotron
+synthesizer
+tachyon
+tacticity
+tagging
+tap
+target
+telescope
+tension
+tensor
+term
+terminal
+tesla
+tetrode
+tga
+theorem
+thermochromism
+thermocouple
+thermodynamics
+thermoelectron
+thermography
+thermoluminescence
+thermopile
+thermoplastic
+thermosetting
+thermostat
+throughput
+thrust
+thyratron
+thyristor
+tide
+time
+time-dependence
+time-like
+tld
+tolerance
+tone
+top
+torr
+torsatron
+tourmaline
+townsend
+trace
+track
+trajectory
+transducer
+transformation
+translation
+transmission
+transonic
+transverse
+trap
+travelling-wave
+tribology
+triboluminescence
+triode
+triplet
+tritium
+triton
+trough
+tuning
+twin
+ultramicroscope
+ultrasonic
+undershoot
+undulator
+unit
+universality
+universe
+vacancy
+valence
+valley
+vaporization
+velocity
+verification
+vertex
+vibrometer
+vierbein
+vignetting
+virial
+viscoelasticity
+vlsi
+volt
+volt-ampere
+voltammetry
+volume
+vortex
+wave
+weber
+weight
+wettability
+wiggler
+work
+yield
+zone
+γ-rays
+π-electron
+1/f noise
+a15 structure
+absolute configuration
+absolute rotation
+absolute temperature
+absorbed dose
+absorption coefficient
+absorption edge
+absorption probability
+absorption spectrum
+ac bias
+accelerating tube
+acceleration potential
+acceptor level
+accommodation coefficient
+accretion disk
+accumulation layer
+accumulation ring
+acoustic diffraction
+acoustic emission
+acoustic measurement
+acoustic mode
+acoustic transducer
+acoustic tube
+acoustical holography
+action potential
+action spectrum
+activation analysis
+activation energy
+activation volume
+active center
+active medium
+active power
+active transport
+adaptive control
+addition polymerization
+additional heating
+adiabatic approximation
+adiabatic compressibility
+adiabatic compression
+adiabatic demagnetization
+adiabatic expansion
+adiabatic invariant
+adiabatic potential
+adiabatic process
+adiabatic theorem
+adsorption isotherm
+adsorption structure
+adsorption time
+after effect
+aharonov-bohm effect
+air capacitor
+air temperature
+airy functions
+airy pattern
+alder transition
+alfven velocity
+alfven wave
+alkali metal
+allowed transition
+alternating current
+alternating voltage
+ambipolar diffusion
+amorphous semiconductor
+amplification factor
+amplitude analysis
+amplitude hologram
+amplitude modulation
+amplitude transmittance
+analog circuit
+analog signal
+analog switch
+analytic continuation
+analytic function
+analytic solution
+and circuit
+anderson transition
+angle variable
+angular acceleration
+angular correlation
+angular dispersion
+angular distribution
+angular frequency
+angular momentum
+angular velocity
+anisotropy constant
+anisotropy energy
+annihilation radiation
+anomalous diffusion
+anomalous transmission
+antibonding orbital
+antiferromagnetic resonance
+antiphase boundary
+antiphase domain
+antireflection coating
+aperiodic system
+aperture ratio
+aperture synthesis
+appearance potential
+approximate solution
+apw method
+aqueous solution
+arc characteristics
+arc discharge
+arc lamp
+arc spectrum
+arithmetic circuit
+arithmetic mean
+artificial satellite
+aspect ratio
+aspheric surface
+aspherical lens
+astrophysical plasmas
+asymptotic expansion
+asymptotic field
+asymptotic solution
+atomic beam
+atomic collision
+atomic core
+atomic nucleus
+atomic number
+atomic orbital
+atomic physics
+atomic polarization
+atomic weight
+attenuation coefficient
+attenuation constant
+attenuation length
+audible sound
+audio frequency
+auger effect
+autocorrelation function
+autoionizing state
+available energy
+avalanche effect
+average potential
+avoided crossing
+axial ratio
+axial vector
+azimuth polarimeter
+azimuthal angle
+b quark
+babinet compensator
+back flow
+background radiation
+backward diode
+bag model
+ballistic galvanometer
+ballooning instability
+band crossing
+band gap
+band model
+band spectrum
+band structure
+band system
+band-pass filter
+bare mass
+barkas effect
+base metal
+baxter model
+bcc structure
+beam analyzer
+beam extraction
+beam load
+beam monitor
+beam spectroscopy
+beam splitter
+beam stopper
+beam-plasma system
+beat frequency
+bell jar
+benard convection
+bending magnet
+bending moment
+bending strength
+bending vibration
+bernstein wave
+bessel function
+betatron oscillation
+bhabha scattering
+bias voltage
+biaxial crystal
+binary alloy
+bingham plasticity
+binomial distribution
+bitter pattern
+black body
+black hole
+blaze angle
+bloch function
+bloch wall
+block diagram
+block gauge
+blue shift
+bohm diffusion
+bohr magneton
+bohr radius
+boiling point
+boltzmann constant
+boltzmann distribution
+boltzmann equation
+boltzmann factor
+boltzmann statistics
+bond alternation
+bond angle
+bond distance
+bond length
+bonding orbital
+born approximation
+bose condensation
+bose-einstein condensation
+bound exciton
+bound state
+boundary lubrication
+bragg diffraction
+bragg reflection
+bragg-williams approximation
+branching ratio
+breeder reactor
+breit equation
+brillouin function
+brillouin scattering
+brillouin zone
+brody distribution
+broken symmetry
+brownian motion
+brs transformation
+buffer solution
+built-up films
+bulk modulus
+bulk strain
+burstein-moss effect
+bw state
+calibration curve
+canonical ensemble
+canonical equations
+canonical transformation
+capacitive reactance
+capillary tube
+carnot cycle
+carrier compensation
+carrier injection
+cartesian coordinate
+cascade connection
+cascade shower
+casimir operator
+cathode fall
+cathode spot
+cauchy problem
+cell membrane
+cell structure
+center-of-mass motion
+central mode
+central peak
+centrifugal distortion
+centrifugal force
+ceramic filter
+chain reaction
+chalcogenide glass
+chaotic motion
+characteristic curve
+characteristic function
+characteristic temperature
+characteristic vibration
+charge conjugation
+charge density
+charge distribution
+charge exchange
+charge symmetry
+charge-coupled device
+charge-transfer complex
+charged current
+charged particle
+charm quark
+chebyshev polynomial
+chemical balance
+chemical bond
+chemical equilibrium
+chemical shift
+cherenkov radiation
+cholesteric phase
+chromatic aberration
+chromaticity diagram
+ci method
+circular accelerator
+circular current
+circular dichroism
+circular method
+circular motion
+classical absorption
+classical groups
+classical mechanics
+classical physics
+clean surface
+cleavage surface
+clock paradox
+close binary
+closed circuit
+closed loop
+closed orbit
+closed tube
+cluster expansion
+coalescence model
+coarse graining
+coaxial cable
+coaxial resonator
+coexistence curve
+coherence factor
+coherence time
+coherent light
+coherent representation
+coherent scattering
+coherent state
+cohesive energy
+cohesive force
+coincidence method
+cold cathode
+cold plasma
+cold trap
+collective coordinate
+collective excitation
+collective model
+collective motion
+collective vibration
+colliding beam
+collision cascade
+collision chamber
+collision frequency
+collision rate
+colorimetric method
+combination tone
+commensurate structure
+compact torus
+compensation method
+complex amplitude
+complex center
+complex impedance
+complex number
+complex plane
+complex sound
+complex viscosity
+composite material
+composite particle
+compound semiconductor
+compressibility factor
+compressible fluid
+compression ratio
+compression wave
+compressive stress
+compton effect
+computer experiment
+computerized tomography
+concave lens
+concave mirror
+condensation coefficient
+condenser lens
+conducting fluid
+conduction band
+conduction electron
+confidence interval
+confidence level
+configuration mixing
+configuration space
+configurational entropy
+confinement time
+conformal transformation
+conical refraction
+conservation law
+conservative force
+conservative system
+conserved quantity
+contact angle
+contact interaction
+contact ionization
+contact potential
+contact problem
+contact resistance
+continuous group
+continuous spectrum
+continuous x-rays
+continuous-wave laser
+convective diffusion
+conversion ratio
+convex lens
+convex mirror
+cooling water
+cooper pair
+cooperative phenomenon
+coordinate representation
+coordinate system
+coordination number
+copper ratio
+core polarization
+coriolis force
+correlation analysis
+correlation coefficient
+correlation diagram
+correlation length
+correlation time
+corrosion resistance
+cosine law
+cosmic dust
+cosmological term
+cotton effect
+couette flow
+coulomb barrier
+coulomb gauge
+coupling coefficient
+coupling constant
+covalent bond
+cp invariance
+cp violation
+creeping flow
+critical angle
+critical assembly
+critical condition
+critical coupling
+critical current
+critical energy
+critical exponent
+critical frequency
+critical mass
+critical phenomenon
+critical point
+critical pressure
+critical relaxation
+critical scattering
+critical temperature
+cross section
+crossover effect
+cryogenic pump
+crystal face
+crystal field
+crystal filter
+crystal form
+crystal growth
+crystal lattice
+crystal momentum
+crystal optics
+crystal orientation
+crystal oscillator
+crystal system
+crystal texture
+crystalline field
+crystalline polymer
+crystallographic plane
+ct complex
+cubic system
+curie constant
+curie temperature
+curie-weiss law
+current balance
+current density
+current meter
+current noise
+current source
+curvature tensor
+cut-off frequency
+cw laser
+cw oscillation
+cyclotron damping
+cyclotron frequency
+cyclotron motion
+cyclotron resonance
+d band
+d electron
+da converter
+dangling bond
+dark current
+daughter nucleus
+dc corona
+dead time
+debye approximation
+debye length
+debye model
+debye temperature
+decay constant
+decay curve
+decay rate
+deep level
+defect level
+deflection method
+deformation potential
+deformed nuclei
+delay line
+delayed coincidence
+delayed fluorescence
+delayed neutron
+dember effect
+density wave
+deoxyribonucleic acid
+desorption energy
+desorption spectrum
+detailed balance
+diagrammatical method
+diamond structure
+diatomic molecule
+dielectric breakdown
+dielectric constant
+dielectric dispersion
+dielectronic recombination
+differential equation
+differential method
+differential pumping
+differential transformer
+differential-difference equation
+diffracted wave
+diffraction angle
+diffraction contrast
+diffraction efficiency
+diffraction pattern
+diffraction scattering
+diffraction theory
+diffuse reflection
+diffuse scattering
+diffusion current
+diffusion equation
+diffusion process
+diffusion velocity
+digital circuit
+digital signal
+dilution refrigerator
+dimensional equation
+dingle temperature
+diode laser
+dipole moment
+dipole oscillation
+dipole radiation
+dipole-dipole interaction
+dirac bracket
+dirac equation
+dirac particle
+direct interaction
+direct measurement
+direct product
+direct reaction
+direct sum
+direct transition
+directional coupler
+directivity factor
+discharge chamber
+discharge cleaning
+discharge tube
+discriminant function
+dislocation core
+dislocation density
+dislocation line
+dislocation network
+dislocation velocity
+disorder parameter
+disperse system
+dispersion force
+dispersion formula
+displacement current
+displacement thickness
+dissipation function
+dissipative system
+dissociation limit
+dissociation pressure
+dissociative adsorption
+dissociative attachment
+dissociative chemisorption
+dissociative recombination
+distribution function
+domain pattern
+domain structure
+domain wall
+dominant wavelength
+donor level
+doppler broadening
+doppler shift
+doppler width
+doppler-free spectroscopy
+dose rate
+double bond
+double focusing
+double-heterostructure laser
+doublet state
+drell ratio
+drift approximation
+drift chamber
+drift mobility
+drift term
+drift tube
+drift velocity
+drift wave
+driving force
+dual lattice
+dual model
+dual transformation
+dummy load
+dye laser
+dynamic behaviour
+dynamic loading
+dynamic polarizability
+dynamic viscoelasticity
+dynamical susceptibility
+dynamical symmetry
+dynamo theory
+eddy current
+eddy diffusivity
+eddy viscosity
+edge dislocation
+effective charge
+effective hamiltonian
+effective mass
+effective range
+effective stress
+effective temperature
+effective value
+eigenfunction expansion
+eikonal approximation
+ekman layer
+elastic collision
+elastic deformation
+elastic energy
+elastic instability
+elastic oscillation
+elastic potential
+elastic scattering
+elastic stress
+electric capacity
+electric charge
+electric circuit
+electric conductivity
+electric current
+electric discharge
+electric displacement
+electric energy
+electric field
+electric flux
+electric multipole
+electric power
+electric quadrupole
+electric resistivity
+electric shielding
+electro-optic effect
+electrochemical potential
+electrolytic capacitor
+electrolytic polishing
+electrolytic solution
+electromagnetic field
+electromagnetic flowmeter
+electromagnetic force
+electromagnetic induction
+electromagnetic interaction
+electromagnetic potential
+electromagnetic radiation
+electromagnetic valve
+electromagnetic wave
+electromotive force
+electron acceptor
+electron affinity
+electron attachment
+electron capture
+electron cloud
+electron configuration
+electron correlation
+electron diffraction
+electron emission
+electron gas
+electron gun
+electron impact
+electron interferometer
+electron lens
+electron microscope
+electron mobility
+electron polarization
+electron promotion
+electron shell
+electron source
+electron spectrometer
+electron temperature
+electron transfer
+electron wave
+electron-hole pair
+electron-phonon interaction
+electronic excitation
+electronic state
+electrostatic accelerator
+electrostatic energy
+electrostatic field
+electrostatic focusing
+electrostatic induction
+electrostatic lens
+electrostatic probe
+electrostatic septum
+electrostatic wave
+electroweak theory
+elementary analysis
+elementary excitation
+elementary particle
+elliott mechanism
+emission band
+emission spectrum
+empirical formula
+emulsion polymerization
+endothermic reaction
+energy analyser
+energy conversion
+energy density
+energy distribution
+energy loss
+energy spectrum
+energy transfer
+energy width
+energy-momentum tensor
+ensemble average
+environmental test
+epitaxial growth
+equal temperament
+equilibrium charge
+equilibrium constant
+equilibrium orbit
+equipotential line
+equivalent circuit
+equivalent width
+error analysis
+esaki diode
+etch pit
+ettingshausen effect
+euler-lagrange equation
+eutectic alloy
+eutectic point
+evaporation model
+evolution equation
+ewald method
+exact solution
+exchange coefficient
+exchange current
+exchange force
+exchange integral
+exchange interaction
+exchange reaction
+exchange splitting
+excitation energy
+excitation spectrum
+exciting current
+excitonic absorption
+excitonic molecule
+exclusion principle
+exotic atom
+expansion coefficient
+expectation value
+experimental design
+exterior derivative
+external pressure
+extinction coefficient
+extinction distance
+extinction effects
+extinction method
+extinction ratio
+extinction rule
+extractor gauge
+extraordinary wave
+fabry-perot etalon
+fabry-perot interferometer
+fabry-perot resonator
+factor group
+fall time
+faraday cage
+fast diffusion
+fast neutron
+fcc structure
+feedback ratio
+feedforward control
+fermi acceleration
+fermi distribution
+fermi gas
+fermi level
+fermi liquid
+fermi momentum
+fermi resonance
+fermi surface
+ferroelastic domain
+ferroelectric domain
+ferromagnetic resonance
+ferromagnetic superconductor
+fiber optics
+field lens
+field magnet
+field strength
+field theory
+field-effect transistor
+field-ion microscope
+fierz transformation
+filled band
+fine adjustment
+fine particle
+fine structure
+finite group
+firing voltage
+fission barrier
+fission chamber
+fission counter
+fission fragment
+fission product
+fission yield
+fixed end
+fixed point
+fizeau interferometer
+flash photolysis
+flexible polymer
+floating body
+flow birefringence
+flow counter
+fluctuating force
+fluid model
+fluorescence spectrophotometer
+fluorescent screen
+flutter echo
+flux creep
+flux density
+flux distribution
+flux flow
+flux jump
+flux method
+flux motion
+flux peaking
+flux quantum
+fluxoid lattice
+focal length
+focal plane
+focal point
+focal surface
+forbidden band
+forbidden transition
+force constant
+forced convection
+forced vibration
+form factor
+forward current
+forward scattering
+fossil fuel
+foucault pendulum
+fourier analysis
+fourier expansion
+fourier integral
+fourier series
+fourier synthesis
+fourier transformation
+fracture mechanics
+fracture stress
+fragmentation reaction
+franck-condon factor
+franz-keldysh effect
+fraunhofer diffraction
+free electron
+free end
+free energy
+free expansion
+free fall
+free field
+free path
+free radical
+free volume
+frenkel defect
+frenkel exciton
+frequency analyzer
+frequency characteristic
+frequency counter
+frequency factor
+frequency modulation
+frequency spectrum
+fresnel diffraction
+fresnel lens
+fresnel rhomb
+frictional drag
+fringing field
+frontier orbital
+froude number
+ft value
+fuel cell
+full size
+function generator
+fundamental absorption
+fundamental oscillation
+fundamental unit
+fused silica
+fusion reaction
+g matrix
+galvanomagnetic effect
+gamow-teller transition
+gap mode
+gas blanket
+gas discharge
+gas dynamics
+gas ionization
+gas laser
+gas phase
+gate valve
+gauge fixing
+gauge theory
+gauge transformation
+gaussian beam
+gaussian model
+gaussian optics
+gaussian process
+general relativity
+generating function
+geometric mean
+geometrical optics
+getter pump
+giant resonance
+ginzburg-landau equation
+glancing incidence
+glassy state
+glauber theory
+glide motion
+glide plane
+glory scattering
+glove box
+golay cell
+golden rule
+goldstone boson
+goldstone mode
+gorsky effect
+grain boundary
+graphite structure
+grashof number
+gravimetric measurement
+gravitational acceleration
+gravitational collapse
+gravitational field
+gravitational potential
+gravitational radiation
+gravitational radius
+gravitational wave
+gravity wave
+grazing incidence
+ground state
+group velocity
+growth spiral
+guard ring
+guided mode
+gunn diode
+gunn effect
+gyromagnetic effect
+gyromagnetic ratio
+half mirror
+half width
+half-wave plate
+hall angle
+hall coefficient
+hall effect
+hall element
+hall mobility
+hamilton-jacobi equation
+hard component
+hard core
+hard x-rays
+harmonic order
+harmonic oscillation
+harmonic potential
+harmonic sound
+hartmann number
+hartree approximation
+hartree-fock approximation
+heat bath
+heat capacity
+heat energy
+heat engine
+heat insulation
+heat loss
+heat quantity
+heat radiation
+heat source
+heat transfer
+heating efficiency
+heavy fermion
+heavy ion
+heisenberg model
+helical dislocation
+helicon wave
+heliocentric theory
+helmholtz equation
+helmholtz instability
+helmholtz resonator
+hermite polynomial
+hermitian form
+hermitian matrix
+hexagonal system
+higgs mechanism
+high elasticity
+high polymer
+high pressure
+high resolution
+high voltage
+hilbert space
+hole burning
+holographic interferometry
+homogeneous broadening
+homometric structure
+hopping integral
+horizontal component
+hot band
+hot cathode
+hot electron
+hot-wire anemometer
+hubbard model
+hybrid orbital
+hydrodynamic interaction
+hydrogen atom
+hydrogen bond
+hydrogen embrittlement
+hydrogen-ion concentration
+hydrostatic pressure
+hyper-raman scattering
+hyperfine interaction
+hypergeometric function
+hypersonic wave
+hysteresis loop
+icrf heating
+ideal fluid
+ideal gas
+ideal solution
+image force
+image formation
+image potential
+image signal
+image space
+impact parameter
+impact value
+impedance matrix
+impulse approximation
+impulse response
+impulsive sound
+impurity band
+impurity diffusion
+impurity level
+impurity scattering
+in vitro
+incident angle
+incident particle
+incident wave
+incommensurate transition
+incompressible fluid
+index ellipsoid
+induced charge
+induced current
+induced emission
+induced magnetization
+induced radioactivity
+induction coil
+induction heating
+induction motor
+inelastic collision
+inelastic scattering
+inertial confinement
+inertial mass
+infrared active
+infrared detector
+infrared divergence
+infrared laser
+infrared microscope
+infrared radiation
+infrared rays
+infrared spectrum
+inhomogeneous broadening
+initial permeability
+injection laser
+injection molding
+inlet pressure
+inner product
+instantaneous velocity
+instrumental error
+integer resonance
+integral transform
+integrating sphere
+intensity factor
+intensity modulation
+intensity region
+interatomic distance
+interatomic force
+intercalation compound
+intergranular fracture
+interior solution
+interlayer water
+intermediate state
+intermetallic compound
+intermolecular force
+internal energy
+internal friction
+internal pressure
+internal rotation
+internal target
+internal wave
+internuclear distance
+interplanetary space
+intrinsic region
+invariant mass
+invariant subspace
+inverse bremsstrahlung
+inverse problem
+inversion layer
+inversion temperature
+inverted pendulum
+ion beam
+ion channeling
+ion current
+ion diffusion
+ion implantation
+ion milling
+ion mobility
+ion neutralization
+ion pump
+ion sheath
+ion source
+ion temperature
+ion-acoustic instability
+ionic bond
+ionic conductor
+ionic crystal
+ionic polarization
+ionic radius
+ionic structure
+ionization chamber
+ionization coefficient
+ionization current
+ionization efficiency
+ionization limit
+ionization loss
+iron core
+iron loss
+irradiation damage
+irradiation hardening
+irreducible representation
+island structure
+isoelectric point
+isomer shift
+isothermal compressibility
+isotope separator
+isotope shift
+isotopic abundance
+isotopic spin
+isotropic turbulence
+jahn-teller effect
+jellium model
+jones matrix
+jones vector
+jones zone
+josephson current
+josephson frequency
+josephson junction
+jost function
+joule heat
+joule heating
+kalman filter
+kdv equation
+kelvin method
+kelvin-helmholtz instability
+kerr effect
+kikuchi pattern
+kinematical theory
+kinetic coefficient
+kinetic energy
+kinetic equation
+kinetic exchange
+kink instability
+kirkendall effect
+klein-gordon equation
+knight shift
+kondo effect
+kondo lattice
+kondo temperature
+korringa relation
+kossel line
+kramers doublet
+kubo formula
+l-s coupling
+laboratory system
+lamb dip
+laminar flow
+landau damping
+landau diamagnetism
+landau level
+lang camera
+langevin equation
+langevin function
+langevin transducer
+langmuir probe
+langmuir-blodgett film
+laplace transformation
+larmor diamagnetism
+larmor frequency
+larmor precession
+larmor radius
+laser amplifier
+laser annealing
+laser damage
+laser fusion
+laser gyroscope
+laser medium
+laser processing
+laser spectroscopy
+laser-produced plasma
+lateral strain
+lattice defect
+lattice dynamics
+lattice model
+lattice plane
+lattice point
+lattice relaxation
+lattice spacing
+lattice theory
+lattice vacancy
+lattice vibration
+laue function
+laue pattern
+laue spot
+laue zone
+laval nozzle
+lawson criterion
+layer structure
+layered crystal
+layered growth
+lc circuit
+lead wire
+leak test
+lennard-jones potential
+lepton number
+level density
+level scheme
+level spacing
+level surface
+level width
+lie algebra
+lie group
+lie product
+lifshitz invariant
+lifshitz point
+lift coefficient
+light cone
+light exposure
+light scattering
+light velocity
+light-emitting device
+lightning conductor
+lightning discharge
+limit cycle
+line integral
+line profile
+line spectrum
+linear density
+linear molecule
+linear motion
+linear motor
+linear velocity
+linear viscoelasticity
+liouville operator
+liquid alloy
+liquid crystal
+liquid helium
+liquid hydrogen
+liquid nitrogen
+liquid oxygen
+liquid phase
+liquid scintillator
+load impedance
+local equilibrium
+localized electron
+localized mode
+localized orbital
+localized state
+lock-in amplifier
+logarithmic derivative
+logic circuit
+london equation
+lone pair
+long wave
+long-range interaction
+longitudinal polarization
+longitudinal relaxation
+longitudinal vibration
+longitudinal wave
+lorentz force
+lorentz gauge
+lorentz transformation
+loss angle
+loss modulus
+loudness level
+low frequency
+lower bound
+ls force
+lyapunov function
+lyman series
+mac method
+mach number
+macroscopic variable
+magic number
+magnetic balance
+magnetic birefringence
+magnetic bottle
+magnetic breakdown
+magnetic bubble
+magnetic circuit
+magnetic confinement
+magnetic dipole
+magnetic domain
+magnetic entropy
+magnetic field
+magnetic fluid
+magnetic hysteresis
+magnetic lens
+magnetic loss
+magnetic material
+magnetic modulation
+magnetic moment
+magnetic monopole
+magnetic order
+magnetic permeability
+magnetic polaron
+magnetic pole
+magnetic probe
+magnetic reconnection
+magnetic relaxation
+magnetic screening
+magnetic semiconductor
+magnetic shielding
+magnetic structure
+magnetic substance
+magnetic superconductor
+magnetic susceptibility
+magnetic torque
+magnetic transformation
+magnetic transition
+magnetization curve
+magneto-optic effect
+magneto-volume effect
+magnetocaloric effect
+magnetocrystalline anisotropy
+magnetoelectric effect
+magnetomotive force
+magnifying glass
+magnus effect
+majorana particle
+majority carrier
+marked line
+martensitic transformation
+mass flowmeter
+mass formula
+mass law
+mass spectrograph
+mass spectrometer
+mass spectrometry
+mass spectroscopy
+mass spectrum
+master equation
+material constant
+mathematical physics
+matrix mechanics
+maxwell distribution
+maxwell model
+maxwell-boltzmann distribution
+mean value
+mean velocity
+mechanical energy
+mechanical filter
+mechanical relaxation
+meissner effect
+melt growth
+melt rheology
+melting curve
+melting point
+membrane potential
+memory effect
+mesonic decay
+mesopic vision
+metal-insulator transition
+metallic bond
+metallic crystal
+metallurgical microscope
+metastable atom
+metastable molecule
+metastable state
+michelson interferometer
+microcanonical ensemble
+microscope objective
+microwave circuit
+microwave heating
+microwave instability
+microwave spectroscopy
+mie scattering
+migration energy
+minimization problem
+minimum surface
+minimum yield
+minkowski space-time
+minority carrier
+mirror field
+mirror image
+mirror ratio
+mis structure
+miscibility gap
+missing mass
+mixed state
+mixed valence
+mixing length
+mo method
+mobility edge
+mode coupling
+mode distribution
+mode pattern
+mode pulling
+mode selection
+mode-locked laser
+modulation index
+modulation method
+modulation spectroscopy
+molar fraction
+molar heat
+molar polarization
+molar volume
+molecular beam
+molecular biology
+molecular collision
+molecular crystal
+molecular flow
+molecular ion
+molecular magnet
+molecular orbital
+molecular physics
+molecular refraction
+molecular science
+molecular structure
+molecular symmetry
+molecular vibration
+molecular weight
+molecular-beam epitaxy
+moment expansion
+momentum representation
+momentum thickness
+momentum transfer
+monoclinic system
+monomolecular film
+monomolecular layer
+montgomery method
+morse potential
+mos diode
+mos structure
+mosaic structure
+mossbauer spectroscopy
+motional narrowing
+mott insulator
+mott scattering
+moving striation
+multilayer film
+multiparticle production
+multiphase flow
+multiphoton absorption
+multiphoton dissociation
+multiple bond
+multiple diffraction
+multiple ionization
+multiple reflection
+multiple-beam interference
+multipole expansion
+multipole field
+multipole radiation
+muon capture
+muonic atom
+mutual induction
+n-type semiconductor
+natural frequency
+natural light
+natural science
+navier-stokes equation
+neel state
+neel temperature
+neel wall
+negative feedback
+negative glow
+negative ion
+negative temperature
+nematic phase
+network structure
+neutral particle
+neutral plane
+neutral-ionic transition
+neutron detector
+neutron diffractometer
+neutron dosimetry
+neutron excess
+neutron resonance
+neutron scattering
+neutron source
+neutron spectrometer
+neutron star
+newton-raphson method
+newtonian flow
+nitrogen laser
+nmr imaging
+noise figure
+noise temperature
+noise voltage
+non-destructive inspection
+non-equilibrium thermodynamics
+non-newtonian flow
+non-newtonian fluid
+nonlinear circuit
+nonlinear conduction
+nonlinear element
+nonlinear optics
+nonlinear oscillation
+nonlinear resistor
+nonlinear resonance
+nonlinear susceptibility
+nonlinear viscoelasticity
+nonlinear wave
+nonthermal radiation
+normal conduction
+normal coordinates
+normal dispersion
+normal distribution
+normal gravity
+normal liquid
+normal mode
+normal process
+normal state
+normal stress
+normal velocity
+north pole
+nuclear astrophysics
+nuclear deformation
+nuclear emulsion
+nuclear engineering
+nuclear fission
+nuclear force
+nuclear fusion
+nuclear isomer
+nuclear matter
+nuclear orientation
+nuclear physics
+nuclear plate
+nuclear potential
+nuclear radius
+nuclear reaction
+nuclear reactor
+nuclear scattering
+nuclear spectroscopy
+nuclear structure
+nuclear synthesis
+nuclear transmutation
+number operator
+numerical calculation
+numerical integration
+object wave
+observation equation
+observed value
+octahedral site
+ohmic heating
+one-particle state
+open end
+open tube
+operational amplifier
+optic axis
+optical activity
+optical amplifier
+optical bistability
+optical communication
+optical damage
+optical depth
+optical fiber
+optical glass
+optical heterodyne
+optical isolator
+optical lever
+optical memory
+optical microscope
+optical model
+optical modulator
+optical path
+optical potential
+optical rectification
+optical shutter
+optical strain
+optical switch
+optical thickness
+optical transmission
+optical waveguide
+optical wedge
+optimal control
+order parameter
+order-disorder ferroelectrics
+order-disorder transition
+ordered alloy
+ordered state
+organic superconductor
+orientational polarization
+ortho-para conversion
+orthorhombic system
+oscillating current
+oseen approximation
+overhauser effect
+overlap integral
+oxidation-reduction potential
+p-i-n diode
+pair annihilation
+pair potential
+pairing effect
+pairing force
+pairing interaction
+parabolic mirror
+parallel resonance
+parallel translation
+parallel-plate capacitor
+paramagnetic resonance
+paramagnetic scattering
+parametric amplifier
+parametric excitation
+parasitic oscillation
+paraxial ray
+parity violation
+partial discharge
+partial dislocation
+partial irradiation
+partial pressure
+particle displacement
+particle separator
+particle spectrum
+particle-rotor coupling
+particular solution
+partition function
+passive filter
+pattern recognition
+patterson function
+peclet number
+peierls potential
+peierls transition
+peltier effect
+penetrating power
+penetration depth
+penning discharge
+perfect conductor
+perfect dislocation
+perfect gas
+periodic field
+periodic motion
+periodic potential
+permanent magnet
+permanent strain
+permutation group
+perovskite structure
+perpendicular susceptibility
+persistent current
+phase angle
+phase average
+phase boundary
+phase conjugation
+phase detection
+phase diagram
+phase difference
+phase equilibrium
+phase grating
+phase margin
+phase matching
+phase mode
+phase modulation
+phase oscillation
+phase plate
+phase separation
+phase shift
+phase shifter
+phase stability
+phase transition
+phase volume
+phase-sensitive detection
+phenomenological theory
+phonon excitation
+phonon scattering
+photoelectric absorption
+photoelectric current
+photoelectromotive force
+photoelectron spectroscopy
+photomultiplier tube
+photon statistics
+photopic vision
+physical chemistry
+physical optics
+piezoelectric effect
+piezoelectric element
+piezoelectric semiconductor
+piezoelectric transducer
+piezoelectric vibration
+piezoelectric vibrator
+pirani gauge
+piston source
+planck constant
+plane wave
+plasma accelerator
+plasma confinement
+plasma frequency
+plasma instability
+plasma oscillation
+plasma physics
+plasma potential
+plasma source
+pockels effect
+poincare sphere
+point charge
+point defect
+point group
+point image
+point source
+poiseuille flow
+poisson bracket
+poisson distribution
+poisson equation
+polar liquid
+polarization angle
+polarization charge
+polarization current
+polarization effect
+polarization force
+polarization interferometer
+polarized beam
+polarized light
+polarized nucleus
+polarized target
+polarizing prism
+polymer solution
+population inversion
+position resolution
+position vector
+position-sensitive detector
+positive column
+positive corona
+positive electrode
+positive feedback
+positive hole
+positive ion
+positron annihilation
+post-newtonian approximation
+potential barrier
+potential energy
+potential scattering
+powder diffraction
+power factor
+power level
+power series
+power supply
+poynting vector
+prandtl number
+pressure distribution
+pressure gauge
+pressure gradient
+pressure level
+pressure loss
+primary color
+primary current
+primary recrystallization
+principal ray
+principal value
+probabilistic interpretation
+probability amplitude
+probability density
+probability distribution
+progressive wave
+projection operator
+proper time
+proton decay
+pseudoscalar meson
+pulse generator
+pulse modulation
+pulse transformer
+pulsed beam
+pycnonuclear reaction
+q-switched laser
+quadrupole interaction
+quadrupole magnet
+quadrupole vibration
+qualitative analysis
+quantitative analysis
+quantized vortex
+quantum chromodynamics
+quantum condition
+quantum correction
+quantum defect
+quantum efficiency
+quantum electrodynamics
+quantum electronics
+quantum fluctuation
+quantum gravity
+quantum liquid
+quantum mechanics
+quantum noise
+quantum optics
+quantum solid
+quantum state
+quantum theory
+quark-gluon plasma
+quasi-elastic scattering
+radial coupling
+radial velocity
+radiant flux
+radiation damage
+radiation detector
+radiation effect
+radiation energy
+radiation length
+radiation monitor
+radiation pressure
+radiation protection
+radiation resistance
+radiation shielding
+radiation thermometer
+radiative capture
+radiative correction
+radiative decay
+radiative equilibrium
+radiative recombination
+radio interferometer
+radio source
+radioactive isotope
+radioactive waste
+radiometric force
+rainbow scattering
+raman active
+raman effect
+raman laser
+raman microprobe
+raman scattering
+raman spectroscopy
+raman-nath diffraction
+random error
+random matrix
+random motion
+random process
+random walk
+range straggling
+rankine-hugoniot relations
+rare gas
+rate constant
+rate equation
+rate process
+ratio control
+rayleigh scattering
+rayleigh wave
+rayleigh-taylor instability
+reaction product
+reaction rate
+reaction time
+reactor core
+real gas
+real image
+reciprocity theorem
+recoil energy
+recombination line
+recombination radiation
+reconstructed image
+recovery time
+red shift
+reduced mass
+reduced viscosity
+reflected wave
+reflecting mirror
+reflection coefficient
+reflection grating
+reflection profile
+refractive index
+refrigeration capacity
+refrigeration cycle
+regression analysis
+relative coordinates
+relative humidity
+relative permittivity
+relative sensitivity
+relative velocity
+relativistic dynamics
+relativity theory
+relaxation function
+relaxation oscillation
+relaxation phenomena
+relaxation time
+remanent magnetization
+renormalization group
+renormalization theory
+repeated stress
+replica method
+residence time
+residual current
+residual gas
+residual interaction
+residual nucleus
+residual resistance
+residual stress
+residual voltage
+resolving power
+resonance absorption
+resonance circuit
+resonance curve
+resonance energy
+resonance fluorescence
+resonance integral
+resonance level
+resonance line
+resonance scattering
+resonance state
+response function
+rest energy
+rest mass
+restoring force
+resultant force
+reversible change
+reversible cycle
+reversible process
+reynolds number
+rf plugging
+rigid body
+rigid sphere
+ring current
+ring laser
+rise time
+rochelle salt
+rogowski coil
+rotating fluid
+rotation angle
+rotation axis
+rotation group
+rotational band
+rotational constant
+rotational coupling
+rotational energy
+rotational excitation
+rotational motion
+rotational relaxation
+rotational temperature
+rotational transition
+rotational viscometer
+rotatory dispersion
+rotatory polarization
+roughening transition
+roughness factor
+rowland circle
+rubber elasticity
+ruby laser
+runge-kutta method
+rutherford scattering
+rutile structure
+rydberg series
+rydberg state
+s wave
+safety factor
+sampling oscilloscope
+satellite reflection
+saturable absorber
+saturated absorption
+saturation current
+saturation curve
+saturation magnetization
+saturation polarization
+saturation temperature
+scalar meson
+scalar product
+scale effect
+scaling law
+scattering amplitude
+scattering angle
+scattering factor
+scattering length
+scattering operator
+scattering theory
+scattering vector
+schlieren method
+schmidt camera
+schmidt number
+schottky barrier
+schottky effect
+schrodinger equation
+scintillation counter
+screening constant
+screening effect
+screw dislocation
+screw pinch
+second quantization
+second resonance
+second sound
+secondary defect
+secondary particle
+secondary structure
+secular equation
+seebeck effect
+seismic wave
+selection rule
+selective excitation
+selective growth
+selective pumping
+self-excited oscillation
+self-induced transparency
+self-phase modulation
+self-trapped exciton
+semiclassical theory
+semiconductor device
+semiconductor junction
+semiconductor memory
+seniority number
+sensible heat
+septum magnet
+series connection
+series resonance
+series solution
+settling time
+shape anisotropy
+shear flow
+shearing interferometer
+shell model
+shell structure
+shielding material
+shift factor
+shock tube
+short-range correlation
+short-range interaction
+shunt impedance
+signal generator
+signal-to-noise ratio
+silicon diode
+simultaneous reflection
+sine condition
+sine-gordon equation
+single bond
+single crystal
+single mode
+single-particle level
+single-particle potential
+singlet state
+singular perturbation
+singular point
+sinusoidal wave
+size effect
+skin effect
+skin friction
+skyrme force
+slater determinant
+sliding friction
+slip line
+slip plane
+slip system
+slow neutron
+small polaron
+smectic phase
+sn ratio
+snoek peak
+snowplow model
+soft mode
+solar constant
+solar corona
+solar energy
+solar flare
+solar furnace
+solenoidal field
+solid angle
+solid phase
+solid solution
+solid-state detector
+solid-state electronics
+solid-state laser
+solid-state physics
+solid-state plasma
+solubility limit
+solubility product
+solution growth
+soret effect
+sound attenuation
+sound field
+sound insulation
+sound intensity
+sound quality
+sound radiation
+sound reflection
+sound scattering
+sound source
+sound wave
+space group
+space inversion
+space physics
+space potential
+spark discharge
+spark gap
+spark line
+spatial frequency
+specific gravity
+specific resistance
+specific volume
+speckle pattern
+spectral diffusion
+spectral representation
+spectral sensitivity
+spectroscopic analysis
+spectroscopic factor
+spectrum analyzer
+spectrum function
+specular reflection
+speech production
+speech synthesis
+spherical function
+spherical mirror
+spherical region
+spherical wave
+spin correlation
+spin doublet
+spin flop
+spin hamiltonian
+spin polarization
+spin resonance
+spin sublevel
+spin-lattice relaxation
+spin-orbit force
+spin-orbit interaction
+spin-orbit splitting
+spin-peierls transition
+spin-phonon interaction
+spin-spin interaction
+spin-spin relaxation
+spinodal decomposition
+spiral growth
+spiral structure
+spontaneous emission
+spontaneous strain
+spreading width
+square wave
+stable equilibrium
+stable phase
+stable state
+standard cell
+standard condition
+standard pressure
+standard source
+standing wave
+stanton number
+star connection
+stark effect
+stark ladder
+state vector
+static electricity
+static friction
+stationary current
+stationary process
+statistical average
+statistical equilibrium
+statistical error
+statistical factor
+statistical mechanics
+statistical operator
+statistical theory
+statistical weight
+stepping motor
+stereographic projection
+steric hindrance
+sticking probability
+stochastic integral
+stochastic matrix
+stochastic process
+stochastic quantization
+stopping power
+storage modulus
+storage oscilloscope
+straight chain
+strain ellipsoid
+strain gauge
+strain rate
+strain wave
+stratified fluid
+stray light
+streak camera
+stream function
+stream tube
+strength function
+stress function
+stress relaxation
+stress-strain curve
+stripping reaction
+strouhal number
+structural relaxation
+structure analysis
+structure factor
+structure function
+structure image
+subharmonic oscillation
+substitution method
+sudden approximation
+sum rule
+superconducting cavity
+superconducting magnet
+superconducting phenomenon
+superconducting state
+superconducting wire
+superexchange interaction
+superheavy element
+superionic conductor
+superlattice dislocation
+superlattice reflection
+superlattice structure
+supernova explosion
+supernova remnant
+supersonic nozzle
+superstring theory
+surface characterization
+surface charge
+surface condition
+surface coverage
+surface diffusion
+surface energy
+surface integral
+surface ionization
+surface plasma
+surface potential
+surface reaction
+surface recombination
+surface resistance
+surface tension
+surface vibration
+surface wave
+switching circuit
+switching time
+symmetric fission
+symmetric tensor
+symmetric top
+symmetry group
+symplectic group
+synchronous detection
+synchrotron acceleration
+synthetic resin
+systematic error
+tandem mirror
+tangential stress
+target nucleus
+taylor expansion
+taylor number
+taylor series
+temperature dispersion
+temporal coherence
+tensile strength
+tensile stress
+tensor operator
+tensor product
+terminal velocity
+tetragonal system
+tetrahedral molecule
+tetrahedral site
+thermal conduction
+thermal conductivity
+thermal desorption
+thermal diffusion
+thermal diffusivity
+thermal dissociation
+thermal efficiency
+thermal electron
+thermal equilibrium
+thermal fatigue
+thermal fission
+thermal instability
+thermal ionization
+thermal shock
+thermal stress
+thermal transpiration
+thermal velocity
+thermal vibration
+thermal wave
+thermionic emission
+thermodynamic potential
+thermodynamic stability
+thermoelectromotive force
+thermofield dynamics
+thermogravimetric analysis
+thermonuclear reaction
+thermoremanent magnetization
+thick lens
+thin lens
+thomson scattering
+thought experiment
+threshold condition
+threshold dose
+threshold energy
+threshold logic
+time average
+time constant
+time resolution
+time reversal
+time series
+tof method
+tomonaga-luttinger model
+toms effect
+torque magnetometer
+torque meter
+torsion balance
+torsion pendulum
+total cross-section
+total differential
+total pressure
+total reflection
+total strain
+total width
+townsend discharge
+trailing vortex
+transfer function
+transformation group
+transformation theory
+transient phenomenon
+transient response
+transit time
+transition amplitude
+transition energy
+transition matrix
+transition metal
+transition point
+transition radiation
+transition state
+transition temperature
+transitional region
+translational motion
+translational order
+transmission coefficient
+transmission grating
+transmission line
+transmitted wave
+transparent body
+transport coefficient
+transport number
+transverse mode
+transverse momentum
+transverse relaxation
+triangle anomaly
+tricritical point
+triggered discharge
+triple bond
+triple point
+triplet state
+truncation error
+tunable laser
+tuning fork
+tunnel diode
+tunnelling spectroscopy
+turbulent diffusion
+turbulent flow
+turbulent plasma
+twin boundary
+twin structure
+twist boundary
+two-photon absorption
+twyman-green interferometer
+ultimate pressure
+ultra-low temperature
+ultrasonic attenuation
+ultrasonic diagnosis
+ultrasonic relaxation
+ultrasonic wave
+ultraviolet detector
+ultraviolet divergence
+ultraviolet laser
+ultraviolet radiation
+ultraviolet rays
+ultraviolet spectrum
+uncertainty principle
+underwater acoustics
+unit vector
+unitarity limit
+unitary ensemble
+unitary operator
+universal constant
+unnatural parity
+unpaired electron
+unstable state
+upper bound
+uranium enrichment
+urbach rule
+vacancy diffusion
+vacuum arc
+vacuum discharge
+vacuum gauge
+vacuum polarization
+vacuum pump
+vacuum ultraviolet
+vacuum valve
+valence band
+valence electron
+valence fluctuation
+valence quark
+valence state
+vapor pressure
+variational method
+variational principle
+vb method
+vector analysis
+vector meson
+vector model
+vector space
+velocity potential
+venturi tube
+verdet constant
+vertical line
+verwey transition
+vibration meter
+vibrational excitation
+vibrational mode
+vibrational state
+vibrational temperature
+vibrational transition
+vibronic state
+virial coefficient
+virtual cathode
+virtual image
+virtual mass
+virtual photon
+virtual source
+virtual state
+virtual transition
+virtual work
+viscoelastic fluid
+viscosity equation
+viscous drag
+visible laser
+visible light
+visible spectrum
+visual field
+vlasov equation
+vls mechanism
+voigt model
+voltage drop
+volume density
+volume hologram
+volume relaxation
+volume resistivity
+volume velocity
+volumetric analysis
+vortex motion
+vortex ring
+vortex street
+vortex tube
+wake potential
+wannier exciton
+ward-takahashi identity
+water load
+water vapor
+water wave
+wave aberration
+wave absorber
+wave equation
+wave front
+wave function
+wave guide
+wave mechanics
+wave motion
+wave train
+weak interaction
+weber number
+wehnelt cylinder
+weinberg-salam model
+weiss temperature
+weissenberg camera
+white x-rays
+wick rotation
+wiedemann-franz law
+wiener measure
+wigner crystal
+wigner distribution
+wind tunnel
+wind velocity
+wkb method
+wlf equation
+wollaston prism
+work function
+working distance
+working fluid
+working hypothesis
+wurtzite structure
+x-ray astronomy
+x-ray diffraction
+x-ray generator
+x-ray interferometer
+x-ray laser
+x-ray spectroscopy
+x-ray tube
+xenon lamp
+yag laser
+yield point
+yield stress
+young diagram
+yukawa interaction
+yukawa potential
+z0 boson
+zeeman effect
+zeeman energy
+zeeman splitting
+zero point
+zigzag structure
+zone axis
+zone plate
+α particle
+α relaxation
+β value
+δ function
+abnormal glow discharge
+acoustically induced birefringence
+adiabatic potential surface
+alternating electromotive force
+amplified spontaneous emission
+anderson orthogonality theorem
+angle of diffraction
+angle of refraction
+angle of rotation
+angular momentum transfer
+anisotropic exchange interaction
+anomalous magnetic moment
+anomalous skin effect
+atomic beam scattering
+attenuated total reflection
+average molecular weight
+axial vector current
+azimuthal quantum number
+binary collision model
+binary encounter approximation
+black body radiation
+canted spin structure
+capture cross section
+carrier life time
+center of curvature
+center of mass
+central limit theorem
+charge density wave
+charge transfer complex
+chemical vapor deposition
+circularly polarized light
+closed magnetic field
+closed orbit distortion
+coefficient of restitution
+coherent potential approximation
+collective rotational motion
+color center laser
+complex dielectric constant
+complex wave number
+concave diffraction grating
+confining magnetic field
+constant of motion
+cosmic background radiation
+critical magnetic field
+critical reynolds number
+critical shear stress
+critical slowing down
+crystal pulling method
+cyclotron resonance heating
+dark field image
+deep inelastic scattering
+degree of crystallinity
+degree of freedom
+degree of ionization
+degree of order
+degree of polarization
+degree of vacuum
+dense kondo effect
+density functional formalism
+density gradient method
+depth of focus
+dielectric loss tangent
+differential scanning calorimeter
+differential thermal analysis
+diffusion in solid
+dipole magnetic field
+direct gap semiconductor
+discharge pumped laser
+discrete energy level
+double cross slip
+double exchange interaction
+effective magnetic field
+effective nuclear charge
+electric current density
+electric dipole moment
+electric field strength
+electric field vector
+electric flux density
+electromagnetic cascade shower
+electron beam holography
+electron cyclotron frequency
+electron larmor radius
+electron population analysis
+electron saturation current
+electron spin resonance
+electronic specific heat
+electronic stopping power
+elementary particle physics
+elliptically polarized light
+equation of continuity
+equation of motion
+equation of state
+exceptional lie group
+exchange stiffness constant
+excluded volume effect
+extended zone scheme
+far field pattern
+far infrared laser
+far infrared radiation
+fast breeder reactor
+fast fourier transformation
+ferroelectric phase transition
+field electron emission
+final state interaction
+finite amplitude sound
+finite difference equation
+finite element method
+floating zone-melting method
+four wave mixing
+free electron laser
+free electron model
+free spectral range
+fresnel zone plate
+galactic cosmic rays
+gas dynamic laser
+giant magnetic moment
+gibbs free energy
+good quantum number
+grain boundary diffusion
+grain boundary sliding
+grand canonical ensemble
+grand partition function
+grand unified theory
+guiding center approximation
+hard magnetic material
+heat conduction equation
+heat of adsorption
+heat of mixing
+heat of sublimation
+helical spin structure
+helmholtz free energy
+high density excitons
+high energy physics
+high magnetic field
+high permeability material
+high speed flow
+high spin state
+high temperature superconductor
+holographic diffraction grating
+hot electron transistor
+ideal fermi gas
+independent particle model
+induced magnetic anisotropy
+inertial confinement fusion
+infrared absorption spectrum
+internal magnetic field
+intrinsic stacking fault
+ion acoustic wave
+ion cyclotron resonance
+ion larmor radius
+ion plasma frequency
+ion saturation current
+ionization cross section
+ionization vacuum gauge
+itinerant electron magnetism
+laser-induced fluorescence spectroscopy
+lattice gas model
+lattice green function
+lattice specific heat
+light water reactor
+line of force
+linear response theory
+linear uniform motion
+linearly polarized light
+liquid phase growth
+local thermal equilibrium
+localized magnetic moment
+localized spin model
+long-range order parameter
+low dose irradiation
+low-energy electron diffraction
+lower hybrid resonance
+lower yield point
+lyman α line
+lyotropic liquid crystal
+magnetic dipole interaction
+magnetic domain walls
+magnetic field strength
+magnetic flux compression
+magnetic flux density
+magnetic hysteresis loop
+magnetic reynolds number
+mass absorption coefficient
+mean field approximation
+mean free path
+mean free time
+mean square radius
+metallic thin film
+method of images
+mhd power generation
+modulus of elasticity
+molar extinction coefficient
+molar heat capacity
+molecular field approximation
+moment of inertia
+momentum accommodation coefficient
+momentum compaction factor
+monte carlo method
+mos field-effect transistor
+moving coordinate system
+muon spin rotation
+near infrared radiation
+near infrared spectrum
+normal conducting state
+normal glow discharge
+normal shock wave
+nuclear magnetic relaxation
+nuclear resonance fluorescence
+nuclear stopping power
+oil diffusion pump
+optical oscillator strength
+optical parametric amplification
+optical parametric oscillation
+optical path difference
+optical path length
+optical pulse compression
+optical rotatory power
+optical spin orientation
+optical transfer function
+orbital angular momentum
+partial differential equation
+phase contrast method
+plane of incidence
+plane of polarization
+plane wave approximation
+polarized ion source
+polarized raman scattering
+poloidal magnetic field
+polymer liquid crystal
+principle of equivalence
+principle of relativity
+principle of superposition
+quadrupole mass spectrometer
+quantity of electricity
+quantum size effect
+quark cluster model
+radial distribution function
+radius of curvature
+random packing structure
+random phase approximation
+rare earth elements
+rare earth nuclei
+reaction rate constant
+regular singular point
+relativistic quantum mechanics
+resistive wall instability
+resolved shear stress
+resonance raman effect
+resonant tunneling diode
+retarded green function
+reverse breakdown voltage
+reversed field pinch
+rf ion source
+rotating magnetic field
+rotational quantum number
+saturated vapor pressure
+scanning electron microscope
+scanning tunneling microscope
+second harmonic generation
+second virial coefficient
+secondary cosmic rays
+secondary ion emission
+selected area diffraction
+shape memory effect
+simple cubic lattice
+simple harmonic motion
+slow beam extraction
+solid borne sound
+solid phase growth
+sound absorbing material
+sound absorption coefficient
+sound power level
+spatial frequency filtering
+specific surface area
+spectral line shape
+spectral line width
+spectral luminous efficiency
+spontaneous electric polarization
+sputter ion pump
+square well potential
+standard light source
+static induction transistor
+static magnetic field
+static pressure tube
+stochastic differential equation
+stokes stream function
+stopping cross section
+stress intensity factor
+strip transmission line
+structural phase transition
+sum frequency generation
+sum over states
+supersaturated solid solution
+surface acoustic wave
+surface active agent
+surface barrier detector
+symmetry of glide
+system of particles
+theory of gravity
+thermal diffuse scattering
+thermal lens effect
+time projection chamber
+total angular momentum
+transfer integral method
+transmission electron diffraction
+transmission electron microscope
+ultraviolet light source
+ultraviolet photoelectron spectroscopy
+unified field theory
+uniformly accelerated motion
+upper hybrid resonance
+vacuum expectation value
+van hove singularity
+van vleck paramagnetism
+vapor phase growth
+variable range hopping
+very high pressure
+very low temperature
+vibrational quantum number
+virtual bound state
+wave number space
+x-ray absorption edge
+x-ray photoelectron spectroscopy
+x-ray structure analysis
+zinc blend structure
+zone melting method

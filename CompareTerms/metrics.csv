@@ -1,0 +1,11 @@
+timestamp,ground_truth_file,result_file,len_gt,len_result,true_positives,precision,recall,f1_score
+2025-12-19 20:05:08,.\data\agri2\test_term_Agriculture_2gram.txt,.\data\agri2\agri2_reconstruct_terms_2gram.txt,545,321,316,0.9844,0.5798,0.7298
+2025-12-20 18:54:51,.\data\agri2\test_term_Agriculture_2gram.txt,.\dataset_reconstruct_terms_2gram.txt,545,175,174,0.9943,0.3193,0.4833
+2025-12-20 20:11:42,.\data\agri2\test_term_Agriculture_2gram.txt,.\agri2_reconstruct_terms_2gram.txt,545,313,309,0.9872,0.5670,0.7203
+2025-12-20 20:37:42,.\data\agri2\test_term_Agriculture_2gram.txt,.\dataset_reconstruct_terms_2gram.txt,545,183,180,0.9836,0.3303,0.4945
+2025-12-20 21:26:43,.\data\timeline\agri2\test_agri2_timeline.txt,.\dataset_reconstruct_terms_2gram.txt,467,114,114,1.0000,0.2441,0.3924
+2025-12-29 06:37:42,.\data\agri2emb\test_term_Agriculture_2gram.txt,.\dataset_reconstruct_terms_agri2emb_2gram.txt,545,271,267,0.9852,0.4899,0.6544
+2025-12-29 06:46:27,.\data\agri2emb\test_term_Agriculture_2gram.txt,.\dataset_reconstruct_terms_2gram.txt,545,489,475,0.9714,0.8716,0.9188
+2025-12-29 06:58:07,.\data\agri2emb\test_term_Agriculture_2gram.txt,.\dataset_reconstruct_terms_2gram.txt,545,413,402,0.9734,0.7376,0.8392
+2025-12-29 07:14:37,.\data\agri2emb\test_term_Agriculture_2gram.txt,.\dataset_reconstruct_terms_2gram.txt,545,1710,403,0.2357,0.7394,0.3574
+2025-12-29 07:21:18,.\data\agri2emb\test_term_Agriculture_2gram.txt,.\dataset_reconstruct_terms_2gram.txt,545,911,476,0.5225,0.8734,0.6538

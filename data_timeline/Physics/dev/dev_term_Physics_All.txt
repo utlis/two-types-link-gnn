@@ -1,0 +1,484 @@
+sextet
+target
+subcritical
+virial
+timbre
+whisker
+triplet
+bremsstrahlung
+bifurcation
+catalysis
+accelerometer
+additivity
+albedo
+conformation
+demagnetization
+crowdion
+coherent
+doughnut
+coset
+directivity
+chromatography
+continuum
+fermi
+enthalpy
+electronegativity
+enzyme
+image
+linkage
+interaction
+monochromatization
+model
+microbalance
+norm
+magnetohydrodynamics
+microwave
+polymorph
+photocathode
+outgassing
+photosynthesis
+spherulite
+spectrophotometry
+remanence
+sonar
+transmittance
+ultrasonic
+trajectory
+wavelength
+transducer
+vector
+antisymmetric
+carotenoid
+antiferromagnetism
+candela
+anisotropy
+calorimetry
+depolarization
+diffractometer
+domain
+kink
+identity
+imagery
+interferometer
+network
+nucleation
+multipole
+micromagnetics
+propagator
+positron
+radiometer
+photocurrent
+pyroelectricity
+polymer
+overdamping
+sensitization
+swirl
+semiconductor
+skyshine
+scalar
+simultaneity
+aggregation
+automaton
+analyticity
+aerosol
+activation
+diffusivity
+dimer
+dilatometry
+convolution
+cryostat
+convergence
+coherence
+dilation
+compatibility
+exciton
+etalon
+fluorescence
+eigenfunction
+invariant
+invariance
+magnetoresistance
+mbe
+reflectivity
+plasmoid
+photolysis
+radiolysis
+photoproduction
+stokes
+superconductive
+singlet
+relativistic
+spallation
+space-charge
+sputtering
+anharmonicity
+boson
+astrophysics
+desorption
+computer
+cosmology
+esca
+ferroelectricity
+emittance
+electrophoresis
+electromagnetism
+eigenvalue
+inverter
+interdiffusion
+intercalation
+hydrophone
+heterodyne
+muon
+magnon
+one-dimensional
+omnidirectional
+phonon
+photon
+superfluid
+stoichiometry
+chemical laser
+compensation temperature
+complex impedance
+congruent melt
+confinement time
+coordinate representation
+data communication
+dielectronic recombination
+dual model
+electron promotion
+eikonal approximation
+forbidden reflection
+fraunhofer diffraction
+fresnel rhomb
+fresnel lens
+fuel cell
+growth spiral
+hall coefficient
+heavy ion
+intergranular fracture
+inverse problem
+landau damping
+magnetic semiconductor
+mass defect
+maxwell model
+mode selection
+mos structure
+nonlinear wave
+nuclear fusion
+optical mixing
+optical resonator
+optical deflection
+orbital diamagnetism
+phase transition
+phase modulation
+phase hologram
+plasma heating
+polarized target
+polarization angle
+positron annihilation
+rotational coupling
+small polaron
+snowplow model
+sound radiation
+spatial coherence
+spin sublevel
+spread function
+stark effect
+superheavy element
+surface plasma
+taylor expansion
+thermal electron
+transverse polarization
+transverse momentum
+vacuum polarization
+virtual photon
+vibronic state
+virtual source
+acoustic emission
+adaptive control
+adsorption time
+beam line
+boltzmann equation
+bound exciton
+circulation quantum
+collective motion
+convex lens
+critical coupling
+critical phenomenon
+debye temperature
+density wave
+electron detachment
+energy analyser
+ferromagnetic superconductor
+fermi liquid
+fission barrier
+flux method
+fourier analysis
+fusion reactor
+harmonic order
+hermite polynomial
+image charge
+intensity region
+intensity modulation
+ionic conductivity
+kaonic atom
+knight shift
+lamb shift
+laser resonator
+large polaron
+liquid crystal
+magnetic superconductor
+magnetic bubble
+maxwell distribution
+mode distribution
+mott transition
+neel temperature
+neutron star
+newtonian viscosity
+newtonian flow
+nusselt number
+parton model
+penning discharge
+phase separation
+phase problem
+polarized nucleus
+powder diffraction
+radiative decay
+reflection grating
+rf acceleration
+semiconductor memory
+solar furnace
+spatial frequency
+strain wave
+structure function
+thermoluminescence dosimeter
+tilt boundary
+transverse relaxation
+transfer matrix
+viscoelastic fluid
+zeeman energy
+alfven wave
+autoionizing state
+auger effect
+ballistic mode
+avoided crossing
+bcs theory
+black hole
+boltzmann statistics
+bragg diffraction
+brownian motion
+circular accelerator
+cluster ion
+coherent bremsstrahlung
+compton effect
+dissociative attachment
+dye laser
+electron spectroscopy
+fano factor
+fermi gas
+fermi level
+feynman diagram
+flow visualization
+fluxoid motion
+fourier transformation
+gaussian beam
+gauge invariance
+green function
+hopping conduction
+hypersonic wave
+infrared laser
+inverse bremsstrahlung
+ion laser
+ion impact
+ion scattering
+josephson effect
+jost function
+langmuir probe
+laser amplifier
+laue method
+laves phase
+laue pattern
+lorentz force
+lorentz invariance
+magnetic confinement
+memory effect
+mis structure
+modulation index
+mott scattering
+nitrogen laser
+object wave
+optical transmission
+overlap population
+pair creation
+perfect diamagnetism
+phonon excitation
+plasma diagnostics
+poisson equation
+polarization interferometer
+quantum liquid
+raman spectroscopy
+raman effect
+rayleigh wave
+residual voltage
+rf plugging
+schmidt number
+selective excitation
+solar cell
+spectral resolution
+spin fluctuation
+supernova explosion
+supernova remnant
+superconducting wire
+surface recombination
+umklapp process
+uncertainty principle
+ultraviolet detector
+unitary group
+vacuum arc
+vickers hardness
+vlasov equation
+wave absorber
+yukawa potential
+zeeman effect
+zone axis
+atomic beam
+atomic radius
+beam splitter
+bond alternation
+brillouin scattering
+broken symmetry
+bridgman method
+complex amplitude
+cosmological term
+critical relaxation
+critical exponent
+current noise
+czochralski method
+depletion layer
+detection limit
+dilution refrigerator
+dissipative system
+electrostatic septum
+energy width
+ensemble average
+exotic atom
+fermi distribution
+fluorescence spectrophotometer
+gaussian model
+injection laser
+ionic conductor
+kink instability
+kubo formula
+laser damage
+laser fusion
+laser medium
+lattice spacing
+limit cycle
+mass filter
+mixed valence
+mode locking
+multiple diffraction
+neutral current
+negative electrode
+nonlinear oscillation
+nonlinear conduction
+pairing rotation
+probabilistic interpretation
+proximity effect
+quantum defect
+radial coupling
+rayleigh scattering
+reciprocal space
+rowland circle
+rutherford scattering
+selective growth
+seebeck effect
+shift factor
+smectic phase
+speech production
+static friction
+static fatigue
+superconducting cavity
+tunable laser
+wave optics
+zero sound
+analog signal
+anderson model
+anderson localization
+antiphase domain
+boson expansion
+cascade shower
+charged current
+coaxial resonator
+coherence factor
+contact angle
+cooperative phenomenon
+ct complex
+cyclotron motion
+damping force
+discharge cleaning
+directional coupler
+dislocation velocity
+excitonic molecule
+excitonic phase
+fourier transform
+grain boundary
+heavy lepton
+heisenberg model
+hot electron
+ion implantation
+ion channeling
+josephson junction
+kapitza resistance
+laser gyroscope
+langevin equation
+magnetostrictive effect
+mie scattering
+neutral beam
+optical damage
+optical rectification
+optical communication
+order parameter
+pion condensation
+positive feedback
+raman laser
+relativistic quantum mechanics
+saddle point method
+standard light source
+stress intensity factor
+abnormal grain growth
+density functional formalism
+finite amplitude sound
+high spin state
+magnetic thin film
+nuclear stopping power
+heavy ion reaction
+inverse scattering method
+laser isotope separation
+local electric field
+negative ion source
+polarized raman scattering
+surface acoustic wave
+antisymmetric exchange interaction
+complex wave number
+discharge pumped laser
+dynamical structure factor
+electric flux density
+electromagnetic cascade shower
+high speed flow
+holographic diffraction grating
+photon counting method
+reversed field pinch
+second harmonic generation
+shape memory effect
+static induction transistor
+center of mass
+chemical vapor deposition
+color center laser
+ferroelastic phase transition
+free electron laser
+itinerant electron magnetism
+lattice gauge theory
+magnetic flux tube
+optical transfer function
+toroidal magnetic field

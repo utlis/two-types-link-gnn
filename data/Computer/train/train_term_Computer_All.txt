@@ -1,0 +1,2581 @@
+abstract
+abstraction
+accept
+accumulator
+action
+actuator
+adapter
+add-on
+adder
+addition
+address
+adjacency
+agenda
+ai
+algorithm
+aliasing
+allocation
+allocator
+alternative
+ambiguity
+amplifier
+amplitude
+analog
+analysis
+ancestor
+animation
+ansi
+antenna
+aperture
+application
+approximation
+arbiter
+architecture
+articulation
+artifact
+asm
+assemble
+assembler
+assertion
+assignment
+ate
+atom
+atomicity
+attention
+attenuation
+attribute
+audio-visual
+audit
+authentication
+automatic
+automation
+automaton
+automorphism
+av
+backoff
+backplane
+backtracking
+backup
+balance
+band
+bank
+basis
+batch
+baud
+beam
+beat
+bell
+bibliography
+binary
+binaural
+bistable
+blackboard
+blanking
+blinking
+block
+blocking
+board
+bonding
+bootstrap
+borrow
+bottleneck
+bottom-up
+branch
+bridge
+broadcast
+browser
+bubble
+bug
+burst
+business
+busy
+bypass
+byte
+cable
+caching
+cai
+call
+cancel
+candidate
+canonical
+card
+carry
+case
+catalog
+category
+ccd
+cd
+cdma
+cell
+centrex
+chain
+chaining
+chaos
+chassis
+chat
+chattering
+checkpoint
+chip
+chopper
+cipher
+circumscription
+class
+classification
+clause
+clique
+clock
+closure
+cluster
+clustering
+code
+codec
+coding
+collation
+collator
+collision
+combinatorics
+comment
+compaction
+comparator
+comparison
+compatibility
+complement
+completion
+component
+computer
+computerize
+concatenation
+concurrency
+concurrent
+condenser
+condition
+conductivity
+conflict
+congruence
+conjunction
+connector
+consciousness
+consistency
+consistent
+console
+consonants
+constant
+contact
+contention
+context
+contour
+control
+conversational
+conversion
+convolution
+copy
+copyright
+core
+correlation
+correlator
+cost
+coupler
+courseware
+cover
+crash
+crossbar
+crosstalk
+cryptology
+ct
+curvature
+customize
+customizing
+cycle
+cylinder
+damping
+dat
+datagram
+db
+dcna
+ddr
+debugger
+debugging
+deck
+declarative
+decoder
+decoding
+decrement
+decryption
+default
+defined
+delay
+demodulation
+description
+descriptor
+design
+destination
+detection
+detector
+determinant
+deterministic
+diagnosis
+diagonalizable
+dialing
+dice
+dictation
+die
+dielectric
+difference
+differentiator
+digital
+digitization
+digitize
+digitizer
+directivity
+directory
+discretization
+discriminant
+discriminator
+display
+disposition
+dissemination
+distortion
+distribution
+disturbance
+divisor
+dma
+document
+documentation
+domain
+dot
+downsizing
+dpi
+dram
+drift
+drifting
+dse
+dsp
+dtp
+dual
+duality
+dummy
+dump
+duplex
+earth
+ebcdic
+echo
+editing
+editor
+eigenvalue
+eigenvector
+electrocardiogram
+electroencephalogram
+electron
+electronics
+element
+ellipsis
+emulate
+emulation
+emulator
+enable
+encapsulation
+encode
+encoder
+encoding
+encryption
+endurance
+enhancement
+eniac
+enterprise
+entity
+entropy
+entry
+envelope
+environment
+equalization
+equalizer
+equivalence
+erase
+ergonomics
+escape
+esd
+estimation
+evaluation
+execution
+executive
+exhaustive
+expandability
+expectation
+export
+extension
+extent
+extrapolation
+eyes
+facsimile
+fade-in
+failure
+fault
+fcs
+fdm
+feedback
+fep
+fifo
+file
+film
+filter
+finite
+fire
+firing
+firmware
+fixed-point
+flag
+flicker
+flip-flop
+floating-point
+floppy
+folding
+format
+fractal
+fraction
+frame
+front-end
+fsk
+ftam
+function
+functional
+fuse
+gaas
+gain
+gap
+garbage
+gate
+gateway
+gauss
+generalization
+generate
+generator
+generic
+ghost
+global
+gps
+gradation
+granularity
+graph
+ground
+group
+groupware
+gui
+hacker
+hamiltonian
+handler
+handset
+hashing
+hazard
+head
+heap
+help
+heuristics
+hierarchy
+highlighting
+highway
+history
+hit
+hmm
+hole
+hologram
+htl
+hue
+hybrid
+hypergraph
+hypermedia
+hypertext
+hysteresis
+icon
+identification
+iec
+ignore
+illumination
+image
+immediate
+impersonation
+implement
+implementation
+implementor
+implication
+impulse
+in-line
+inclusive
+independency
+index
+indicator
+inductance
+information
+infrastructure
+inheritance
+inhibit
+initialize
+injection
+input-output
+insertion
+install
+installation
+instruction
+instrumentation
+integer
+integral
+intelligence
+intensity
+interaction
+intercepting
+interface
+interference
+interlock
+internet
+interpolation
+interpreter
+interrupt
+intersection
+invalid
+inversion
+ipl
+ipsj
+ir
+irreducible
+isdn
+iso
+isochronism
+isochronous
+iteration
+itu
+jam
+jcs
+jicst
+jipdec
+job
+journal
+joystick
+jump
+junction
+kanji
+kdd
+key
+keying
+knowledge
+label
+lan
+latency
+lattice
+layer
+lcd
+ld
+leader
+leakage
+lexicon
+lf
+library
+lifetime
+limited
+limiter
+line
+linearity
+link
+linkage
+linker
+lisp
+list
+literacy
+live
+load
+loader
+local
+locality
+location
+log-out
+logic
+logo
+loop
+lot
+lpm
+lsi
+luminance
+machine
+macro
+magazine
+magnetism
+maintainability
+maintenance
+majority
+manipulator
+manual
+map
+margin
+mark
+marker
+mask
+masking
+matching
+matrix
+matroid
+maxwell
+media
+median
+mega
+membership
+memory
+menu
+merge
+merging
+message
+metasymbol
+metrics
+mhs
+mhz
+mib
+micro
+microprogram
+microprogramming
+microwave
+middleware
+mig
+miniaturization
+mlp
+mode
+modification
+modularity
+modularization
+modulation
+modulator
+module
+modulo
+moire
+monitoring
+monochromator
+monolithic
+monotone
+morpheme
+mosaic
+mount
+mouse
+mps
+msi
+mss
+multi-channel
+multi-chip
+multi-point
+multi-task
+multi-thread
+multichip
+multimedia
+multimicroprocessor
+multiplexer
+multiplexing
+multiplication
+multiplier
+multiply
+multipoint
+multiprocessing
+multiprocessor
+mvs
+named
+necessity
+negation
+neocognitron
+nest
+nesting
+net
+network
+networking
+neurocomputer
+nfs
+node
+nonvolatile
+norm
+normalization
+normalize
+nrz
+nucleus
+null
+number
+numeral
+numeric
+object
+object-oriented
+occurrence
+ocr
+octtree
+oem
+offline
+offset
+online
+oodb
+operator
+optimizer
+optoelectronics
+order
+orientation
+origin
+orthogonal
+oscillation
+output
+overflow
+overlap
+overlay
+overrun
+overwrite
+package
+packaging
+packet
+pad
+padding
+page
+paging
+panel
+paper
+paragraph
+parallel
+parallelism
+parameter
+parameterization
+paraphrase
+parser
+parsing
+partition
+partitioning
+pascal
+passing
+password
+path
+pattern
+pci
+peak
+pel
+per
+perception
+perceptron
+persistence
+perspective
+phoneme
+photodiode
+phototransistor
+pico
+pin
+pipelining
+pit
+pivoting
+plaintext
+plan
+plasticity
+platen
+plotter
+plug
+pointer
+polyhedron
+polymorphic
+pop
+port
+pos
+positioner
+positioning
+post
+postfix
+postprocessing
+power
+ppm
+pragmatics
+pre-analysis
+precision
+prediction
+prefetch
+prefixing
+preform
+preprocessing
+preset
+primitives
+printer
+priority
+probe
+procedure
+process
+processing
+processor
+producer
+product
+production
+productivity
+profile
+program
+programmable
+programmer
+programming
+proposition
+protocol
+prototype
+prototyping
+proving
+pruning
+pub
+pulse
+push
+push-pull
+quantization
+quantizer
+queue
+quicksort
+quinary
+quotient
+race
+radiation
+radiowave
+radix
+ram
+range
+raster
+rating
+read/write
+reading
+ready
+realizable
+reasoning
+receiver
+reciprocal
+recognition
+record
+recovery
+recursion
+reduction
+redundancy
+reflectance
+refresh
+refutation
+register
+regression
+regularity
+regulator
+relaxation
+relay
+reliability
+rem
+remainder
+rendering
+rendezvous
+reorganization
+repeater
+report
+representative
+request
+requirements
+resist
+resonance
+restart
+restore
+result
+reusable
+rewrite
+ribbon
+ring
+ringing
+risc
+risk
+robot
+robotics
+rollback
+rolling
+rotate
+round
+round-robin
+route
+routine
+row
+rpc
+rtl
+rule
+run
+sam
+sampling
+satellite
+save
+scalability
+scanner
+schedule
+schema
+scope
+scr
+scramble
+scrambler
+scratch
+screening
+scroll
+sdl
+seal
+search
+sector
+security
+seek
+segmentation
+select
+selection
+selectivity
+self-adapting
+self-organization
+self-organizing
+semaphore
+semiconductor
+semigroup
+sequencing
+serializability
+serializable
+serialization
+serviceability
+servo
+session
+setup
+severity
+shell
+sign
+signal
+silicon
+sim
+simd
+simplex
+simulation
+simulator
+simultaneity
+site
+skeleton
+slave
+slider
+slot
+smalltalk
+socket
+software
+sonagram
+sort
+source
+spectrum
+spelling
+splitting
+spread
+stack
+stage
+staging
+stall
+standard
+state
+station
+stationary
+step
+storage
+store
+strain
+structure
+structured
+stylus
+subchannel
+subgoal
+subgraph
+subject
+submicron
+subprogram
+subset
+substitute
+substrate
+substring
+subsystem
+subtraction
+subtype
+sum
+svc
+swapping
+switcher
+symbol
+synchronization
+synchronous
+syntax
+synthesis
+table
+tablet
+tag
+tape
+tapping
+tat
+tc
+teaching
+telecommunication
+teleconference
+telematics
+telemetry
+television
+telewriting
+tempest
+term
+terminal
+ternary
+test
+tetrahedron
+text
+texture
+thesaurus
+thickening
+thin-film
+thinning
+thrashing
+threading
+throughput
+thz
+tlb
+token
+tolerance
+toner
+topology
+tracer
+track
+tracking
+traffic
+transaction
+transceiver
+transcription
+transfer
+transient
+transistor
+transition
+translating
+translator
+transponder
+transport
+transportation
+transputer
+trapping
+trimming
+trouble-shooting
+truncation
+trunk
+ttc
+tutoring
+type
+typewriter
+undefined
+underflow
+unification
+union
+unit
+unload
+usability
+user
+utilization
+vacuum
+valid
+value
+variable
+vc
+vector
+vectorization
+vendor
+verb
+verification
+verifier
+verify
+version
+via
+video
+videotex
+view
+viewdata
+virtualization
+virus
+visualization
+vld
+vlsi
+vocoder
+volatile
+voltage
+volume
+vowels
+voxel
+vulnerability
+wafer
+wait
+window
+wire
+wiring
+workload
+writer
+writing
+yield
+zone
+zooming
+a priori
+absolute error
+absolute value
+abstract machine
+abstract syntax
+access authority
+access control
+access interface
+access level
+access mechanism
+access method
+access point
+access speed
+access time
+accounting information
+acoustic wave
+active filter
+actual coding
+adaptive filter
+adaptive routing
+address format
+address translation
+address translator
+adjacency matrix
+advanced control
+affine transformation
+algebraic multiplicity
+alphanumeric data
+analog input
+analog memory
+analog multiplier
+analog output
+analysis method
+analysis program
+and circuit
+and element
+and gate
+and operation
+appearance model
+application layer
+application program
+application software
+arithmetic addition
+arithmetic coding
+arithmetic operation
+arithmetic unit
+array type
+arrival process
+arrival rate
+ascending order
+assembly language
+assembly process
+associative processor
+associative retrieval
+associative unit
+asynchronous circuit
+asynchronous communication
+attribute grammar
+authoring system
+auto-correlation function
+automatic coding
+automatic indexing
+automatic operation
+automatic programming
+automatic tuning
+autonomous vehicle
+axiom system
+back propagation
+background noise
+backward compatibility
+backward reasoning
+balanced tree
+bar code
+baseband signal
+basic block
+basic circuit
+basic interface
+basic language
+batch processing
+bayesian inference
+beam deflection
+beam position
+bernoulli trial
+bessel function
+best distribution
+bibliographic information
+binary counter
+binary image
+binary relation
+binary search
+binary tree
+bit line
+bit operation
+bit pattern
+bit rate
+bit stream
+black box
+blackboard model
+block size
+block structure
+board computer
+board mounting
+boolean comparison
+bootstrap loader
+boundary representation
+branch instruction
+broad band
+broadband system
+broadcast message
+bubble sort
+buffer control
+building block
+burst error
+bus cycle
+byte code
+cache coherence
+cache consistency
+cache control
+cache controller
+cache memory
+capacity planning
+card guide
+card reader
+carrier frequency
+cartesian product
+cascading rollback
+case frame
+cash dispenser
+cell library
+cell size
+cellular array
+cellular automaton
+cellular network
+central difference
+centralized control
+centralized operation
+centralized processing
+chain code
+channel capacity
+character input
+character pattern
+character reader
+character recognition
+character segmentation
+character set
+character string
+characteristic equation
+chebyshev interpolation
+chebyshev polynomial
+check point
+child process
+chomsky hierarchy
+circuit analysis
+circuit simulation
+circuit switching
+clock frequency
+clock generator
+clock rate
+clock skew
+close coupling
+closed formula
+co-channel interference
+code generation
+code motion
+code optimization
+coded form
+coded image
+coding scheme
+coding system
+cognitive engineering
+cognitive psychology
+collision detection
+command language
+commit protocol
+common language
+common memory
+communication area
+communication control
+communication cost
+communication link
+communication network
+communication overhead
+communication processing
+communication protocol
+communication satellite
+communication service
+commutative ring
+compilation method
+compilation time
+compile method
+compile time
+compiler generation
+compiler language
+complete graph
+complex object
+composition method
+computable function
+computer animation
+computer architecture
+computer code
+computer complex
+computer crime
+computer education
+computer installation
+computer language
+computer literacy
+computer network
+computer program
+computer simulation
+computer system
+computer tomography
+computer virus
+computer vision
+conceptual diagram
+conceptual schema
+concurrent process
+conditional branch
+conditional information
+conditional probability
+conformal mapping
+congestion control
+connectionist model
+connectionless type
+constant folding
+construction management
+content retrieval
+context switching
+continued fraction
+contour tracing
+contract model
+control circuit
+control command
+control computer
+control data
+control dependence
+control field
+control flow
+control group
+control loop
+control model
+control operation
+control parameter
+control procedures
+control register
+control section
+control structure
+control system
+conversational mode
+conversational program
+convex hull
+convolutional code
+corrective maintenance
+correlation analysis
+correlation coefficient
+correlation function
+cost management
+cost performance
+credit card
+critical path
+critical section
+cross software
+cross talk
+crossbar switch
+cubic spline
+data abstraction
+data array
+data bank
+data base
+data bus
+data cache
+data cartridge
+data compression
+data consistency
+data definition
+data dependency
+data dictionary
+data dictionary/directory
+data directory
+data driven
+data encryption
+data engineering
+data error
+data exchange
+data file
+data flow
+data format
+data handling
+data integration
+data item
+data line
+data logger
+data modeling
+data object
+data packet
+data path
+data processing
+data protection
+data retrieval
+data sharing
+data sheet
+data source
+data space
+data stream
+data track
+data transformation
+data type
+data unit
+database creation
+database design
+database making
+database manipulation
+database processor
+database server
+database system
+dead time
+deadlock detection
+debugging tool
+decentralized control
+decision making
+decision problem
+decision rule
+decision table
+decision tree
+declarative semantics
+dedicated computer
+dedicated system
+deductive database
+deductive method
+deep knowledge
+definite clause
+delay time
+demonstration system
+dense matrix
+density function
+deontic logic
+description method
+design automation
+design review
+desktop computer
+desktop publishing
+deterministic language
+development time
+device driver
+diagonal element
+difference method
+differential signal
+diffusion equation
+diffusion method
+digital circuit
+digital computer
+digital data
+digital filter
+digital image
+digital multimeter
+digital signature
+digital television
+dip switch
+direct access
+direct manipulation
+direct product
+directed graph
+directory service
+directory system
+discrete data
+discrete model
+discriminant analysis
+disk access
+disk input/output
+disk storage
+disk unit
+display device
+display position
+display screen
+distance transform
+distortion measure
+distributed computing
+distributed control
+distributed database
+distributed environment
+distributed memory
+distribution function
+distribution transparency
+dither method
+division algorithm
+document management
+document reader
+dot matrix
+down load
+down time
+downward compatibility
+draft proposal
+drum scanner
+dual processor
+duty cycle
+dynamic access
+dynamic allocation
+dynamic characteristics
+dynamic image
+dynamic linking
+dynamic logic
+dynamic model
+dynamic priority
+dynamic programming
+dynamic ram
+dynamic range
+dynamic reconfiguration
+dynamic storage
+dynamic structure
+edge detection
+editor program
+eigenvalue problem
+electric circuit
+electromagnetic shield
+electron beam
+electron gun
+electronic book
+electronic computer
+electronic library
+electronic publishing
+electrophotographic printer
+embedded system
+empty set
+encryption technology
+end system
+engineering database
+engineering workstation
+environmental information
+environmental model
+equational logic
+equilibrium state
+equivalent circuit
+equivalent relation
+equivalent transformation
+error correcting
+error correction
+error detection
+error estimate
+error propagation
+error rate
+evaluation function
+evaluation system
+execution time
+exhaustive search
+expected value
+experimental design
+experimental error
+expert system
+exponential distribution
+external interruption
+external memory
+external storage
+eye movement
+facility management
+factory automation
+fault control
+fault tolerance
+fault tolerant
+feed forward
+feedback circuit
+fiber optics
+file access
+file allocation
+file data
+file format
+file manager
+file memory
+file processing
+file server
+file sharing
+file system
+film recorder
+finite automaton
+finite dimensional
+finite field
+fir filter
+fixed head
+fixed routing
+flexible disk
+flip-flop circuit
+floating head
+floor plan
+floppy disk
+flow analysis
+flow control
+flow diagram
+flow graph
+fluorescent screen
+flying head
+formal semantics
+formal specification
+formal system
+formal theory
+formant frequency
+format specification
+formula manipulation
+forward reasoning
+fourier analysis
+fourier transform
+frame buffer
+frame memory
+frame model
+frame problem
+frame system
+free access
+free space
+frequency band
+frequency distribution
+frequency modulation
+frequency response
+frequency shift
+full adder
+full associative
+full duplex
+function call
+function key
+functional block
+functional dependency
+functional hierarchy
+functional language
+functional module
+functional programming
+functional requirement
+functional unit
+fundamental solution
+fuzzy control
+fuzzy set
+galerkin method
+game theory
+garbage collector
+gate array
+gaussian distribution
+general instruction
+generating function
+generative grammar
+genetic algorithms
+geometric model
+geometric multiplicity
+global convergence
+global optimization
+gompertz curve
+graph theory
+graphic display
+graphic library
+graphic processing
+gray code
+gray level
+group theory
+hadamard transform
+hamming distance
+hand-held computer
+handy terminal
+hardware accelerator
+hardware algorithm
+hardware engine
+harmonic distortion
+hash function
+hash table
+heat sink
+heuristic function
+hidden line
+hidden surface
+hierarchical clustering
+hierarchical model
+hierarchical relation
+hierarchical structure
+high order
+high resistance
+histogram equalization
+hit ratio
+holographic memory
+home automation
+home bus
+horizontal distribution
+horn clause
+host computer
+host machine
+host processor
+host system
+hot spot
+hough transform
+huffman code
+human factor
+human interface
+human-machine interface
+hybrid system
+hysteresis loop
+ic card
+ic memory
+identification number
+idle time
+image database
+image encoding
+image enlargement
+image generation
+image information
+image processing
+image processor
+image recognition
+image restoration
+image scanner
+image segmentation
+image sensor
+image understanding
+impulse noise
+in cipher
+indirect addressing
+inductive inference
+inequality condition
+inference engine
+inference machine
+inference rule
+infinite dimensional
+information architecture
+information content
+information distribution
+information hiding
+information interchange
+information provider
+information rate
+information security
+information structure
+information technology
+information theory
+infrared rays
+initial condition
+initial value
+input channel
+input data
+input equipment
+input field
+input file
+input mode
+input series
+input terminal
+input unit
+input-output interface
+instruction cache
+integer programming
+integral equation
+integrated circuit
+integrated database
+intensity modulation
+interactive devices
+interactive graphics
+interactive system
+interface card
+intermediate language
+intermediate storage
+internal clock
+internal code
+internal representation
+internal sort
+international connection
+interpreter language
+interrupt handler
+interval analysis
+interval arithmetic
+inventory control
+inverse mapping
+inverse matrix
+inverse system
+japanese processing
+job class
+job procedure
+job scheduling
+joint distribution
+kalman filter
+kana keyboard
+kanji printer
+key class
+key management
+knowledge acquisition
+knowledge database
+knowledge engineering
+knowledge representation
+knowledge source
+label set
+laboratory automation
+language interpreter
+language processing
+language specification
+language system
+language translation
+language understanding
+laplace transform
+laplacian operator
+laser diode
+laser disk
+laser machining
+laser printer
+laser processing
+lazy evaluation
+leading edge
+leakage current
+learning curve
+learning machine
+leased line
+led printer
+level control
+library routine
+library system
+likelihood ratio
+line deletion
+line printer
+linear combination
+linear function
+linear mapping
+linear motor
+linear prediction
+linear space
+linearly separable
+link protocol
+list processing
+list representation
+literature search
+load analysis
+load balancing
+load module
+local loop
+local memory
+log data
+logic device
+logic function
+logic gate
+logic language
+logic minimization
+logic programming
+logic simulation
+logical address
+logical expression
+logical implication
+logical operation
+longest match
+look ahead
+loop gain
+loop network
+low order
+machine architecture
+machine instruction
+machine language
+macro cell
+magnetic card
+magnetic domain
+magnetic field
+magnetic flux
+magnetic head
+magnetic material
+magnetic recording
+magnetic storage
+magnetic tape
+magneto-optical recording
+mahalanobis distance
+main frame
+main program
+main storage
+maintenance management
+majority method
+majority rule
+man-machine interface
+manhattan distance
+manual operation
+markov chain
+markov model
+markov process
+markov property
+masked rom
+mass storage
+master card
+mathematical model
+matrix computation
+matrix printer
+meaning representation
+measurement error
+media conversion
+medical image
+membership function
+membrane keyboard
+memory addressing
+memory architecture
+memory area
+memory cell
+memory controller
+memory density
+memory device
+memory element
+memory hierarchy
+memory module
+menu selection
+mesh network
+message certification
+message passing
+message processing
+message transfer
+meta data
+microcomputer architecture
+microprocessor architecture
+microprocessor unit
+minimax approximation
+minimax method
+minimum element
+mirrored disk
+mobile communication
+modal logic
+modulation factor
+modulation rate
+module generator
+module structure
+modus ponens
+monitor system
+morphological analysis
+mother board
+movable head
+multi-processor system
+multimedia communication
+multimicroprocessor system
+multiple bus
+multiple programming
+multiple regression
+multiplication algorithm
+natural deduction
+natural join
+natural language
+nested loop
+net list
+network address
+network control
+network layer
+network model
+network node
+network path
+network protocol
+network resource
+network security
+network service
+network topology
+neural network
+newton method
+newton-raphson method
+noise generator
+noise level
+noise margin
+nonlinear optimization
+normal distribution
+normal form
+number representation
+numerical analysis
+numerical computation
+numerical integration
+object code
+object model
+object module
+object oriented
+object program
+object-oriented programming
+objective function
+office computer
+office processor
+on delay
+one board
+online processing
+online system
+open architecture
+open loop
+open system
+open type
+operating system
+operating time
+operation part
+operation time
+operational semantics
+operations research
+operator console
+optical cable
+optical communication
+optical computer
+optical fiber
+optical flow
+optical switch
+optimal algorithm
+optimization method
+or circuit
+order structure
+output channel
+output function
+output mode
+output process
+package software
+packaging density
+packet communication
+packet switching
+page mode
+page table
+paging algorithm
+parallel access
+parallel algorithm
+parallel computer
+parallel control
+parallel data
+parallel edges
+parallel inference
+parallel machine
+parallel operation
+parallel processing
+parallel processor
+parity error
+parse tree
+parser generator
+partial derivative
+partial pivoting
+pattern matching
+pattern space
+performance analysis
+performance evaluation
+peripheral equipment
+perpendicular recording
+personal computing
+phase change
+phase compensation
+phase modulation
+phase shift
+phoneme recognition
+photo detector
+physical data
+physical design
+physical layer
+physical security
+physical structure
+picture data
+pipeline operation
+pitch extraction
+pitch frequency
+planar graph
+plasma display
+point-to-point connection
+pointing device
+polynomial ring
+portable terminal
+positive feedback
+potential function
+power control
+power failure
+power level
+power series
+power spectrum
+prediction error
+prediction model
+prefix notation
+presentation layer
+preventive maintenance
+primary function
+print control
+print out
+printed circuit
+printer port
+printer server
+printing mechanism
+priority processing
+priority queue
+privacy protection
+probability theory
+problem solving
+procedural knowledge
+procedure call
+process management
+process migration
+process scheduling
+process simulation
+processing program
+processing speed
+processing time
+processor array
+processor management
+production control
+program analysis
+program control
+program counter
+program development
+program file
+program module
+program optimization
+program package
+program phase
+program product
+program specification
+program text
+programming language
+programming paradigm
+programming style
+programming system
+programming tool
+progress management
+projective transformation
+property list
+propositional logic
+protocol conversion
+protocol converter
+protocol function
+protocol specification
+prototype system
+pulse width
+pushdown automata
+qualitative reasoning
+query language
+query optimization
+queue management
+radio communication
+random access
+random number
+random process
+random sampling
+rapid access
+raster graphics
+rational arithmetic
+rational function
+rational number
+rayleigh quotient
+read time
+real time
+recognition ratio
+record format
+recording track
+recovery procedure
+recurrence formula
+recurrence relation
+recursive function
+recursively enumerable
+reduction machine
+reference monitor
+register file
+register set
+regression analysis
+regression line
+regular expression
+relational algebra
+relational calculus
+relational model
+relative error
+reliable system
+remote computing
+remote maintenance
+remote sensing
+requirements analysis
+requirements definition
+resource allocation
+resource management
+resource manager
+resource sharing
+response time
+rete algorithm
+retrieval key
+retrieval time
+reusable program
+rewriting rule
+rhetorical structure
+ring network
+robot language
+rule base
+sampling error
+sampling frequency
+sampling theorem
+satellite communication
+satellite link
+scanning line
+scene analysis
+scene understanding
+scheduling algorithm
+scheduling method
+scheduling model
+search key
+search strategy
+search tree
+secondary storage
+security control
+security level
+security policy
+security technique
+seek time
+selection function
+semantic feature
+semantic mapping
+semantic network
+semiconductor device
+semiconductor laser
+semiconductor memory
+sense line
+sequence control
+sequential circuit
+serial data
+serial interface
+serial number
+serial processing
+serial scan
+server function
+server process
+service area
+service routine
+service time
+servo system
+session layer
+session service
+set theory
+setup time
+shape model
+shape modeling
+share mode
+shared resource
+sign on
+sign test
+signal channel
+signal detection
+signal-to-noise ratio
+silicon transistor
+silicon valley
+simple matrix
+simulated annealing
+sine wave
+single chip
+single precision
+slotted aloha
+software development
+software engineer
+software engineering
+software error
+software library
+software maintenance
+software management
+software package
+software productivity
+software system
+solid modeling
+sound spectrogram
+source code
+source library
+source program
+space complexity
+spanning tree
+sparse matrix
+spatial filter
+spatial frequency
+speaker adaptation
+speaker recognition
+special feature
+special functions
+specific address
+spectrum analysis
+specular reflection
+speech generation
+speech processing
+speech production
+speech signal
+speech synthesis
+speech understanding
+spindle motor
+spline function
+spline interpolation
+spread sheet
+stable state
+stack machine
+stand alone
+stand-by redundancy
+standard cell
+standard deviation
+standard interface
+standard pattern
+start point
+state transition
+static structure
+statistical analysis
+statistical information
+stochastic process
+stochastic programming
+storage area
+storage capacity
+storage device
+storage management
+string data
+strongly connected
+structural analysis
+structure description
+structure editor
+structured analysis
+structured design
+student model
+successive approximation
+super computer
+support program
+support system
+surface model
+surface structure
+switching equipment
+switching function
+switching network
+switching systems
+switching time
+symbol manipulation
+syntax analysis
+syntax checker
+syntax rule
+synthesis method
+system analysis
+system architecture
+system auditor
+system bus
+system call
+system clock
+system component
+system configuration
+system design
+system development
+system down
+system dynamics
+system environment
+system evaluation
+system failure
+system generator
+system house
+system model
+system planning
+system resource
+system software
+system test
+systems engineering
+tactile sensor
+tape feed
+target language
+target program
+task name
+technical standards
+telecommunication network
+telephone network
+telephone set
+temporal logic
+terminal adapter
+terminal equipment
+terminal user
+test bed
+test chart
+test data
+test mode
+test pattern
+test process
+test program
+testing system
+text database
+text knowledge
+text mode
+texture mapping
+theorem prover
+thermal conductivity
+thermal head
+think time
+threshold element
+threshold function
+threshold voltage
+tightly coupled
+time complexity
+time redundancy
+time series
+timing analyzer
+to assemble
+to assign
+to compare
+to compile
+to convert
+to edit
+to expand
+to load
+to pack
+to program
+to qualify
+to return
+to search
+to segment
+to sort
+to transform
+token bus
+token ring
+top-down design
+torus network
+touch panel
+trace scheduling
+tracing method
+track pitch
+transaction data
+transaction management
+transfer characteristics
+transfer function
+transfer method
+transfer rate
+transfer time
+transient phenomena
+transition diagram
+transmission control
+transmission loss
+transmitted light
+transport layer
+transport mechanism
+transport service
+tree network
+tree search
+tree structure
+truncation error
+turing machine
+turn around
+turtle graphics
+type definition
+type theory
+ultrasonic wave
+ultraviolet rays
+uniform distribution
+unit delay
+universal language
+up time
+upper layer
+user authentication
+user identification
+user interface
+user terminal
+variable block
+variable pipeline
+variable word
+vector processor
+vector space
+version control
+vertical scanning
+video data
+video game
+video ram
+video tape
+virtual call
+virtual channel
+virtual file
+virtual machine
+virtual memory
+virtual set
+virtual terminal
+visual communication
+visual property
+visual simulation
+vme bus
+vocal organs
+vocal tract
+voice mail
+voice quality
+voice response
+voice synthesizer
+voltage control
+wafer process
+waiting time
+waveform coding
+white noise
+window size
+wire frame
+wired logic
+word boundary
+word length
+word line
+word processing
+word processor
+word spotting
+work load
+work memory
+work standard
+work station
+working memory
+writing speed
+a posteriori probability
+a programming language
+adaptive control system
+adaptive transform coding
+airline reservation system
+algebraic specification method
+application layer structure
+application programming interface
+arithmetic logic unit
+artificial intelligence technology
+asynchronous transfer mode
+automatic teller machine
+average access time
+average waiting time
+band pass filter
+band transmission system
+binocular stereo vision
+bit error rate
+bit per inch
+boundary value problem
+bulletin board system
+c programming language
+call processing program
+central limit theorem
+character recognition system
+charge coupled device
+chomsky normal form
+client server model
+cluster development method
+common memory type
+computer aided design
+computer aided engineering
+computer assisted instruction
+computerized typesetting system
+constructive solid geometry
+context free language
+control flow analysis
+control flow graph
+creation of task
+data acquisition system
+data communication network
+data dictionary system
+data encryption standard
+data flow analysis
+data flow graph
+data handling system
+data link layer
+data management system
+data transfer rate
+data transmission rate
+database management system
+decision support system
+depth first search
+deterministic finite automaton
+diagnosis support system
+digital image processing
+digital signal processing
+digital signal processor
+direct memory access
+discrete fourier transform
+distributed database system
+distributed operating system
+distributed processing environment
+document processing system
+document structure analysis
+dot matrix printer
+dynamic programming matching
+electron beam lithography
+electronic industries association
+electronic mail service
+electronic switching system
+electrostatic latent image
+extended gaussian image
+fifth generation computer
+finite element method
+flexible manufacturing system
+floppy disk drive
+formal description technique
+frequency division multiplexing
+general purpose computer
+general purpose microprocessor
+general purpose register
+graphical user interface
+gray level histogram
+greatest common divisor
+handwritten numerals recognition
+hidden markov model
+hidden surface removal
+high level language
+high reliability system
+higher order logic
+hospital information system
+human genome project
+image input unit
+image pattern recognition
+image processing algorithm
+image processing package
+image understanding system
+information network system
+information processing service
+information processing system
+information system auditor
+initial value problem
+integer programming problem
+intellectual property right
+interactive design system
+international telecommunication union
+japanese industrial standards
+japanese line printer
+japanese word processor
+knowledge base machine
+large scale integration
+least herbrand model
+line search method
+line spectrum pair
+linear prediction analysis
+linear programming problem
+liquid crystal device
+liquid crystal display
+local area network
+locality of reference
+logic programming language
+logical address space
+long term memory
+low pass filter
+magnetic disk drive
+magnetic disk unit
+magnetic flux density
+manner of articulation
+massively parallel computer
+maximum entropy method
+maximum likelihood estimation
+media access control
+medical information system
+monte carlo simulation
+munsell color system
+natural language processing
+network control unit
+network management function
+office document architecture
+open systems interconnection
+optical character reader
+optical disk system
+osi application layer
+parallel computation model
+parallel distributed processing
+parallel inference machine
+parallel processing algorithm
+parallel processing system
+personal computer network
+phrase structure grammar
+piecewise linear approximation
+polynomial time algorithm
+problem solving system
+program conversion tool
+program development environment
+programmable logic device
+pseudo random number
+public switched network
+pyramid data structure
+quality of service
+query processing method
+random access machine
+random access memory
+random number generation
+real time system
+real-time operating system
+reconstruction from projections
+recursively enumerable set
+register transfer level
+relational data base
+relational data model
+relational database system
+remote control system
+remote procedure call
+ring of integers
+root mean square
+round robin scheduling
+satellite communication system
+servo control system
+shared memory type
+shift jis code
+single chip microcomputer
+single virtual storage
+software development environment
+software development process
+special purpose computer
+speech generation system
+speech information processing
+speech recognition system
+speech understanding system
+standard data format
+standard normal distribution
+statistical pattern recognition
+steepest descent method
+strategic information system
+strongly connected component
+structure analysis method
+system life cycle
+test support tool
+third online system
+track per inch
+traffic control system
+transaction management system
+turn around time
+uninterruptible power supply
+value added network
+variable length coding
+vertical magnetic recording
+video conference system
+virtual memory management
+virtual memory system
+visual information processing
+waveform coding system
+wide area network

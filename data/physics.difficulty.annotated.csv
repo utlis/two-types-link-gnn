@@ -1,0 +1,5187 @@
+term,term_lemma,difficulty_score
+1/f noise,1 / f noise,1.0
+A15 structure,a15 structure,2.0
+AC,ac,3.0
+AC bias,ac bias,3.0
+AC corona,ac corona,4.0
+AC-DC converter,ac - dc converter,3.0
+ADC,adc,3.0
+AM,be,1.0
+APW method,apw method,2.0
+AVF cyclotron,avf cyclotron,3.0
+Aharonov-Bohm effect,aharonov - bohm effect,2.0
+Airy functions,airy function,2.5
+Alfven velocity,alfven velocity,3.0
+Alfven wave,alfven wave,2.5
+Anderson Hamiltonian,anderson hamiltonian,3.0
+Anderson localization,anderson localization,3.0
+Anderson model,anderson model,2.6666666666666665
+Anderson orthogonality theorem,anderson orthogonality theorem,3.0
+Anderson transition,anderson transition,4.0
+Auger effect,auger effect,2.0
+Auger electron,auger electron,3.0
+Auger electron spectroscopy,auger electron spectroscopy,3.0
+Avogadro constant,avogadro constant,4.0
+BA gauge,ba gauge,3.0
+BCS theory,bcs theory,3.0
+BRS transformation,br transformation,3.0
+BW state,bw state,3.333333333333333
+Babinet compensator,babinet compensator,3.0
+Babinet-Soleil compensator,babinet - soleil compensator,3.0
+Balmer series,balmer series,3.0
+Banach space,banach space,2.0
+Barkas effect,barkas effect,2.0
+Baxter model,baxter model,2.6666666666666665
+Bayes' theorem,bayes ' theorem,3.0
+Benard convection,benard convection,3.0
+Bernstein wave,bernstein wave,2.5
+Bessel function,bessel function,2.5
+Bethe-Salpeter equation,bethe - salpeter equation,4.0
+Bhabha scattering,bhabha scattering,3.0
+Bianchi identity,bianchi identity,3.0
+Bitter pattern,bitter pattern,3.0
+Blasius flow,blasius flow,3.0
+Bloch function,bloch function,2.5
+Bloch wall,bloch wall,1.0
+Bohm diffusion,bohm diffusion,3.0
+Bohr magneton,bohr magneton,3.0
+Bohr radius,bohr radius,3.0
+Boltzmann constant,boltzmann constant,4.0
+Boltzmann distribution,boltzmann distribution,3.0
+Boltzmann equation,boltzmann equation,4.0
+Boltzmann factor,boltzmann factor,4.0
+Boltzmann statistics,boltzmann statistics,4.0
+Boltzmann transport equation,boltzmann transport equation,3.75
+Borda's pendulum,borda 's pendulum,3.0
+Born approximation,bear approximation,1.5
+Born-Oppenheimer approximation,bear - oppenheimer approximation,1.5
+Bose condensation,bose condensation,6.0
+Bose-Einstein condensation,bose - einstein condensation,6.0
+Boussinesq approximation,boussinesq approximation,3.0
+Bragg diffraction,bragg diffraction,3.0
+Bragg reflection,bragg reflection,3.0
+Bravais lattice,bravais lattice,3.0
+Breit equation,breit equation,4.0
+Brewster's angle,brewster 's angle,2.5
+Bridgman method,bridgman method,2.0
+Brillouin function,brillouin function,2.5
+Brillouin scattering,brillouin scattering,3.0
+Brillouin zone,brillouin zone,2.0
+Brody distribution,brody distribution,3.0
+Brownian motion,brownian motion,4.0
+Burgers vector,burger vector,1.0
+CP invariance,cp invariance,3.0
+CP violation,cp violation,3.0
+CT,ct,3.0
+CT complex,ct complex,3.0
+CW laser,cw laser,4.0
+CW oscillation,cw oscillation,3.0
+Carnot cycle,carnot cycle,3.0
+Casimir operator,casimir operator,4.0
+Cauchy problem,cauchy problem,1.0
+Cauchy-Riemann relations,cauchy - riemann relation,3.0
+Chebyshev polynomial,chebyshev polynomial,3.0
+Cherenkov radiation,cherenkov radiation,3.0
+Compton effect,compton effect,2.0
+Compton scattering,compton scattering,3.0
+Compton wavelength,compton wavelength,3.0
+Cooper pair,cooper pair,1.0
+Coriolis force,coriolis force,3.0
+Cotton effect,cotton effect,2.5
+Couette flow,couette flow,3.0
+Coulomb barrier,coulomb barrier,4.0
+Coulomb collision,coulomb collision,3.0
+Coulomb energy,coulomb energy,4.0
+Coulomb excitation,coulomb excitation,3.0
+Coulomb force,coulomb force,3.0
+Coulomb gap,coulomb gap,3.0
+Coulomb gauge,coulomb gauge,3.0
+Coulomb integral,coulomb integral,5.0
+Coulomb potential,coulomb potential,3.5
+Coulomb scattering,coulomb scattering,3.0
+Curie constant,curie constant,4.0
+Curie point,curie point,1.5
+Curie temperature,curie temperature,2.0
+Curie-Weiss law,curie - weiss law,2.0
+Czochralski method,czochralski method,2.0
+DA converter,da converter,3.0
+DC,dc,3.0
+DNA,dna,4.0
+DTA,dta,3.0
+DWBA,dwba,3.0
+Dalitz plot,dalitz plot,4.0
+Debye approximation,debye approximation,3.0
+Debye length,debye length,3.0
+Debye model,debye model,2.6666666666666665
+Debye temperature,debye temperature,2.0
+Debye's relaxation,debye 's relaxation,2.5
+Debye-Waller factor,debye - waller factor,4.0
+Dember effect,dember effect,2.0
+Dingle temperature,dingle temperature,2.0
+Dirac bracket,dirac bracket,4.0
+Dirac equation,dirac equation,4.0
+Dirac particle,dirac particle,4.0
+Doppler broadening,doppler broaden,4.0
+Doppler effect,doppler effect,2.0
+Doppler shift,doppler shift,3.5
+Doppler width,doppler width,4.0
+Doppler-free spectroscopy,doppler - free spectroscopy,2.333333333333333
+Drell ratio,drell ratio,3.0
+ENDOR,endor,3.0
+ESCA,esca,3.0
+EXAFS,exafs,3.0
+Einstein equation,einstein equation,4.0
+Einstein's specific heat,einstein 's specific heat,1.8333333333333333
+Ekman layer,ekman layer,3.0
+Esaki diode,esaki diode,3.0
+Euclidean space,euclidean space,2.0
+Euler-Lagrange equation,euler - lagrange equation,4.0
+Ewald method,ewald method,2.0
+F-center,f - center,3.0
+FM,fm,3.0
+Fabry-Perot etalon,fabry - perot etalon,3.0
+Fabry-Perot interferometer,fabry - perot interferometer,3.0
+Fabry-Perot resonator,fabry - perot resonator,3.0
+Fano factor,fano factor,4.0
+Faraday cup,faraday cup,1.0
+Faraday effect,faraday effect,2.0
+Fermat's principle,fermat 's principle,2.0
+Fermi acceleration,fermi acceleration,3.0
+Fermi distribution,fermi distribution,3.0
+Fermi energy,fermi energy,4.0
+Fermi gas,fermi gas,2.0
+Fermi interaction,fermi interaction,3.0
+Fermi level,fermi level,3.0
+Fermi liquid,fermi liquid,3.0
+Fermi momentum,fermi momentum,3.0
+Fermi sphere,fermi sphere,3.0
+Fermi surface,fermi surface,3.0
+Fermi velocity,fermi velocity,3.0
+Fermi wavenumber,fermi wavenumber,3.0
+Fermi-Dirac distribution,fermi - dirac distribution,3.0
+Feynman diagram,feynman diagram,3.0
+Fick's law,fick 's law,1.5
+Fierz transformation,fierz transformation,3.0
+Fizeau interferometer,fizeau interferometer,3.0
+Fock space,fock space,2.0
+Fokker-Planck equation,fokker - planck equation,4.0
+Fourier analysis,fouri analysis,3.0
+Fourier expansion,fouri expansion,4.0
+Fourier integral,fourier integral,5.0
+Fourier series,fourier series,3.0
+Fourier synthesis,fourier synthesis,6.0
+Fourier transform,fourier transform,3.0
+Fourier transformation,fouri transformation,3.0
+Frank loop,frank loop,2.0
+Franz-Keldysh effect,franz - keldysh effect,2.0
+Fraunhofer diffraction,fraunhofer diffraction,3.0
+Frenkel exciton,frenkel exciton,3.0
+Fresnel diffraction,fresnel diffraction,3.0
+Fresnel lens,fresnel len,3.0
+Fresnel rhomb,fresnel rhomb,3.0
+Fresnel zone,fresnel zone,2.0
+Fresnel zone plate,fresnel zone plate,2.0
+Friedel sum rule,friedel sum rule,1.75
+Froude number,froude number,1.0
+G matrix,g matrix,3.0
+GIC,gic,3.0
+GM counter,gm counter,3.5
+Galerkin's method,galerkin 's method,1.5
+Gaussian approximation,gaussian approximation,3.0
+Gaussian beam,gaussian beam,4.0
+Gaussian distribution,gaussian distribution,3.0
+Gaussian model,gaussian model,2.6666666666666665
+Gaussian process,gaussian process,3.5
+Gibbs free energy,gibbs free energy,3.1666666666666665
+Ginzburg-Landau equation,ginzburg - landau equation,4.0
+Golay cell,golay cell,3.0
+Goldstone boson,goldstone boson,3.0
+Goldstone mode,goldstone mode,3.0
+Gorsky effect,gorsky effect,2.0
+Grashof number,grashof number,1.0
+Green function,green function,2.0
+Green function method,green function method,2.0
+Gunn diode,gunn diode,3.0
+Gunn effect,gunn effect,2.0
+Hall angle,hall angle,2.5
+Hall coefficient,hall coefficient,1.0
+Hall effect,hall effect,1.5
+Hall element,hall element,2.0
+Hall mobility,hall mobility,2.5
+Hamilton-Jacobi equation,hamilton - jacobi equation,4.0
+Hamiltonian,hamiltonian,3.0
+Hamiltonian operator,hamiltonian operator,4.0
+Hartree approximation,hartree approximation,3.0
+Hartree-Fock approximation,hartree - fock approximation,3.0
+Hausdorff dimension,hausdorff dimension,4.0
+Heisenberg model,heisenberg model,2.6666666666666665
+Helmholtz equation,helmholtz equation,4.0
+Helmholtz free energy,helmholtz free energy,3.1666666666666665
+Helmholtz resonator,helmholtz resonator,3.0
+Hermite polynomial,hermite polynomial,3.0
+Hermitian operator,hermitian operator,4.0
+Higgs mechanism,higgs mechanism,5.0
+Hilbert space,hilbert space,2.0
+Hilbert transform,hilbert transform,3.0
+Hubbard model,hubbard model,2.6666666666666665
+Hund rule,hund rule,2.5
+IC,ic,3.0
+ICRF heating,icrf heating,2.0
+ISO,iso,3.0
+JIS,ji,3.0
+Jahn-Teller effect,jahn - teller effect,2.5
+Jones matrix,jones matrix,3.0
+Jones vector,jones vector,3.0
+Jones zone,jones zone,2.0
+Josephson current,josephson current,3.0
+Josephson effect,josephson effect,2.0
+Josephson frequency,josephson frequency,3.0
+Josephson junction,josephson junction,3.0
+Jost function,jost function,2.5
+Joule heat,joule heat,2.5
+Joule heating,joule heating,2.0
+K-absorption,k - absorption,3.0
+Kalman filter,kalman filter,3.0
+Kapitza resistance,kapitza resistance,4.0
+KdV equation,kdv equation,4.0
+Kelvin method,kelvin method,2.0
+Kelvin-Helmholtz instability,kelvin - helmholtz instability,3.0
+Kerr effect,kerr effect,2.0
+Kikuchi pattern,kikuchi pattern,3.0
+Kirchhoff's law,kirchhoff 's law,1.5
+Kirkendall effect,kirkendall effect,2.0
+Klein-Gordon equation,klein - gordon equation,4.0
+Knight shift,knight shift,3.5
+Knoop hardness,knoop hardness,3.0
+Kondo effect,kondo effect,2.0
+Kondo lattice,kondo lattice,3.0
+Kondo temperature,kondo temperature,2.0
+Kossel line,kossel line,2.5
+Kramers doublet,kramers doublet,3.0
+Kubo formula,kubo formula,3.0
+L-S coupling,l - s coupling,3.0
+LC circuit,lc circuit,5.0
+LEED,leed,3.0
+LET,let,1.0
+LS force,ls force,3.0
+LSI,lsi,3.0
+Lagrange top,lagrange top,2.0
+Lagrangian,lagrangian,3.0
+Lamb dip,lamb dip,3.5
+Lamb shift,lamb shift,3.25
+Lamb wave,lamb wave,2.75
+Landau damping,landau damp,3.0
+Landau diamagnetism,landau diamagnetism,3.0
+Landau gauge,landau gauge,3.0
+Landau level,landau level,3.0
+Landau quantization,landau quantization,3.0
+Lang camera,lang camera,1.0
+Langevin equation,langevin equation,4.0
+Langevin function,langevin function,2.5
+Langevin transducer,langevin transducer,3.0
+Langmuir probe,langmuir probe,4.0
+Langmuir-Blodgett film,langmuir - blodgett film,2.5
+Laplace equation,laplace equation,4.0
+Laplace transformation,laplace transformation,3.0
+Laplacian,laplacian,3.0
+Larmor diamagnetism,larmor diamagnetism,3.0
+Larmor frequency,larmor frequency,3.0
+Larmor precession,larmor precession,3.0
+Larmor radius,larmor radius,3.0
+Laue function,laue function,2.5
+Laue method,laue method,2.0
+Laue pattern,laue pattern,3.0
+Laue spot,laue spot,2.5
+Laue zone,laue zone,2.0
+Laval nozzle,laval nozzle,3.0
+Laves phase,lave phase,5.0
+Lawson criterion,lawson criterion,3.0
+Legendre polynomial,legendre polynomial,3.0
+Lennard-Jones potential,lennard - jones potential,3.5
+Lie algebra,lie algebra,2.5
+Lie group,lie group,2.25
+Lie product,lie product,2.25
+Lifshitz invariant,lifshitz invariant,3.0
+Liouville's equation,liouville 's equation,2.5
+London equation,london equation,4.0
+Lorentz force,lorentz force,3.0
+Lorentz gauge,lorentz gauge,3.0
+Lorentz group,lorentz group,2.0
+Lorentz invariance,lorentz invariance,3.0
+Lorentz local field,lorentz local field,1.5
+Lorentz transformation,lorentz transformation,3.0
+Lyapunov function,lyapunov function,2.5
+Lyman series,lyman series,3.0
+Lyman α line,lyman α line,2.5
+M-center,m - center,3.0
+MBE,mbe,3.0
+MHD power generation,mhd power generation,2.0
+MIS structure,mis structure,2.0
+MO method,mo method,2.0
+MOS diode,mos diode,3.0
+MOS field-effect transistor,mos field - effect transistor,2.3333333333333335
+MOS structure,mos structure,2.0
+Mach number,mach number,1.0
+Mach-Zehnder interferometer,mach - zehnder interferometer,3.0
+Magnus effect,magnus effect,2.0
+Majorana particle,majorana particle,4.0
+Maxwell distribution,maxwell distribution,3.0
+Maxwell model,maxwell model,2.6666666666666665
+Maxwell stress,maxwell stress,3.5
+Maxwell's equations,maxwell 's equation,2.5
+Maxwell-Boltzmann distribution,maxwell - boltzmann distribution,3.0
+Meissner effect,meissner effect,2.0
+Michelson interferometer,michelson interferometer,3.0
+Mie scattering,mie scattering,3.0
+Minkowski space-time,minkowski space - time,2.25
+Monte Carlo method,monte carlo method,2.0
+Montgomery method,montgomery method,2.0
+Morse potential,morse potential,3.5
+Mott insulator,mott insulator,3.0
+Mott scattering,mott scattering,3.0
+Mott transition,mott transition,4.0
+Mueller matrix,mueller matrix,3.0
+NMR,nmr,3.0
+NMR imaging,nmr imaging,3.0
+Navier-Stokes equation,navier - stoke equation,4.5
+Neel state,neel state,3.333333333333333
+Neel temperature,neel temperature,2.0
+Neel wall,neel wall,1.0
+Nernst effect,nernst effect,2.0
+Newton's equation of motion,newton 's equation of motion,2.5
+Newtonian flow,newtonian flow,3.0
+Newtonian fluid,newtonian fluid,4.0
+Newtonian mechanics,newtonian mechanic,3.0
+Newtonian viscosity,newtonian viscosity,3.0
+Noether's theorem,noether 's theorem,1.0
+Nusselt number,nusselt number,1.0
+Ohm's law,ohm 's law,1.5
+Overhauser effect,overhauser effect,2.0
+Pauli paramagnetism,pauli paramagnetism,3.0
+Pauli's exclusion principle,pauli 's exclusion principle,2.6666666666666665
+Peclet number,peclet number,1.0
+Peierls potential,peierl potential,3.5
+Peierls transition,peierl transition,4.0
+Peltier effect,peltier effect,2.0
+Penning discharge,pen discharge,2.5
+Penning effect,pen effect,1.5
+Penning ionization,pen ionization,1.0
+Penrose pattern,penrose pattern,3.0
+Pirani gauge,pirani gauge,3.0
+Planck constant,planck constant,4.0
+Pockels effect,pockel effect,2.0
+Poincare sphere,poincare sphere,3.0
+Poiseuille flow,poiseuille flow,3.0
+Poisson bracket,poisson bracket,4.0
+Poisson equation,poisson equation,4.0
+Poisson ratio,poisson ratio,3.0
+Poynting vector,poynte vector,3.0
+Prandtl number,prandtl number,1.0
+Q-branch,q - branch,2.5
+Q-switched laser,q - switch laser,3.5
+Q-value,q - value,3.0
+QCD,qcd,3.0
+QED,qed,3.0
+R-branch,r - branch,2.5
+RF acceleration,rf acceleration,3.0
+RF plugging,rf plugging,3.0
+RHEED,rheed,3.0
+RNA,rna,3.0
+Raman active,raman active,3.0
+Raman effect,raman effect,2.0
+Raman laser,raman laser,4.0
+Raman microprobe,raman microprobe,3.0
+Raman scattering,raman scattering,3.0
+Raman spectroscopy,raman spectroscopy,3.0
+Raman-Nath diffraction,raman - nath diffraction,3.0
+Rankine-Hugoniot relations,rankine - hugoniot relation,3.0
+Rayleigh number,rayleigh number,1.0
+Rayleigh scattering,rayleigh scattering,3.0
+Rayleigh wave,rayleigh wave,2.5
+Rayleigh-Taylor instability,rayleigh - taylor instability,3.0
+Reynolds number,reynolds number,1.0
+Reynolds stress,reynolds stress,3.5
+Rowland circle,rowland circle,2.0
+Rutherford scattering,rutherford scattering,3.0
+Rydberg atoms,rydberg atom,2.0
+Rydberg series,rydberg series,3.0
+Rydberg state,rydberg state,3.333333333333333
+S-matrix,s - matrix,3.0
+SI,si,3.0
+SN ratio,sn ratio,3.0
+SQUID,squid,3.0
+Savart plate,savart plate,2.0
+Schmidt camera,schmidt camera,1.0
+Schmidt number,schmidt number,1.0
+Schottky barrier,schottky barrier,4.0
+Schottky defect,schottky defect,3.0
+Schottky diode,schottky diode,3.0
+Schottky effect,schottky effect,2.0
+Schottky type specific heat,schottky type specific heat,2.1666666666666665
+Schrodinger equation,schrodinger equation,4.0
+Schwinger model,schwinger model,2.6666666666666665
+Seebeck effect,seebeck effect,2.0
+Sellmeier's dispersion formula,sellmeier 's dispersion formula,2.0
+Shubnikov-de Haas effect,shubnikov - de haas effect,2.0
+Skyrme force,skyrme force,3.0
+Slater determinant,slater determinant,3.0
+Snell's law,snell 's law,1.5
+Snoek peak,snoek peak,4.0
+Stanton number,stanton number,1.0
+Stark effect,stark effect,2.0
+Stark ladder,stark ladder,3.0
+Stokes stream function,stokes stream function,2.75
+Stoner's theory,stoner 's theory,2.0
+Strouhal number,strouhal number,1.0
+TGA,tga,3.0
+TLD,tld,3.0
+TPC,tpc,3.0
+Taylor expansion,taylor expansion,4.0
+Taylor series,taylor series,3.0
+Thomson scattering,thomson scattering,3.0
+Toda lattice,toda lattice,3.0
+Tomonaga-Luttinger model,tomonaga - lutting model,2.6666666666666665
+Townsend discharge,townsend discharge,4.0
+Twyman-Green interferometer,twyman - green interferometer,1.5
+UPS,up,1.5
+Umklapp process,umklapp process,3.5
+Urbach rule,urbach rule,2.5
+VB method,vb method,2.0
+VLS mechanism,vls mechanism,5.0
+VLSI,vlsi,3.0
+Van de Graaff accelerator,van de graaff accelerator,3.0
+Vegard's law,vegard 's law,1.5
+Verdet constant,verdet constant,4.0
+Verneuil method,verneuil method,2.0
+Vickers hardness,vickers hardness,3.0
+Vlasov equation,vlasov equation,4.0
+Voigt model,voigt model,2.6666666666666665
+WKB method,wkb method,2.0
+Wannier exciton,wanni exciton,3.0
+Ward-Takahashi identity,ward - takahashi identity,3.0
+Weber number,weber number,1.0
+Weinberg angle,weinberg angle,4.0
+Weinberg-Salam model,weinberg - salam model,2.6666666666666665
+Weiss temperature,weiss temperature,2.0
+Weissenberg camera,weissenberg camera,1.0
+Weyl equation,weyl equation,4.0
+Wiedemann-Franz law,wiedemann - franz law,2.0
+Wigner crystal,wigner crystal,3.0
+Wigner distribution,wigner distribution,3.0
+Wollaston prism,wollaston prism,3.0
+X-ray astronomy,x - ray astronomy,3.0
+X-ray diffraction,x - ray diffraction,2.0
+X-ray generator,x - ray generator,2.0
+X-ray interferometer,x - ray interferometer,2.0
+X-ray laser,x - ray laser,3.0
+X-ray optics,x - ray optic,2.0
+X-ray photoelectron spectroscopy,x - ray photoelectron spectroscopy,2.0
+X-ray spectroscopy,x - ray spectroscopy,2.0
+X-ray structure analysis,x - ray structure analysis,2.3333333333333335
+X-ray topography,x - ray topography,4.0
+X-ray tube,x - ray tube,1.5
+YAG laser,yag laser,4.0
+Yang-Mills theory,yang - mill theory,3.5
+Young's experiment,young 's experiment,1.8333333333333333
+Young's modulus,young 's modulus,1.0
+Yukawa potential,yukawa potential,3.5
+Z0 boson,z0 boson,3.0
+Zeeman effect,zeeman effect,2.0
+Zeeman energy,zeeman energy,4.0
+Zeeman splitting,zeeman splitting,3.0
+aberration,aberration,6.0
+abnormal glow discharge,abnormal glow discharge,3.6666666666666665
+abnormal grain growth,abnormal grain growth,3.3333333333333335
+absolute configuration,absolute configuration,4.0
+absolute magnitude,absolute magnitude,4.0
+absolute measurement,absolute measurement,3.5
+absolute rotation,absolute rotation,4.0
+absolute temperature,absolute temperature,3.0
+absolute zero,absolute zero,4.0
+absorbance,absorbance,3.0
+absorbed dose,absorb dose,3.5
+absorptiometry,absorptiometry,3.0
+absorption,absorption,3.0
+absorption band,absorption band,1.0
+absorption coefficient,absorption coefficient,3.0
+absorption cross section,absorption cross section,1.5
+absorption edge,absorption edge,3.0
+absorption model,absorption model,2.6666666666666665
+absorption probability,absorption probability,3.0
+absorption spectrum,absorption spectrum,3.0
+absorptivity,absorptivity,3.0
+abundance,abundance,4.5
+accelerating tube,accelerate tube,1.0
+acceleration,acceleration,3.0
+acceleration potential,acceleration potential,3.5
+acceleration voltage,acceleration voltage,3.0
+accelerator,accelerator,3.0
+accelerometer,accelerometer,3.0
+acceptance,acceptance,3.0
+acceptor,acceptor,3.0
+acceptor level,acceptor level,3.0
+accommodation,accommodation,4.0
+accommodation coefficient,accommodation coefficient,4.0
+accretion disk,accretion disk,3.0
+accumulation layer,accumulation layer,3.0
+accumulation point,accumulation point,1.5
+accumulation ring,accumulation ring,1.5
+accumulator,accumulator,3.0
+accuracy,accuracy,3.0
+acoustic emission,acoustic emission,5.0
+acoustic impedance,acoustic impedance,5.0
+acoustic microscope,acoustic microscope,4.5
+acoustic mode,acoustic mode,5.0
+acoustic resistance,acoustic resistance,4.5
+acoustic transducer,acoustic transducer,5.0
+acoustic tube,acoustic tube,3.0
+acoustical holography,acoustical holography,3.0
+acoustically induced birefringence,acoustically induce birefringence,5.5
+acoustics,acoustic,5.0
+actinides,actinide,3.0
+actinometry,actinometry,3.0
+action,action,1.0
+action integral,action integral,3.0
+action potential,action potential,2.25
+action spectrum,action spectrum,1.0
+activation,activation,3.0
+activation analysis,activation analysis,3.0
+activation energy,activation energy,4.0
+activation volume,activation volume,3.0
+active center,active center,3.0
+active element,active element,3.0
+active medium,active medium,3.0
+active power,active power,2.5
+activity,activity,1.0
+adaptation,adaptation,3.0
+adaptive control,adaptive control,2.5
+adatom,adatom,3.0
+addition polymerization,addition polymerization,2.0
+additional heating,additional heating,2.0
+additive,additive,6.0
+additivity,additivity,3.0
+adhesion,adhesion,6.0
+adhesives,adhesive,3.0
+adiabatic,adiabatic,3.0
+adiabatic approximation,adiabatic approximation,3.0
+adiabatic change,adiabatic change,1.0
+adiabatic compressibility,adiabatic compressibility,3.0
+adiabatic compression,adiabatic compression,4.0
+adiabatic demagnetization,adiabatic demagnetization,3.0
+adiabatic expansion,adiabatic expansion,4.0
+adiabatic invariant,adiabatic invariant,3.0
+adiabatic potential,adiabatic potential,3.5
+adiabatic potential surface,adiabatic potential surface,3.25
+adiabatic process,adiabatic process,3.5
+adiabatic theorem,adiabatic theorem,3.0
+adjoint,adjoint,3.0
+admittance,admittance,3.0
+adsorbent,adsorbent,3.0
+adsorption,adsorption,3.0
+adsorption isotherm,adsorption isotherm,3.0
+adsorption structure,adsorption structure,2.0
+adsorption time,adsorption time,2.5
+advection,advection,3.0
+aeolian tone,aeolian tone,3.5
+aerodynamics,aerodynamic,3.0
+aerofoil,aerofoil,3.0
+aerosol,aerosol,3.0
+affinity,affinity,3.0
+after effect,after effect,2.0
+afterglow,afterglow,3.0
+aggregation,aggregation,3.0
+aging,age,1.0
+air capacitor,air capacitor,2.0
+air temperature,air temperature,2.0
+airfoil,airfoil,3.0
+albedo,albedo,3.0
+alignment,alignment,5.0
+alkali halide,alkali halide,3.0
+alkali metal,alkali metal,2.0
+allotrope,allotrope,3.0
+allowance,allowance,3.0
+allowed transition,allow transition,3.0
+alloy,alloy,3.0
+alternating current,alternate current,3.5
+alternating electromotive force,alternate electromotive force,3.5
+alternating voltage,alternate voltage,4.0
+ambipolar diffusion,ambipolar diffusion,3.0
+amorphous,amorphous,6.0
+amorphous metal,amorphous metal,4.0
+amorphous semiconductor,amorphous semiconductor,6.0
+ampere,ampere,3.0
+amplification,amplification,5.0
+amplification factor,amplification factor,4.5
+amplified spontaneous emission,amplify spontaneous emission,4.5
+amplifier,amplifier,4.0
+amplitude,amplitude,3.0
+amplitude hologram,amplitude hologram,3.0
+amplitude mode,amplitude mode,3.0
+amplitude modulation,amplitude modulation,3.0
+amplitude reflectance,amplitude reflectance,3.0
+amplitude transmittance,amplitude transmittance,3.0
+analog circuit,analog circuit,5.0
+analog signal,analog signal,4.0
+analysis,analysis,3.0
+analytic continuation,analytic continuation,3.0
+analytic solution,analytic solution,2.0
+analyticity,analyticity,3.0
+analyzer,analyzer,3.0
+anechoic room,anechoic room,2.0
+anelasticity,anelasticity,3.0
+anemometer,anemometer,3.0
+angle of attack,angle of attack,2.3333333333333335
+angle of diffraction,angle of diffraction,2.5
+angle of incidence,angle of incidence,2.5
+angle of reflection,angle of reflection,2.6666666666666665
+angle of refraction,angle of refraction,2.5
+angle of rotation,angle of rotation,2.5
+angle variable,angle variable,4.0
+angstrom,angstrom,3.0
+angular acceleration,angular acceleration,6.0
+angular correlation,angular correlation,6.0
+angular dispersion,angular dispersion,6.0
+angular distribution,angular distribution,4.5
+angular frequency,angular frequency,4.5
+angular momentum,angular momentum,6.0
+angular momentum transfer,angular momentum transfer,4.75
+angular velocity,angular velocity,6.0
+anharmonic oscillator,anharmonic oscillator,3.0
+anharmonic term,anharmonic term,3.0
+anharmonicity,anharmonicity,3.0
+anion,anion,3.0
+anisotropic exchange interaction,anisotropic exchange interaction,2.75
+anisotropy,anisotropy,3.0
+anisotropy constant,anisotropy constant,4.0
+anisotropy energy,anisotropy energy,4.0
+annealing,anneal,3.0
+annihilation radiation,annihilation radiation,3.0
+anode,anode,3.0
+anode fall,anode fall,2.5
+anomalous Hall effect,anomalous hall effect,1.5
+anomalous diffusion,anomalous diffusion,3.0
+anomalous dimension,anomalous dimension,4.0
+anomalous dispersion,anomalous dispersion,3.0
+anomalous magnetic moment,anomalous magnetic moment,3.0
+anomalous skin effect,anomalous skin effect,2.5
+anomalous transmission,anomalous transmission,4.0
+anomaly,anomaly,3.0
+antenna,antenna,3.0
+antibonding orbital,antibonde orbital,3.0
+antiferroelectricity,antiferroelectricity,3.0
+antiferromagnet,antiferromagnet,3.0
+antiferromagnetic resonance,antiferromagnetic resonance,3.0
+antiferromagnetism,antiferromagnetism,3.0
+antimatter,antimatter,3.0
+antineutrino,antineutrino,3.0
+antinucleon,antinucleon,3.0
+antioxidant,antioxidant,3.0
+antiphase boundary,antiphase boundary,3.0
+antiphase domain,antiphase domain,3.0
+antiproton,antiproton,3.0
+antireflection coating,antireflection coating,3.0
+antiresonance,antiresonance,3.0
+antisymmetric,antisymmetric,3.0
+antisymmetric exchange interaction,antisymmetric exchange interaction,2.75
+anvil,anvil,3.0
+aperiodic system,aperiodic system,2.0
+aperture,aperture,3.0
+aperture synthesis,aperture synthesis,6.0
+apodization,apodization,3.0
+appearance potential,appearance potential,2.75
+approximate solution,approximate solution,3.0
+approximation,approximation,3.0
+aqueous solution,aqueous solution,2.0
+arc,arc,3.0
+arc characteristics,arc characteristic,3.5
+arc discharge,arc discharge,4.0
+arc lamp,arc lamp,2.0
+are,be,1.0
+arithmetic circuit,arithmetic circuit,4.0
+arithmetic mean,arithmetic mean,2.6666666666666665
+arm,arm,2.0
+armature,armature,3.0
+articulation,articulation,6.0
+artificial satellite,artificial satellite,2.5
+aspect ratio,aspect ratio,3.0
+aspherical lens,aspherical len,3.0
+association,association,2.0
+astigmatism,astigmatism,3.0
+astronomy,astronomy,4.0
+astrophysics,astrophysic,3.0
+asymptotic expansion,asymptotic expansion,4.0
+asymptotic field,asymptotic field,1.0
+asymptotic freedom,asymptotic freedom,2.0
+asymptotic series,asymptotic series,3.0
+asymptotic solution,asymptotic solution,2.0
+atmosphere,atmosphere,3.0
+atmospheric pressure,atmospheric pressure,3.5
+atom,atom,2.0
+atomic beam,atomic beam,3.5
+atomic beam scattering,atomic beam scattering,3.5
+atomic collision,atomic collision,3.0
+atomic core,atomic core,3.5
+atomic energy,atomic energy,3.5
+atomic mass,atomic mass,3.25
+atomic model,atomic model,2.833333333333333
+atomic nucleus,atomic nucleus,3.0
+atomic number,atomic number,2.0
+atomic orbital,atomic orbital,3.0
+atomic physics,atomic physics,3.0
+atomic radius,atomic radius,3.0
+atomic spectrum,atomic spectrum,3.0
+atomic structure,atomic structure,2.5
+atomic volume,atomic volume,3.0
+atomic weight,atomic weight,2.5
+atomizing,atomizing,3.0
+attachment,attachment,3.0
+attenuated total reflection,attenuate total reflection,3.0
+attenuation,attenuation,3.0
+attenuation coefficient,attenuation coefficient,3.0
+attenuation constant,attenuation constant,4.0
+attenuation length,attenuation length,3.0
+attenuator,attenuator,3.0
+attraction,attraction,3.0
+attractive force,attractive force,2.5
+audible sound,audible sound,2.6666666666666665
+audio frequency,audio frequency,2.5
+aurora,aurora,3.0
+austenite,austenite,3.0
+autocollimation,autocollimation,3.0
+autocorrelation function,autocorrelation function,2.5
+autoionization,autoionization,3.0
+autoionizing state,autoionize state,3.333333333333333
+automatic control,automatic control,3.0
+automaton,automaton,3.0
+available energy,available energy,3.5
+average molecular weight,average molecular weight,2.0
+average potential,average potential,2.75
+average power,average power,2.0
+average value,average value,2.5
+avoided crossing,avoid crossing,2.5
+axial ratio,axial ratio,3.0
+axial vector,axial vector,3.0
+axial vector current,axial vector current,3.0
+azimuth,azimuth,3.0
+azimuth polarimeter,azimuth polarimeter,3.0
+azimuthal angle,azimuthal angle,4.0
+azimuthal quantum number,azimuthal quantum number,1.0
+b quark,b quark,3.0
+back flow,back flow,2.375
+backbending,backbende,3.0
+background,background,2.0
+background noise,background noise,1.5
+background radiation,background radiation,2.5
+backing pressure,back pressure,1.875
+backscattering,backscatter,3.0
+baffle,baffle,3.0
+bag model,bag model,1.8333333333333333
+baking,bake,2.0
+balance,balance,3.5
+ballistic galvanometer,ballistic galvanometer,3.0
+ballistic mode,ballistic mode,3.0
+ballooning instability,ballooning instability,3.0
+band,band,1.0
+band crossing,band cross,1.5
+band gap,band gap,2.0
+band model,band model,1.8333333333333333
+band noise,band noise,1.0
+band spectrum,band spectrum,1.0
+band structure,band structure,1.5
+band system,band system,1.5
+band-pass filter,band - pass filter,2.0
+bandwidth,bandwidth,3.0
+bar,bar,2.0
+bare mass,bare mass,3.5
+barrier,barrier,4.0
+baryon,baryon,3.0
+baryon number,baryon number,1.0
+baryonium,baryonium,3.0
+base,base,2.5
+base line,base line,2.5
+base metal,base metal,2.25
+base pressure,base pressure,2.25
+battery,battery,3.5
+bcc structure,bcc structure,2.0
+beam,beam,4.0
+beam analyzer,beam analyzer,4.0
+beam dump,beam dump,3.5
+beam extraction,beam extraction,4.0
+beam instability,beam instability,4.0
+beam line,beam line,3.25
+beam load,beam load,3.5
+beam monitor,beam monitor,3.5
+beam optics,beam optic,4.0
+beam splitter,beam splitter,4.0
+beam transport,beam transport,3.75
+bearing,bear,1.5
+beat,beat,3.5
+beat frequency,beat frequency,3.25
+bell jar,bell jar,2.0
+bellows,bellow,4.0
+bending,bend,3.0
+bending magnet,bend magnet,3.0
+bending moment,bend moment,2.0
+bending strength,bend strength,2.5
+bending vibration,bend vibration,3.5
+betatron,betatron,3.0
+betatron function,betatron function,2.5
+betatron oscillation,betatron oscillation,3.0
+bias,bias,3.0
+bias voltage,bias voltage,3.0
+biaxial crystal,biaxial crystal,3.0
+bifurcation,bifurcation,3.0
+big-bang,big - bang,2.0
+bimetal,bimetal,3.0
+binary alloy,binary alloy,3.0
+binary star,binary star,2.0
+binding energy,bind energy,4.0
+binomial distribution,binomial distribution,3.0
+biopolymer,biopolymer,3.0
+biosensor,biosensor,3.0
+biprism,biprism,3.0
+biquadratic exchange interaction,biquadratic exchange interaction,2.75
+birefringence,birefringence,3.0
+bit,bit,2.0
+black body,black body,1.0
+black body radiation,black body radiation,1.6666666666666667
+black box,black box,1.0
+black hole,black hole,1.0
+blanket,blanket,2.0
+blaze,blaze,4.0
+blaze angle,blaze angle,4.0
+blister,blister,5.0
+blistering,blister,5.0
+block copolymer,block copolymer,2.0
+block diagram,block diagram,2.5
+block gauge,block gauge,2.0
+blocking,block,2.0
+blue shift,blue shift,2.25
+body,body,1.0
+body force,body force,2.0
+boiling,boil,2.0
+boiling point,boiling point,2.75
+bolometer,bolometer,3.0
+bond,bond,3.0
+bond alternation,bond alternation,3.0
+bond angle,bond angle,3.5
+bond distance,bond distance,3.0
+bond energy,bond energy,3.5
+bond length,bond length,3.0
+bond order,bond order,2.25
+boost,boost,4.0
+booster,booster,3.0
+bootstrap,bootstrap,3.0
+boson,boson,3.0
+boson expansion,boson expansion,4.0
+bound electron,bind electron,3.5
+bound exciton,bind exciton,4.0
+bound state,bind state,3.6666666666666665
+boundary condition,boundary condition,3.5
+boundary layer,boundary layer,3.0
+boundary lubrication,boundary lubrication,3.0
+boundary value problem,boundary value problem,2.0
+bracket,bracket,4.0
+branching ratio,branch ratio,2.5
+breakdown,breakdown,4.0
+breakdown voltage,breakdown voltage,4.0
+breaking arc,break arc,1.5
+breeder,breeder,3.0
+breeder reactor,breeder reactor,3.0
+breeding,breed,3.5
+bremsstrahlung,bremsstrahlung,3.0
+brightness,brightness,3.0
+brilliance,brilliance,3.0
+brittle fracture,brittle fracture,3.0
+brittleness,brittleness,3.0
+broken symmetry,break symmetry,1.5
+bubble density,bubble density,3.0
+buckling,buckling,3.0
+buffer solution,buffer solution,3.5
+built-up films,build - up film,1.6666666666666667
+bulk modulus,bulk modulus,5.0
+bulk strain,bulk strain,4.25
+bunch,bunch,3.0
+buncher,buncher,3.0
+buoyancy,buoyancy,3.0
+burst,burst,4.0
+calibration,calibration,3.0
+calibration curve,calibration curve,3.0
+calorimeter,calorimeter,3.0
+calorimetry,calorimetry,3.0
+cam,cam,3.0
+camber,camber,3.0
+candela,candela,3.0
+canonical distribution,canonical distribution,3.0
+canonical ensemble,canonical ensemble,3.0
+canonical equations,canonical equation,4.0
+canonical quantization,canonical quantization,3.0
+canonical transformation,canonical transformation,3.0
+capacitance,capacitance,3.0
+capacitive reactance,capacitive reactance,3.0
+capacitor,capacitor,3.0
+capillarity,capillarity,3.0
+capillary tube,capillary tube,1.0
+capillary wave,capillary wave,2.5
+capture,capture,3.0
+capture cross section,capture cross section,2.0
+capture reaction,capture reaction,3.5
+carbon dioxide gas laser,carbon dioxide gas laser,3.25
+carotenoid,carotenoid,3.0
+carrier,carrier,5.0
+carrier compensation,carrier compensation,4.5
+carrier injection,carrier injection,4.5
+carrier life time,carrier life time,2.8333333333333335
+carrier wave,carrier wave,3.75
+cascade connection,cascade connection,5.333333333333333
+cascade process,cascade process,4.416666666666666
+cascade shower,cascade shower,3.9166666666666665
+casting,cast,4.6
+catalysis,catalysis,3.0
+catastrophe,catastrophe,4.0
+cathode,cathode,3.0
+cathode dark space,cathode dark space,1.5
+cathode fall,cathode fall,2.5
+cathode follower,cathode follower,4.0
+cathode glow,cathode glow,4.0
+cathode spot,cathode spot,2.5
+cation,cation,3.0
+causality,causality,3.0
+caustic,caustic,3.0
+cavitation,cavitation,3.0
+cavity,cavity,5.0
+cavity resonator,cavity resonator,5.0
+cell,cell,3.0
+cell membrane,cell membrane,3.0
+cell structure,cell structure,2.5
+center of curvature,center of curvature,1.0
+center of gravity,center of gravity,1.0
+center of mass,center of mass,2.25
+center-of-mass motion,center - of - mass motion,2.8333333333333335
+central limit theorem,central limit theorem,3.0
+central mode,central mode,3.0
+central peak,central peak,3.5
+centrifugal barrier,centrifugal barrier,4.0
+centrifugal distortion,centrifugal distortion,4.0
+centrifugal force,centrifugal force,3.0
+centrifuge,centrifuge,3.0
+ceramic filter,ceramic filter,3.0
+chain reaction,chain reaction,3.0
+chalcogenide glass,chalcogenide glass,1.0
+channel,channel,3.0
+channel plate,channel plate,2.5
+channeling,channel,3.0
+chaos,chaos,3.0
+chaotic motion,chaotic motion,4.0
+characteristic X-rays,characteristic x - ray,2.75
+characteristic curve,characteristic curve,3.25
+characteristic energy,characteristic energy,3.75
+characteristic function,characteristic function,3.0
+characteristic impedance,characteristic impedance,3.5
+characteristic temperature,characteristic temperature,2.75
+characteristic vibration,characteristic vibration,3.75
+charge,charge,3.0
+charge conjugation,charge conjugation,3.0
+charge density,charge density,3.0
+charge density wave,charge density wave,2.75
+charge distribution,charge distribution,3.0
+charge exchange,charge exchange,2.75
+charge independence,charge independence,2.5
+charge symmetry,charge symmetry,3.0
+charge transfer,charge transfer,3.25
+charge transfer complex,charge transfer complex,3.1666666666666665
+charge-coupled device,charge - couple device,2.6666666666666665
+charge-transfer complex,charge - transfer complex,3.1666666666666665
+charged current,charge current,3.0
+charged particle,charge particle,3.5
+charging,charge,3.0
+charm,charm,3.0
+charm quark,charm quark,3.0
+charmonium,charmonium,3.0
+chemical accelerator,chemical accelerator,2.5
+chemical bond,chemical bond,2.75
+chemical equilibrium,chemical equilibrium,4.25
+chemical laser,chemical laser,3.25
+chemical physics,chemical physics,2.75
+chemical potential,chemical potential,3.0
+chemical reaction,chemical reaction,3.25
+chemical shift,chemical shift,3.0
+chemical vapor deposition,chemical vapor deposition,2.5
+chemiluminescence,chemiluminescence,3.0
+chemisorption,chemisorption,3.0
+chimera,chimera,3.0
+chirality,chirality,3.0
+cholesteric phase,cholesteric phase,5.0
+chromatic aberration,chromatic aberration,6.0
+chromaticity,chromaticity,3.0
+chromaticity diagram,chromaticity diagram,3.0
+chromatography,chromatography,3.0
+chromel-alumel thermocouple,chromel - alumel thermocouple,3.0
+chuck,chuck,3.0
+circuit,circuit,5.0
+circuit element,circuit element,4.0
+circular accelerator,circular accelerator,3.0
+circular dichroism,circular dichroism,3.0
+circular method,circular method,2.5
+circular motion,circular motion,3.5
+circularly polarized light,circularly polarize light,1.6666666666666667
+circulation,circulation,5.0
+circulation quantum,circulation quantum,5.0
+circulator,circulator,3.0
+cis-form,cis - form,2.0
+cladding,cladding,3.0
+clamp,clamp,3.0
+classical absorption,classical absorption,3.0
+classical mechanics,classical mechanic,3.0
+classical physics,classical physics,3.0
+classical statistical mechanics,classical statistical mechanic,3.0
+clean surface,clean surface,2.0
+cleavage,cleavage,3.0
+cleavage surface,cleavage surface,3.0
+climb motion,climb motion,2.75
+clock paradox,clock paradox,2.5
+close binary,close binary,1.0
+closed circuit,closed circuit,3.0
+closed loop,close loop,1.0
+closed magnetic field,close magnetic field,2.3333333333333335
+closed orbit,close orbit,2.0
+closed orbit distortion,close orbit distortion,2.6666666666666665
+closed shell,close shell,2.0
+closed system,closed system,1.5
+closed tube,close tube,1.0
+cluster,cluster,3.0
+cluster expansion,cluster expansion,4.0
+cluster ion,cluster ion,3.0
+cluster model,cluster model,2.6666666666666665
+coalescence model,coalescence model,2.6666666666666665
+coarse graining,coarse graining,4.0
+coating,coating,3.0
+coaxial cable,coaxial cable,4.0
+coaxial resonator,coaxial resonator,3.0
+coefficient,coefficient,3.0
+coefficient of capacitance,coefficient of capacitance,1.0
+coefficient of friction,coefficient of friction,1.0
+coefficient of restitution,coefficient of restitution,1.0
+coefficient of static friction,coefficient of static friction,1.0
+coercive force,coercive force,3.0
+coexistence curve,coexistence curve,3.0
+coherence,coherence,4.0
+coherence factor,coherence factor,4.0
+coherence length,coherence length,3.5
+coherence time,coherence time,3.25
+coherent,coherent,4.0
+coherent bremsstrahlung,coherent bremsstrahlung,4.0
+coherent light,coherent light,2.8333333333333335
+coherent potential approximation,coherent potential approximation,3.75
+coherent production,coherent production,3.0
+coherent representation,coherent representation,4.0
+coherent scattering,coherent scattering,4.0
+coherent state,coherent state,3.6666666666666665
+cohesion,cohesion,3.0
+cohesive energy,cohesive energy,4.0
+cohesive force,cohesive force,3.0
+coil,coil,3.0
+coincidence,coincidence,4.0
+coincidence method,coincidence method,3.0
+cold cathode,cold cathode,1.0
+cold neutron,cold neutron,1.0
+cold plasma,cold plasma,1.0
+cold trap,cold trap,1.5
+collective coordinate,collective coordinate,3.0
+collective excitation,collective excitation,3.0
+collective model,collective model,2.6666666666666665
+collective motion,collective motion,4.0
+collective rotational motion,collective rotational motion,4.0
+collective vibration,collective vibration,4.0
+collector,collector,4.0
+collider,collider,6.0
+colliding beam,collide beam,5.0
+collimator,collimator,3.0
+collision,collision,3.0
+collision broadening,collision broaden,4.0
+collision cascade,collision cascade,5.333333333333333
+collision frequency,collision frequency,3.0
+collision rate,collision rate,3.0
+collisionless plasma,collisionless plasma,3.0
+colloid,colloid,3.0
+color,color,3.0
+color center,color center,3.0
+color center laser,color center laser,4.0
+color reaction,color reaction,4.0
+color tone,color tone,3.5
+colorimeter,colorimeter,3.0
+colorimetry,colorimetry,3.0
+coloring,color,3.0
+coma,coma,4.0
+combination tone,combination tone,3.25
+combustion,combustion,6.0
+comet,comet,3.0
+commensurate structure,commensurate structure,4.0
+commensurate-incommensurate transition,commensurate - incommensurate transition,5.0
+commutator,commutator,3.0
+compact torus,compact torus,3.0
+companion,companion,3.0
+comparator,comparator,3.0
+compatibility,compatibility,3.0
+compensation,compensation,4.0
+compensation method,compensation method,3.0
+compensation temperature,compensation temperature,3.0
+compensator,compensator,3.0
+complementarity,complementarity,3.0
+completeness,completeness,3.0
+complex admittance,complex admittance,3.0
+complex amplitude,complex amplitude,3.0
+complex center,complex center,3.0
+complex dielectric constant,complex dielectric constant,3.5
+complex function,complex function,2.75
+complex impedance,complex impedance,3.0
+complex index of refraction,complex index of refraction,2.6666666666666665
+complex magnetic susceptibility,complex magnetic susceptibility,4.0
+complex number,complex number,2.0
+complex plane,complex plane,3.25
+complex potential,complex potential,3.25
+complex representation,complex representation,3.0
+complex sound,complex sound,2.833333333333333
+complex viscosity,complex viscosity,3.0
+complex wave number,complex wave number,2.1666666666666665
+compliance,compliance,5.0
+component,component,4.0
+composite material,composite material,2.0
+composite particle,composite particle,4.0
+compound nucleus,compound nucleus,3.0
+compound semiconductor,compound semiconductor,3.0
+compressibility,compressibility,3.0
+compressibility factor,compressibility factor,4.0
+compressible fluid,compressible fluid,4.0
+compression,compression,4.0
+compression ratio,compression ratio,4.0
+compression wave,compression wave,3.25
+compressive strength,compressive strength,2.0
+compressive stress,compressive stress,3.5
+compressor,compressor,3.0
+computational complexity,computational complexity,4.5
+computational error,computational error,2.0
+computer,computer,1.0
+computer control,computer control,1.75
+computer generated hologram,computer generate hologram,2.0
+computerized tomography,computerized tomography,3.0
+concave diffraction grating,concave diffraction grate,3.0
+concave grating,concave grate,3.0
+concave lens,concave len,3.0
+concave mirror,concave mirror,2.0
+condensate,condensate,3.0
+condensation,condensation,6.0
+condensation coefficient,condensation coefficient,6.0
+condensed matter physics,condense matter physics,2.25
+condenser,condenser,3.0
+condition,condition,3.5
+conductance,conductance,3.0
+conducting fluid,conduct fluid,3.75
+conduction,conduction,3.0
+conduction band,conduction band,1.0
+conduction current,conduction current,3.0
+conduction electron,conduction electron,3.0
+conductivity,conductivity,3.0
+conductor,conductor,4.0
+confidence interval,confidence interval,3.0
+confidence level,confidence level,3.0
+configuration,configuration,3.0
+configuration mixing,configuration mix,3.0
+configuration space,configuration space,2.0
+configurational entropy,configurational entropy,3.0
+confinement,confinement,5.0
+confinement time,confinement time,3.75
+confining magnetic field,confine magnetic field,3.3333333333333335
+confocal,confocal,3.0
+conformal mapping,conformal mapping,3.0
+conformal transformation,conformal transformation,3.0
+conformation,conformation,3.0
+congruent melt,congruent melt,3.0
+conical refraction,conical refraction,3.0
+conjugate,conjugate,3.0
+conjugate image,conjugate image,2.0
+conjugate wave,conjugate wave,2.5
+connection,connection,3.0
+connector,connector,3.0
+conoscope,conoscope,3.0
+conservation law,conservation law,2.5
+conservation of probability,conservation of probability,2.3333333333333335
+conservative force,conservative force,3.0
+conservative system,conservative system,2.5
+conserved current,conserve current,4.0
+conserved quantity,conserve quantity,4.0
+constant,constant,4.0
+constant of motion,constant of motion,3.0
+constraint,constraint,5.0
+contact angle,contact angle,3.0
+contact interaction,contact interaction,2.5
+contact ionization,contact ionization,2.0
+contact potential,contact potential,2.75
+contact resistance,contact resistance,3.0
+continuous X-rays,continuous x - ray,2.5
+continuous eigenvalue,continuous eigenvalue,3.0
+continuous group,continuous group,2.5
+continuous spectrum,continuous spectrum,3.0
+continuous-wave laser,continuous - wave laser,3.1666666666666665
+continuous-wave oscillation,continuous - wave oscillation,2.75
+continuum,continuum,3.0
+contraction,contraction,3.0
+contrast,contrast,2.0
+contravariant,contravariant,3.0
+control,control,2.5
+convection,convection,3.0
+convective diffusion,convective diffusion,3.0
+convergence,convergence,3.0
+convergent beam electron diffraction,convergent beam electron diffraction,3.5
+conversion ratio,conversion ratio,4.0
+converter,converter,3.0
+convex function,convex function,2.5
+convex lens,convex len,3.0
+convex mirror,convex mirror,2.0
+convolution,convolution,3.0
+coolant,coolant,3.0
+cooling water,cool water,2.5
+cooperative phenomenon,cooperative phenomenon,3.5
+coordinate,coordinate,3.0
+coordinate representation,coordinate representation,3.0
+coordinate system,coordinate system,2.0
+coordination,coordination,3.0
+coordination number,coordination number,1.0
+copolymer,copolymer,3.0
+copolymerization,copolymerization,3.0
+copper ratio,copper ratio,4.0
+core,core,4.0
+core electron,core electron,3.5
+core polarization,core polarization,4.0
+corona,corona,4.0
+corona discharge,corona discharge,4.0
+coronagraph,coronagraph,3.0
+correction,correction,3.0
+correction lens,correction len,3.0
+correlation analysis,correlation analysis,4.5
+correlation coefficient,correlation coefficient,6.0
+correlation diagram,correlation diagram,4.5
+correlation energy,correlation energy,5.0
+correlation function,correlation function,4.25
+correlation length,correlation length,4.5
+correlation time,correlation time,4.25
+correspondence principle,correspondence principle,3.5
+corrosion,corrosion,3.0
+corrosion resistance,corrosion resistance,4.0
+coset,coset,3.0
+cosine law,cosine law,2.0
+cosmic background radiation,cosmic background radiation,3.6666666666666665
+cosmic rays,cosmic ray,4.0
+cosmological constant,cosmological constant,4.0
+cosmological term,cosmological term,3.0
+cosmology,cosmology,3.0
+coulomb,coulomb,3.0
+counter,counter,3.5
+coupler,coupler,3.0
+coupling,couple,2.0
+coupling coefficient,couple coefficient,2.0
+coupling constant,couple constant,3.0
+covalent bond,covalent bond,3.0
+covariance,covariance,3.0
+covariant,covariant,3.0
+coverage factor,coverage factor,4.5
+covering group,cover group,1.75
+crack,crack,4.0
+creation and annihilation operators,creation and annihilation operator,3.0
+creep,creep,3.0
+creeping discharge,creep discharge,4.0
+creeping flow,creep flow,3.0
+crest,crest,3.0
+critical Reynolds number,critical reynold number,2.0
+critical angle,critical angle,3.5
+critical assembly,critical assembly,3.5
+critical condition,critical condition,3.25
+critical coupling,critical coupling,3.0
+critical current,critical current,3.0
+critical energy,critical energy,3.5
+critical exponent,critical exponent,3.0
+critical fluctuation,critical fluctuation,4.5
+critical frequency,critical frequency,3.0
+critical magnetic field,critical magnetic field,3.0
+critical nucleus,critical nucleus,3.0
+critical phenomenon,critical phenomenon,3.0
+critical point,critical point,2.25
+critical pressure,critical pressure,2.5
+critical relaxation,critical relaxation,3.5
+critical scattering,critical scattering,3.0
+critical shear stress,critical shear stress,3.25
+critical slowing down,critical slow down,2.5555555555555554
+critical state,critical state,3.1666666666666665
+critical temperature,critical temperature,2.5
+critical velocity,critical velocity,3.0
+criticality,criticality,3.0
+cross section,cross section,1.5
+cross slip,cross slip,2.5
+crossing symmetry,crossing symmetry,3.0
+crossover effect,crossover effect,2.0
+crowdion,crowdion,3.0
+crucible,crucible,3.0
+cryogenic pump,cryogenic pump,3.0
+cryopump,cryopump,3.0
+cryostat,cryostat,3.0
+crystal,crystal,3.0
+crystal face,crystal face,1.5
+crystal field,crystal field,1.0
+crystal filter,crystal filter,3.0
+crystal form,crystal form,2.0
+crystal growth,crystal growth,3.0
+crystal habit,crystal habit,1.0
+crystal lattice,crystal lattice,3.0
+crystal momentum,crystal momentum,3.0
+crystal optics,crystal optic,3.0
+crystal orientation,crystal orientation,3.0
+crystal pulling method,crystal pull method,2.0
+crystal structure,crystal structure,2.0
+crystal structure factor,crystal structure factor,3.0
+crystal system,crystal system,2.0
+crystal texture,crystal texture,3.0
+crystalline,crystalline,3.0
+crystalline field,crystalline field,1.0
+crystalline polymer,crystalline polymer,3.0
+crystallite,crystallite,3.0
+crystallization,crystallization,3.0
+crystallographic axis,crystallographic axis,4.0
+crystallography,crystallography,3.0
+cubic structure,cubic structure,2.0
+cubic system,cubic system,2.0
+cumulant expansion,cumulant expansion,4.0
+curie,curie,3.0
+curl,curl,4.0
+current,current,3.0
+current algebra,current algebra,3.0
+current amplification,current amplification,4.0
+current amplification factor,current amplification factor,4.0
+current balance,current balance,3.25
+current density,current density,3.0
+current meter,current meter,3.0
+current noise,current noise,2.0
+current source,current source,2.5
+curvature,curvature,3.0
+curvature tensor,curvature tensor,3.0
+curve fitting,curve fit,3.25
+cut,cut,2.0
+cut-off,cut - off,2.0
+cut-off frequency,cut - off frequency,2.3333333333333335
+cutting,cut,2.0
+cycle,cycle,3.0
+cyclotron,cyclotron,3.0
+cyclotron damping,cyclotron damp,3.0
+cyclotron frequency,cyclotron frequency,3.0
+cyclotron motion,cyclotron motion,4.0
+cyclotron resonance,cyclotron resonance,3.0
+cyclotron resonance heating,cyclotron resonance heating,2.0
+cylindrical coordinate,cylindrical coordinate,3.0
+cylindrical lens,cylindrical len,3.0
+d band,d band,1.0
+d electron,d electron,3.0
+damped oscillation,damp oscillation,3.0
+damping,damp,3.0
+damping force,damp force,3.0
+dangling bond,dangle bond,3.0
+dark current,dark current,2.0
+dark field image,dark field image,1.3333333333333333
+data,data,4.0
+data communication,datum communication,2.0
+database,database,4.0
+dating,date,2.0
+daughter nucleus,daughter nucleus,2.0
+de Broglie wave,de broglie wave,2.5
+de Haas-van Alphen effect,de haas - van alphen effect,2.5
+deactivation,deactivation,3.0
+dead time,dead time,2.25
+dead water,dead water,2.25
+decay,decay,4.0
+decay constant,decay constant,4.0
+decay curve,decay curve,3.5
+decay rate,decay rate,3.5
+deceleration,deceleration,3.0
+dechanneling,dechannele,3.0
+declination,declination,6.0
+decommissioning,decommissioning,3.0
+decoration,decoration,4.0
+decuplet,decuplet,3.0
+deduction,deduction,4.0
+dee,dee,3.0
+deep inelastic scattering,deep inelastic scattering,3.0
+deep level,deep level,3.0
+deexcitation,deexcitation,3.0
+defect level,defect level,3.0
+deflection method,deflection method,2.0
+deformation,deformation,3.0
+deformation potential,deformation potential,3.5
+deformation vibration,deformation vibration,4.0
+deformed nuclei,deform nucleus,3.0
+degassing,degas,3.0
+degeneracy,degeneracy,3.0
+degeneration,degeneration,3.0
+degradation,degradation,5.0
+degree,degree,2.0
+degree of crystallinity,degree of crystallinity,1.5
+degree of depolarization,degree of depolarization,1.5
+degree of dissociation,degree of dissociation,1.5
+degree of freedom,degree of freedom,1.6666666666666667
+degree of ionization,degree of ionization,1.5
+degree of order,degree of order,1.5
+degree of polarization,degree of polarization,1.5
+degree of polymerization,degree of polymerization,1.5
+degree of vacuum,degree of vacuum,1.5
+delay,delay,2.5
+delay line,delay line,2.5
+delayed coincidence,delay coincidence,3.25
+delayed fluorescence,delay fluorescence,2.5
+delayed neutron,delay neutron,2.5
+delocalization,delocalization,3.0
+demagnetization,demagnetization,3.0
+demagnetizing field,demagnetize field,1.0
+demodulation,demodulation,3.0
+dendrite,dendrite,3.0
+dense Kondo effect,dense kondo effect,3.0
+density,density,3.0
+density functional formalism,density functional formalism,4.0
+density gradient method,density gradient method,2.0
+density matrix,density matrix,3.0
+density modulation,density modulation,3.0
+density wave,density wave,2.5
+deoxyribonucleic acid,deoxyribonucleic acid,4.0
+depleted uranium,deplete uranium,3.0
+depletion layer,depletion layer,3.0
+depolarization,depolarization,3.0
+depth of focus,depth of focus,2.1666666666666665
+desorption,desorption,3.0
+desorption energy,desorption energy,4.0
+desorption spectrum,desorption spectrum,3.0
+detachment,detachment,4.0
+detailed balance,detailed balance,3.75
+detection,detection,3.0
+detection limit,detection limit,3.0
+detector,detector,3.0
+detonation,detonation,3.0
+deuterium,deuterium,3.0
+deuteron,deuteron,3.0
+deviation,deviation,3.0
+devitrification,devitrification,3.0
+diagonalization,diagonalization,3.0
+diagrammatical method,diagrammatical method,2.0
+dialysis,dialysis,3.0
+diamagnetism,diamagnetism,3.0
+diamond structure,diamond structure,2.0
+diaphragm,diaphragm,3.0
+diaphragm gauge,diaphragm gauge,3.0
+diatomic gas,diatomic gas,2.0
+diatomic molecule,diatomic molecule,3.0
+dibaryon,dibaryon,3.0
+dichroism,dichroism,3.0
+die,die,2.0
+dielectric,dielectric,3.0
+dielectric anomaly,dielectric anomaly,3.0
+dielectric breakdown,dielectric breakdown,4.0
+dielectric constant,dielectric constant,4.0
+dielectric dispersion,dielectric dispersion,3.0
+dielectric loss,dielectric loss,3.0
+dielectric loss tangent,dielectric loss tangent,3.0
+dielectric property,dielectric property,3.0
+dielectric relaxation,dielectric relaxation,4.0
+dielectronic recombination,dielectronic recombination,3.0
+differential amplifier,differential amplifier,4.0
+differential equation,differential equation,4.0
+differential method,differential method,2.0
+differential operator,differential operator,4.0
+differential pumping,differential pumping,3.0
+differential scanning calorimeter,differential scan calorimeter,3.5
+differential thermal analysis,differential thermal analysis,3.0
+differential transformer,differential transformer,3.0
+differential-difference equation,differential - difference equation,2.5
+diffracted wave,diffract wave,2.5
+diffraction,diffraction,3.0
+diffraction angle,diffraction angle,4.0
+diffraction contrast,diffraction contrast,2.0
+diffraction efficiency,diffraction efficiency,3.0
+diffraction grating,diffraction grate,3.0
+diffraction pattern,diffraction pattern,3.0
+diffraction scattering,diffraction scatter,3.0
+diffraction theory,diffraction theory,3.0
+diffractometer,diffractometer,3.0
+diffuse reflection,diffuse reflection,4.5
+diffuse scattering,diffuse scattering,6.0
+diffuse sound,diffuse sound,4.333333333333333
+diffused light,diffuse light,3.8333333333333335
+diffusion,diffusion,3.0
+diffusion current,diffusion current,3.0
+diffusion equation,diffusion equation,4.0
+diffusion in solid,diffusion in solid,2.25
+diffusion layer,diffusion layer,3.0
+diffusion length,diffusion length,3.0
+diffusion process,diffusion process,3.5
+diffusion pump,diffusion pump,3.0
+diffusion velocity,diffusion velocity,3.0
+diffusivity,diffusivity,3.0
+digital circuit,digital circuit,4.0
+digital signal,digital signal,3.5
+digitizer,digitizer,3.0
+dilatation,dilatation,3.0
+dilation,dilation,3.0
+dilatometer,dilatometer,3.0
+dilatometry,dilatometry,3.0
+dilute solution,dilute solution,2.0
+dilution,dilution,3.0
+dilution refrigerator,dilution refrigerator,2.0
+dimension,dimension,4.0
+dimensional analysis,dimensional analysis,3.0
+dimensional equation,dimensional equation,4.0
+dimensionless quantity,dimensionless quantity,3.0
+dimer,dimer,3.0
+diode,diode,3.0
+diode laser,diode laser,4.0
+diopter,diopter,3.0
+dipole,dipole,3.0
+dipole magnetic field,dipole magnetic field,3.0
+dipole moment,dipole moment,1.0
+dipole oscillation,dipole oscillation,3.0
+dipole radiation,dipole radiation,3.0
+dipole transition,dipole transition,4.0
+dipole-dipole interaction,dipole - dipole interaction,3.0
+direct correlation function,direct correlation function,3.6666666666666665
+direct current,direct current,2.75
+direct interaction,direct interaction,2.75
+direct measurement,direct measurement,2.75
+direct method,direct method,2.25
+direct product,direct product,2.25
+direct reaction,direct reaction,3.25
+direct sum,direct sum,1.75
+direct transition,direct transition,3.25
+directional coupler,directional coupler,3.0
+directivity,directivity,3.0
+directivity factor,directivity factor,4.0
+discharge chamber,discharge chamber,4.0
+discharge cleaning,discharge clean,2.5
+discharge lamp,discharge lamp,3.0
+discharge pumped laser,discharge pump laser,3.6666666666666665
+discharge tube,discharge tube,2.5
+disclination,disclination,3.0
+discommensuration,discommensuration,3.0
+discrete eigenvalue,discrete eigenvalue,3.0
+discrete energy level,discrete energy level,3.5
+discriminant function,discriminant function,2.5
+discriminator,discriminator,3.0
+disintegration,disintegration,3.0
+disk laser,disk laser,4.0
+dislocation,dislocation,3.0
+dislocation core,dislocation core,4.0
+dislocation density,dislocation density,3.0
+dislocation line,dislocation line,2.5
+dislocation loop,dislocation loop,3.0
+dislocation network,dislocation network,3.0
+dislocation velocity,dislocation velocity,3.0
+disorder parameter,disorder parameter,5.0
+disordered system,disordered system,2.0
+disorientation,disorientation,3.0
+dispersion,dispersion,3.0
+dispersion force,dispersion force,3.0
+dispersion formula,dispersion formula,3.0
+dispersion relation,dispersion relation,3.0
+dispersion surface,dispersion surface,3.0
+dispersiveness,dispersiveness,3.0
+displacement,displacement,3.0
+displacement current,displacement current,3.0
+displacement thickness,displacement thickness,4.0
+displacive type ferroelectrics,displacive type ferroelectric,2.0
+display unit,display unit,2.25
+dissipation,dissipation,3.0
+dissipation function,dissipation function,2.5
+dissipative structure,dissipative structure,2.0
+dissipative system,dissipative system,2.0
+dissociation,dissociation,3.0
+dissociation energy,dissociation energy,4.0
+dissociation limit,dissociation limit,3.0
+dissociation pressure,dissociation pressure,2.0
+dissociative adsorption,dissociative adsorption,3.0
+dissociative attachment,dissociative attachment,3.0
+dissociative chemisorption,dissociative chemisorption,3.0
+dissociative ionization,dissociative ionization,3.0
+dissociative recombination,dissociative recombination,3.0
+dissolution,dissolution,3.0
+distance,distance,3.0
+distance of closest approach,distance of close approach,2.125
+distillation,distillation,6.0
+distorted wave,distort wave,2.5
+distortion,distortion,4.0
+distributed constant circuit,distribute constant circuit,4.0
+distributed feed back laser,distribute feed back laser,2.6875
+distribution,distribution,3.0
+distribution function,distribution function,2.75
+distributor,distributor,4.0
+divergence,divergence,5.0
+divertor,divertor,3.0
+domain,domain,3.0
+domain pattern,domain pattern,3.0
+domain structure,domain structure,2.0
+domain wall,domain wall,1.0
+donor,donor,3.0
+donor level,donor level,3.0
+doping,dope,3.0
+dose,dose,4.0
+dose rate,dose rate,3.5
+dosimeter,dosimeter,3.0
+dosimetry,dosimetry,3.0
+double bond,double bond,3.1666666666666665
+double cross slip,double cross slip,2.7777777777777772
+double differential cross section,double differential cross section,2.111111111111111
+double exchange interaction,double exchange interaction,2.944444444444444
+double focusing,double focus,2.9166666666666665
+double layer,double layer,3.1666666666666665
+double probe,double probe,3.6666666666666665
+double refraction,double refraction,3.333333333333333
+double-heterostructure laser,double - heterostructure laser,3.6666666666666665
+doublet,doublet,3.0
+doublet state,doublet state,3.333333333333333
+doubly magic nucleus,doubly magic nucleus,3.0
+doughnut,doughnut,3.0
+drag,drag,3.0
+drag effect,drag effect,2.5
+drain,drain,4.0
+drawing,draw,1.5
+drift approximation,drift approximation,3.0
+drift chamber,drift chamber,3.0
+drift instability,drift instability,3.0
+drift mobility,drift mobility,4.0
+drift term,drift term,3.0
+drift tube,drift tube,1.0
+drift velocity,drift velocity,3.0
+drift wave,drift wave,2.5
+driving force,drive force,3.125
+dryness,dryness,3.0
+dual lattice,dual lattice,3.0
+dual model,dual model,2.6666666666666665
+duality,duality,3.0
+ductility,ductility,3.0
+dummy load,dummy load,3.0
+duoplasmatron,duoplasmatron,3.0
+durability,durability,3.0
+dye laser,dye laser,4.0
+dynamic behaviour,dynamic behaviour,4.0
+dynamic characteristics,dynamic characteristic,3.75
+dynamic loading,dynamic loading,4.0
+dynamic pressure,dynamic pressure,3.0
+dynamic viscoelasticity,dynamic viscoelasticity,4.0
+dynamical structure factor,dynamical structure factor,3.0
+dynamical susceptibility,dynamical susceptibility,3.0
+dynamical symmetry,dynamical symmetry,3.0
+dynamics,dynamic,4.0
+dynamo,dynamo,3.0
+dynamo theory,dynamo theory,3.0
+dyon,dyon,3.0
+eV,ev,3.0
+earth,earth,2.0
+easy axis of magnetization,easy axis of magnetization,2.0
+eccentricity,eccentricity,6.0
+echelon,echelon,3.0
+echo,echo,6.0
+eddy current,eddy current,3.0
+eddy diffusivity,eddy diffusivity,3.0
+eddy viscosity,eddy viscosity,3.0
+edge dislocation,edge dislocation,3.0
+effective Bohr magneton,effective bohr magneton,3.0
+effective Hamiltonian,effective hamiltonian,3.0
+effective charge,effective charge,3.0
+effective cross section,effective cross section,2.0
+effective interaction,effective interaction,3.0
+effective magnetic field,effective magnetic field,3.0
+effective mass,effective mass,3.25
+effective nuclear charge,effective nuclear charge,3.0
+effective range,effective range,3.0
+effective stress,effective stress,3.25
+effective temperature,effective temperature,2.5
+effective value,effective value,3.0
+efficiency,efficiency,3.0
+effusion,effusion,3.0
+eigenfunction,eigenfunction,3.0
+eigenfunction expansion,eigenfunction expansion,4.0
+eigenvalue,eigenvalue,3.0
+eikonal,eikonal,3.0
+eikonal approximation,eikonal approximation,3.0
+elastic body,elastic body,3.0
+elastic collision,elastic collision,5.0
+elastic compliance,elastic compliance,5.0
+elastic constant,elastic constant,4.5
+elastic deformation,elastic deformation,5.0
+elastic energy,elastic energy,4.5
+elastic instability,elastic instability,5.0
+elastic limit,elastic limit,4.0
+elastic oscillation,elastic oscillation,5.0
+elastic potential,elastic potential,4.25
+elastic scattering,elastic scattering,5.0
+elastic strain,elastic strain,4.25
+elastic stress,elastic stress,4.25
+elastic wave,elastic wave,3.75
+elastica,elastica,3.0
+elasticity,elasticity,6.0
+electret,electret,3.0
+electric capacitance,electric capacitance,2.0
+electric capacity,electric capacity,2.5
+electric charge,electric charge,2.5
+electric circuit,electric circuit,3.5
+electric conductivity,electric conductivity,2.0
+electric current,electric current,2.5
+electric current density,electric current density,2.5
+electric dipole,electric dipole,2.0
+electric dipole moment,electric dipole moment,1.5
+electric discharge,electric discharge,3.0
+electric displacement,electric displacement,2.0
+electric double layer,electric double layer,2.7777777777777772
+electric energy,electric energy,3.0
+electric field,electric field,1.5
+electric field strength,electric field strength,1.6666666666666667
+electric field vector,electric field vector,1.5
+electric flux,electric flux,2.0
+electric flux density,electric flux density,2.0
+electric force,electric force,2.5
+electric multipole,electric multipole,2.0
+electric polarizability,electric polarizability,2.0
+electric potential,electric potential,2.75
+electric power,electric power,2.0
+electric quadrupole,electric quadrupole,2.0
+electric quadrupole moment,electric quadrupole moment,1.5
+electric resistance,electric resistance,3.0
+electric resistivity,electric resistivity,2.0
+electric shielding,electric shielding,2.0
+electric susceptibility,electric susceptibility,2.0
+electrical conduction,electrical conduction,3.0
+electrically conducting fluid,electrically conduct fluid,3.75
+electricity,electricity,3.0
+electrification,electrification,3.0
+electro-optic effect,electro - optic effect,2.0
+electroacoustics,electroacoustic,3.0
+electrobalance,electrobalance,3.0
+electrochemical potential,electrochemical potential,3.5
+electrode,electrode,6.0
+electrode potential,electrode potential,4.75
+electrodeless discharge,electrodeless discharge,4.0
+electrodynamics,electrodynamic,3.0
+electroluminescence,electroluminescence,3.0
+electrolysis,electrolysis,3.0
+electrolyte,electrolyte,3.0
+electrolytic capacitor,electrolytic capacitor,3.0
+electrolytic polishing,electrolytic polishing,3.0
+electrolytic solution,electrolytic solution,2.0
+electromagnetic cascade shower,electromagnetic cascade shower,3.9166666666666665
+electromagnetic effect,electromagnetic effect,2.0
+electromagnetic field,electromagnetic field,1.0
+electromagnetic flowmeter,electromagnetic flowmeter,3.0
+electromagnetic force,electromagnetic force,3.0
+electromagnetic induction,electromagnetic induction,5.0
+electromagnetic interaction,electromagnetic interaction,3.0
+electromagnetic radiation,electromagnetic radiation,3.0
+electromagnetic valve,electromagnetic valve,3.0
+electromagnetic wave,electromagnetic wave,2.5
+electromagnetics,electromagnetic,3.0
+electromagnetism,electromagnetism,3.0
+electrometer,electrometer,3.0
+electromigration,electromigration,3.0
+electromotive force,electromotive force,3.0
+electron,electron,3.0
+electron Larmor radius,electron larmor radius,3.0
+electron affinity,electron affinity,3.0
+electron attachment,electron attachment,3.0
+electron avalanche,electron avalanche,3.0
+electron beam,electron beam,3.5
+electron beam holography,electron beam holography,3.5
+electron capture,electron capture,3.0
+electron cloud,electron cloud,2.0
+electron configuration,electron configuration,3.0
+electron cooling,electron cooling,3.0
+electron correlation,electron correlation,4.5
+electron cyclotron frequency,electron cyclotron frequency,3.0
+electron density,electron density,3.0
+electron detachment,electron detachment,3.5
+electron diffraction,electron diffraction,3.0
+electron donor,electron donor,3.0
+electron emission,electron emission,3.0
+electron energy loss spectroscopy,electron energy loss spectroscopy,3.3333333333333335
+electron gas,electron gas,2.5
+electron gun,electron gun,2.5
+electron holography,electron holography,3.0
+electron impact,electron impact,2.5
+electron interferometer,electron interferometer,3.0
+electron lens,electron len,3.0
+electron microscope,electron microscope,3.5
+electron mobility,electron mobility,3.5
+electron number,electron number,2.0
+electron optics,electron optic,3.0
+electron pair,electron pair,2.0
+electron plasma frequency,electron plasma frequency,3.0
+electron plasma wave,electron plasma wave,2.75
+electron polarization,electron polarization,3.0
+electron population analysis,electron population analysis,2.6666666666666665
+electron promotion,electron promotion,3.0
+electron saturation current,electron saturation current,3.0
+electron shell,electron shell,3.0
+electron source,electron source,2.5
+electron spectrometer,electron spectrometer,3.0
+electron spectroscopy,electron spectroscopy,3.0
+electron spin relaxation,electron spin relaxation,3.6666666666666665
+electron spin resonance,electron spin resonance,3.5
+electron stimulated desorption,electron stimulate desorption,3.5
+electron temperature,electron temperature,2.5
+electron theory,electron theory,3.0
+electron transfer,electron transfer,3.25
+electron trap,electron trap,2.5
+electron wave,electron wave,2.75
+electron-hole pair,electron - hole pair,1.6666666666666667
+electron-lattice interaction,electron - lattice interaction,3.0
+electron-phonon interaction,electron - phonon interaction,3.0
+electron-phonon system,electron - phonon system,2.5
+electronegativity,electronegativity,3.0
+electronic excitation,electronic excitation,3.0
+electronic specific heat,electronic specific heat,2.5
+electronic spectrum,electronic spectrum,3.0
+electronic state,electronic state,3.1666666666666665
+electronic stopping power,electronic stopping power,2.5
+electronic transition,electronic transition,3.5
+electrophoresis,electrophoresis,3.0
+electrostatic accelerator,electrostatic accelerator,3.0
+electrostatic capacity,electrostatic capacity,3.0
+electrostatic deflection,electrostatic deflection,3.0
+electrostatic energy,electrostatic energy,4.0
+electrostatic field,electrostatic field,1.0
+electrostatic focusing,electrostatic focusing,3.0
+electrostatic lens,electrostatic len,3.0
+electrostatic potential,electrostatic potential,3.5
+electrostatic probe,electrostatic probe,4.0
+electrostatic septum,electrostatic septum,3.0
+electrostatic wave,electrostatic wave,2.5
+electrostatics,electrostatic,3.0
+electrostriction,electrostriction,3.0
+electroweak interaction,electroweak interaction,3.0
+electroweak theory,electroweak theory,3.0
+element,element,3.0
+elementary excitation,elementary excitation,1.0
+elementary particle,elementary particle,2.5
+elementary particle physics,elementary particle physics,2.6666666666666665
+elementary process,elementary process,2.25
+elementary quantity,elementary quantity,2.0
+elementary reaction,elementary reaction,2.5
+ellipse,ellipse,3.0
+ellipsometer,ellipsometer,3.0
+ellipsometry,ellipsometry,3.0
+elliptically polarized light,elliptically polarize light,1.6666666666666667
+elliptically polarized wave,elliptically polarize wave,2.5
+elongation,elongation,3.0
+embrittlement,embrittlement,3.0
+embryo,embryo,3.0
+emission,emission,3.0
+emission band,emission band,1.0
+emission spectrum,emission spectrum,3.0
+emissivity,emissivity,3.0
+emittance,emittance,3.0
+emitter,emitter,3.0
+empirical formula,empirical formula,3.0
+emulsion,emulsion,3.0
+emulsion polymerization,emulsion polymerization,3.0
+encoder,encoder,3.0
+endothermic,endothermic,3.0
+endothermic reaction,endothermic reaction,4.0
+energy,energy,4.0
+energy analyser,energy analyser,4.0
+energy band,energy band,2.5
+energy conversion,energy conversion,4.0
+energy density,energy density,4.0
+energy dependence,energy dependence,4.0
+energy distribution,energy distribution,3.5
+energy flow,energy flow,3.5
+energy gap,energy gap,3.5
+energy level,energy level,3.5
+energy loss,energy loss,3.5
+energy spectrum,energy spectrum,4.0
+energy surface,energy surface,3.5
+energy transfer,energy transfer,3.75
+energy width,energy width,4.0
+energy-momentum tensor,energy - momentum tensor,4.0
+ensemble,ensemble,3.0
+ensemble average,ensemble average,2.0
+entanglements,entanglement,3.0
+enthalpy,enthalpy,3.0
+entropy,entropy,3.0
+environmental test,environmental test,2.75
+enzyme,enzyme,3.0
+epitaxial growth,epitaxial growth,3.0
+epitaxy,epitaxy,3.0
+equal temperament,equal temperament,4.333333333333333
+equation,equation,4.0
+equation of continuity,equation of continuity,3.3333333333333335
+equation of geodesic deviation,equation of geodesic deviation,2.5
+equation of motion,equation of motion,3.0
+equation of state,equation of state,2.7777777777777772
+equator,equator,3.0
+equilibrium,equilibrium,6.0
+equilibrium charge,equilibrium charge,4.5
+equilibrium constant,equilibrium constant,5.0
+equilibrium orbit,equilibrium orbit,4.5
+equivalent,equivalent,3.0
+equivalent circuit,equivalent circuit,5.0
+equivalent width,equivalent width,4.0
+error,error,2.0
+error analysis,error analysis,2.5
+etalon,etalon,3.0
+etch pit,etch pit,4.5
+etching,etch,6.0
+ether,ether,3.0
+eutectic,eutectic,3.0
+eutectic alloy,eutectic alloy,3.0
+eutectic point,eutectic point,1.5
+eutectoid,eutectoid,3.0
+evaporated film,evaporate film,2.5
+evaporation,evaporation,3.0
+evaporation model,evaporation model,2.6666666666666665
+even-odd effect,even - odd effect,2.8333333333333335
+event,event,1.0
+event horizon,event horizon,2.0
+evolution equation,evolution equation,4.0
+exact solution,exact solution,3.25
+exceptional Lie group,exceptional lie group,2.8333333333333335
+exchange charge,exchange charge,2.75
+exchange current,exchange current,2.75
+exchange force,exchange force,2.75
+exchange integral,exchange integral,3.75
+exchange interaction,exchange interaction,2.75
+exchange narrowing,exchange narrow,2.75
+exchange reaction,exchange reaction,3.25
+exchange splitting,exchange splitting,2.5
+exchange stiffness constant,exchange stiffness constant,3.25
+excimer,excimer,3.0
+excitation,excitation,3.0
+excitation energy,excitation energy,4.0
+excitation function,excitation function,2.5
+excitation spectrum,excitation spectrum,3.0
+excitation transfer,excitation transfer,3.5
+excited state,excited state,2.1666666666666665
+exciton,exciton,3.0
+excitonic absorption,excitonic absorption,3.0
+excitonic molecule,excitonic molecule,3.0
+excitonic phase,excitonic phase,5.0
+excluded volume effect,exclude volume effect,3.0
+exclusion principle,exclusion principle,3.5
+exergy,exergy,3.0
+exoelectron,exoelectron,3.0
+exothermic reaction,exothermic reaction,4.0
+exotic atom,exotic atom,3.25
+expanding universe,expand universe,3.0
+expansion,expansion,4.0
+expansion coefficient,expansion coefficient,4.0
+expectation value,expectation value,3.5
+experiment,experiment,3.5
+exponential distribution,exponential distribution,3.0
+exposure,exposure,3.0
+extended zone scheme,extend zone scheme,3.0
+extensometer,extensometer,3.0
+exterior derivative,exterior derivative,5.0
+external conical refraction,external conical refraction,4.0
+external force,external force,3.5
+external noise,external noise,2.5
+external pressure,external pressure,3.0
+extinction,extinction,3.0
+extinction coefficient,extinction coefficient,3.0
+extinction distance,extinction distance,3.0
+extinction effects,extinction effect,2.5
+extinction ratio,extinction ratio,3.0
+extinction rule,extinction rule,2.75
+extraction,extraction,3.0
+extraordinary wave,extraordinary wave,2.75
+extrapolation,extrapolation,3.0
+extrusion,extrusion,3.0
+eyepiece,eyepiece,3.0
+face-centered cubic structure,face - center cubic structure,1.75
+factor group,factor group,3.0
+fading,fade,3.0
+failure,failure,3.0
+fall time,fall time,2.5
+falling,fall,2.5
+far field pattern,far field pattern,2.3333333333333335
+far infrared laser,far infrared laser,3.5
+far infrared radiation,far infrared radiation,3.0
+fast Fourier transformation,fast fourier transformation,2.0
+fast breeder reactor,fast breeder reactor,1.0
+fast diffusion,fast diffusion,1.0
+fast neutron,fast neutron,1.0
+fatigue,fatigue,5.0
+fatigue strength,fatigue strength,3.5
+fatigue test,fatigue test,3.75
+fcc structure,fcc structure,2.0
+feedback,feedback,4.0
+feedback ratio,feedback ratio,4.0
+feedforward control,feedforward control,2.5
+feedthrough,feedthrough,3.0
+fermi,fermi,3.0
+fermion,fermion,3.0
+ferrimagnet,ferrimagnet,3.0
+ferrimagnetic resonance,ferrimagnetic resonance,3.0
+ferrimagnetism,ferrimagnetism,3.0
+ferrite,ferrite,3.0
+ferroelastic domain,ferroelastic domain,3.0
+ferroelastic phase transition,ferroelastic phase transition,4.5
+ferroelectric domain,ferroelectric domain,3.0
+ferroelectric mode,ferroelectric mode,3.0
+ferroelectric phase transition,ferroelectric phase transition,4.5
+ferroelectricity,ferroelectricity,3.0
+ferroelectrics,ferroelectric,3.0
+ferromagnet,ferromagnet,3.0
+ferromagnetic resonance,ferromagnetic resonance,3.0
+ferromagnetic superconductor,ferromagnetic superconductor,3.0
+ferromagnetism,ferromagnetism,3.0
+fiber,fiber,3.0
+fiber optics,fiber optic,3.0
+fibril,fibril,3.0
+fidelity,fidelity,3.0
+field,field,1.0
+field electron emission,field electron emission,2.0
+field evaporation,field evaporation,1.0
+field lens,field len,1.0
+field magnet,field magnet,1.0
+field strength,field strength,1.5
+field theory,field theory,2.0
+field-effect transistor,field - effect transistor,2.3333333333333335
+figure of merit,figure of merit,3.0
+filament,filament,3.0
+filled band,fill band,1.0
+filter,filter,3.0
+filtration,filtration,3.0
+final state,final state,2.6666666666666665
+final state interaction,final state interaction,2.7777777777777772
+fine adjustment,fine adjustment,3.5
+fine particle,fine particle,3.5
+fine structure,fine structure,2.5
+finesse,finesse,3.0
+finite amplitude sound,finite amplitude sound,2.6666666666666665
+finite difference equation,finite difference equation,2.5
+finite difference method,finite difference method,1.5
+finite element method,finite element method,2.5
+finite group,finite group,2.0
+firing voltage,fire voltage,2.5
+first order phase transition,first order phase transition,2.875
+fission,fission,3.0
+fission barrier,fission barrier,4.0
+fission counter,fission counter,3.5
+fission fragment,fission fragment,3.0
+fission neutron,fission neutron,3.0
+fission product,fission product,2.0
+fission yield,fission yield,4.0
+fixation,fixation,3.0
+fixed point,fix point,2.0
+flare,flare,3.0
+flash photolysis,flash photolysis,3.6666666666666665
+flashover,flashover,3.0
+flatness,flatness,3.0
+flavor,flavor,3.0
+flexibility,flexibility,4.0
+flexible polymer,flexible polymer,4.0
+flexural rigidity,flexural rigidity,3.0
+flexural vibration,flexural vibration,4.0
+flexure,flexure,3.0
+flicker noise,flicker noise,3.0
+flip-flop,flip - flop,4.0
+floating body,float body,1.75
+floating potential,float potential,3.0
+floating zone-melting method,float zone - melt method,2.375
+flow,flow,3.0
+flow birefringence,flow birefringence,3.0
+flow stress,flow stress,3.25
+flow visualization,flow visualization,3.0
+flowmeter,flowmeter,3.0
+fluctuating force,fluctuate force,4.5
+fluctuation,fluctuation,6.0
+fluctuation-dissipation theorem,fluctuation - dissipation theorem,6.0
+fluid,fluid,4.0
+fluid at rest,fluid at rest,2.6666666666666665
+fluid dynamics,fluid dynamic,4.0
+fluid model,fluid model,3.333333333333333
+fluorescence,fluorescence,3.0
+fluorescence spectrophotometer,fluorescence spectrophotometer,3.0
+fluorescence spectrum,fluorescence spectrum,3.0
+fluorescence yield,fluorescence yield,4.0
+fluorescent X-rays,fluorescent x - ray,2.0
+fluorescent screen,fluorescent screen,3.0
+fluorite structure,fluorite structure,2.0
+flutter echo,flutter echo,5.0
+flux,flux,3.0
+flux creep,flux creep,3.0
+flux density,flux density,3.0
+flux distribution,flux distribution,3.0
+flux flow,flux flow,3.0
+flux method,flux method,2.0
+flux motion,flux motion,4.0
+flux peaking,flux peaking,3.0
+flux quantization,flux quantization,3.0
+flux quantum,flux quantum,3.0
+fluxoid,fluxoid,3.0
+fluxoid lattice,fluxoid lattice,3.0
+fluxoid motion,fluxoid motion,4.0
+flywheel,flywheel,3.0
+focal length,focal length,3.0
+focal plane,focal plane,3.5
+focal point,focal point,1.5
+focal surface,focal surface,3.0
+focusing,focus,2.5
+focusing effect,focus effect,2.25
+fog,fog,2.0
+forbidden band,forbid band,1.5
+forbidden reflection,forbid reflection,2.5
+forbidden transition,forbid transition,3.0
+force,force,3.0
+force constant,force constant,3.5
+forced convection,force convection,3.0
+forced vibration,force vibration,3.5
+form factor,form factor,3.0
+formation,formation,4.0
+formula,formula,3.0
+forward current,forward current,2.5
+forward scattering,forward scatter,2.5
+fossil fuel,fossil fuel,4.0
+four element model,four element model,2.222222222222222
+four wave mixing,four wave mix,2.1666666666666665
+four-fermion interaction,four - fermion interaction,2.0
+fractal,fractal,3.0
+fractional quantum Hall effect,fractional quantum hall effect,1.5
+fractionation,fractionation,3.0
+fracture,fracture,3.0
+fracture stress,fracture stress,3.5
+fracture toughness,fracture toughness,5.0
+fragment,fragment,3.0
+fragmentation reaction,fragmentation reaction,4.5
+free electron,free electron,2.6666666666666665
+free electron laser,free electron laser,3.1111111111111107
+free energy,free energy,3.1666666666666665
+free expansion,free expansion,3.1666666666666665
+free fall,free fall,2.4166666666666665
+free field,free field,1.6666666666666665
+free path,free path,2.1666666666666665
+free radical,free radical,3.1666666666666665
+free spectral range,free spectral range,2.6666666666666665
+free surface,free surface,2.6666666666666665
+free vibration,free vibration,3.1666666666666665
+free volume,free volume,2.6666666666666665
+frequency,frequency,3.0
+frequency analysis,frequency analysis,3.0
+frequency analyzer,frequency analyzer,3.0
+frequency band,frequency band,2.0
+frequency characteristic,frequency characteristic,3.25
+frequency counter,frequency counter,3.25
+frequency divider,frequency divider,3.0
+frequency factor,frequency factor,3.5
+frequency modulation,frequency modulation,3.0
+frequency spectrum,frequency spectrum,3.0
+frequency stabilization,frequency stabilization,3.0
+friction,friction,3.0
+frictional drag,frictional drag,3.0
+frictional force,frictional force,3.0
+fringes,fringe,3.0
+fringing field,fringe field,1.0
+frontier orbital,frontier orbital,4.0
+frustration,frustration,3.0
+ft value,ft value,3.0
+fuel cell,fuel cell,3.0
+full size,full size,1.0
+full width at half maximum,full width at half maximum,2.2
+function,function,2.5
+function generator,function generator,2.5
+functional,functional,4.0
+fundamental absorption,fundamental absorption,4.0
+fundamental frequency,fundamental frequency,3.5
+fundamental unit,fundamental unit,3.0
+fundamental vibration,fundamental vibration,4.0
+funnel,funnel,3.0
+fused silica,fuse silica,5.0
+fusion,fusion,5.0
+fusion reaction,fusion reaction,4.5
+fusion reactor,fusion reactor,5.0
+g-factor,g - factor,4.0
+gage,gage,3.0
+gain,gain,3.0
+galaxy,galaxy,3.0
+galvanomagnetic effect,galvanomagnetic effect,2.0
+galvanometer,galvanometer,3.0
+gamma,gamma,3.0
+gap mode,gap mode,3.0
+gas,gas,2.0
+gas blanket,gas blanket,2.0
+gas discharge,gas discharge,3.0
+gas dynamics,gas dynamic,3.0
+gas ionization,gas ionization,2.0
+gas laser,gas laser,3.0
+gas phase,gas phase,3.5
+gasket,gasket,3.0
+gate,gate,2.0
+gate valve,gate valve,2.0
+gauge,gauge,3.0
+gauge fixing,gauge fixing,3.0
+gauge invariance,gauge invariance,3.0
+gauge theory,gauge theory,3.0
+gauge transformation,gauge transformation,3.0
+gauss,gauss,3.0
+gel,gel,3.0
+general relativity,general relativity,3.5
+general solution,general solution,2.5
+general theory of relativity,general theory of relativity,2.75
+generating function,generate function,2.75
+generation,generation,2.0
+generator,generator,3.0
+generator coordinate method,generator coordinate method,2.0
+geometric mean,geometric mean,2.333333333333333
+geometrical optics,geometrical optic,3.0
+geophysics,geophysic,3.0
+getter,getter,3.0
+gettering,gettere,3.0
+ghost,ghost,1.0
+giant magnetic moment,giant magnetic moment,3.0
+giant resonance,giant resonance,3.0
+glancing incidence,glance incidence,3.0
+glass laser,glass laser,2.5
+glassy state,glassy state,3.333333333333333
+glide motion,glide motion,3.5
+glide plane,glide plane,3.25
+gloss,gloss,3.0
+glove box,glove box,1.5
+glow discharge,glow discharge,4.0
+gluon,gluon,3.0
+golden rule,golden rule,2.25
+goniometer,goniometer,3.0
+good quantum number,good quantum number,1.75
+gradation,gradation,3.0
+grade,grade,2.5
+gradient,gradient,3.0
+grain,grain,4.0
+grain boundary,grain boundary,4.0
+grain boundary diffusion,grain boundary diffusion,4.0
+grain boundary sliding,grain boundary slide,3.5
+grain size,grain size,2.5
+gram,gram,3.0
+grand canonical ensemble,grand canonical ensemble,4.0
+grand partition function,grand partition function,3.25
+grand unified theory,grand unified theory,3.5
+granularity,granularity,3.0
+granulation,granulation,3.0
+graphite,graphite,3.0
+graphite structure,graphite structure,2.0
+grating,grate,3.0
+gravitational acceleration,gravitational acceleration,6.0
+gravitational collapse,gravitational collapse,4.75
+gravitational constant,gravitational constant,5.0
+gravitational field,gravitational field,3.5
+gravitational mass,gravitational mass,4.75
+gravitational potential,gravitational potential,4.75
+gravitational radiation,gravitational radiation,4.5
+gravitational radius,gravitational radius,6.0
+gravitational wave,gravitational wave,4.25
+graviton,graviton,3.0
+gravity,gravity,3.0
+gravity wave,gravity wave,2.5
+gray,gray,3.0
+grazing incidence,grazing incidence,3.0
+greenhouse effect,greenhouse effect,2.5
+grid,grid,3.0
+ground state,ground state,3.1666666666666665
+group,group,2.0
+group velocity,group velocity,2.0
+growth spiral,growth spiral,3.0
+guard ring,guard ring,2.25
+guided mode,guide mode,3.0
+guiding center approximation,guide center approximation,3.0
+gyro,gyro,3.0
+gyromagnetic effect,gyromagnetic effect,2.0
+gyromagnetic ratio,gyromagnetic ratio,3.0
+gyroradius,gyroradius,3.0
+gyroscope,gyroscope,3.0
+gyrotron,gyrotron,3.0
+hadron,hadron,3.0
+half width,half width,3.0
+half-wave plate,half - wave plate,2.1666666666666665
+halo,halo,3.0
+hard X-rays,hard x - ray,1.5
+hard component,hard component,2.5
+hard core,hard core,2.5
+hard magnetic material,hard magnetic material,2.6666666666666665
+hardness,hardness,3.0
+harmonic approximation,harmonic approximation,3.0
+harmonic function,harmonic function,2.5
+harmonic order,harmonic order,1.5
+harmonic oscillation,harmonic oscillation,3.0
+harmonic oscillator,harmonic oscillator,3.0
+harmonic potential,harmonic potential,3.5
+harmonic sound,harmonic sound,2.6666666666666665
+harmonics,harmonic,3.0
+heat,heat,2.5
+heat bath,heat bath,1.75
+heat capacity,heat capacity,2.75
+heat conduction equation,heat conduction equation,3.25
+heat energy,heat energy,3.25
+heat insulation,heat insulation,2.5
+heat loss,heat loss,2.75
+heat of adsorption,heat of adsorption,1.75
+heat of dissolution,heat of dissolution,1.75
+heat of evaporation,heat of evaporation,1.75
+heat of formation,heat of formation,2.5
+heat of fusion,heat of fusion,2.8333333333333335
+heat of mixing,heat of mix,2.1666666666666665
+heat of solution,heat of solution,1.8333333333333333
+heat of sublimation,heat of sublimation,1.75
+heat quantity,heat quantity,2.75
+heat radiation,heat radiation,2.75
+heat source,heat source,2.25
+heat transfer,heat transfer,3.0
+heating efficiency,heating efficiency,2.5
+heavy fermion,heavy fermion,1.0
+heavy ion,heavy ion,1.0
+heavy ion reaction,heavy ion reaction,2.5
+heavy lepton,heavy lepton,1.0
+heavy quasiparticle,heavy quasiparticle,1.0
+helical dislocation,helical dislocation,3.0
+helicity,helicity,3.0
+helicon wave,helicon wave,2.5
+helium,helium,3.0
+hemorheology,hemorheology,3.0
+heterodyne,heterodyne,3.0
+heterogeneous,heterogeneous,3.0
+heterojunction,heterojunction,3.0
+heterojunction bipolar transistor,heterojunction bipolar transistor,4.0
+heterostructure,heterostructure,3.0
+hexagonal lattice,hexagonal lattice,3.0
+hexagonal system,hexagonal system,2.0
+high density excitons,high density exciton,1.5
+high energy physics,high energy physics,2.8333333333333335
+high frequency,high frequency,2.25
+high magnetic field,high magnetic field,2.5
+high permeability material,high permeability material,1.75
+high polymer,high polymer,1.5
+high pressure,high pressure,1.75
+high resolution,high resolution,2.75
+high speed flow,high speed flow,2.3333333333333335
+high spin state,high spin state,2.944444444444444
+high temperature,high temperature,1.75
+high temperature expansion,high temperature expansion,2.5
+high temperature superconductor,high temperature superconductor,1.75
+high vacuum,high vacuum,1.5
+high voltage,high voltage,1.5
+higher order effect,high order effect,1.6666666666666667
+histogram,histogram,3.0
+hole,hole,1.0
+hole burning,hole burn,1.75
+hologram,hologram,3.0
+holographic diffraction grating,holographic diffraction grate,3.0
+holographic interferometry,holographic interferometry,3.0
+holography,holography,3.0
+homodyne,homodyne,3.0
+homogeneous,homogeneous,3.0
+homogeneous broadening,homogeneous broadening,3.0
+homogeneous system,homogeneous system,2.0
+homogenization,homogenization,3.0
+homology,homology,3.0
+homometric structure,homometric structure,2.0
+homopolar bond,homopolar bond,3.0
+homotopy,homotopy,3.0
+hopping conduction,hop conduction,3.0
+hopping integral,hop integral,4.0
+horizontal component,horizontal component,4.0
+horizontal plane,horizontal plane,3.5
+horn,horn,3.0
+hot band,hot band,1.0
+hot cathode,hot cathode,1.0
+hot electron,hot electron,2.0
+hot electron transistor,hot electron transistor,2.6666666666666665
+hot-wire anemometer,hot - wire anemometer,2.25
+hue,hue,3.0
+humidity,humidity,3.0
+hybrid orbital,hybrid orbital,4.0
+hybridization,hybridization,3.0
+hydration,hydration,3.0
+hydraulics,hydraulic,3.0
+hydrodynamic interaction,hydrodynamic interaction,3.0
+hydrodynamics,hydrodynamic,3.0
+hydrogen,hydrogen,3.0
+hydrogen atom,hydrogen atom,2.0
+hydrogen bond,hydrogen bond,3.0
+hydrogen embrittlement,hydrogen embrittlement,3.0
+hydrogen-ion concentration,hydrogen - ion concentration,3.0
+hydrogenation,hydrogenation,3.0
+hydrolysis,hydrolysis,3.0
+hydrophone,hydrophone,3.0
+hydrostatic pressure,hydrostatic pressure,2.0
+hypercharge,hypercharge,3.0
+hyperfine interaction,hyperfine interaction,3.0
+hyperfine splitting,hyperfine splitting,3.0
+hyperfine structure,hyperfine structure,2.0
+hyperfunction,hyperfunction,3.0
+hypergeometric function,hypergeometric function,2.5
+hypernucleus,hypernucleus,3.0
+hyperon,hyperon,3.0
+hyperpolarizability,hyperpolarizability,3.0
+hypersonic,hypersonic,3.0
+hypersonic wave,hypersonic wave,2.5
+hypochromism,hypochromism,3.0
+hypothesis,hypothesis,6.0
+hysteresis,hysteresis,3.0
+hysteresis loop,hysteresis loop,3.0
+hysteresis loss,hysteresis loss,3.0
+ideal Fermi gas,ideal fermi gas,1.5
+ideal fluid,ideal fluid,2.5
+ideal gas,ideal gas,1.5
+ideal solution,ideal solution,1.5
+identity,identity,3.0
+illuminance,illuminance,3.0
+image,image,2.0
+image charge,image charge,2.5
+image force,image force,2.5
+image formation,image formation,3.0
+image intensifier,image intensifier,2.0
+image potential,image potential,2.75
+image signal,image signal,3.0
+image space,image space,2.0
+imagery,imagery,4.0
+impact ionization,impact ionization,2.0
+impact parameter,impact parameter,4.0
+impact strength,impact strength,2.0
+impact value,impact value,2.5
+impedance,impedance,3.0
+impedance function,impedance function,2.5
+impedance matrix,impedance matrix,3.0
+implosion,implosion,3.0
+imprisonment,imprisonment,4.0
+impulse,impulse,4.0
+impulse approximation,impulse approximation,4.0
+impulse response,impulse response,3.0
+impulsive sound,impulsive sound,3.333333333333333
+impurity,impurity,3.0
+impurity band,impurity band,1.0
+impurity center,impurity center,3.0
+impurity conduction,impurity conduction,3.0
+impurity diffusion,impurity diffusion,3.0
+impurity level,impurity level,3.0
+impurity scattering,impurity scatter,3.0
+in situ observation,in situ observation,2.25
+in vitro,in vitro,1.5
+in vivo,in vivo,1.5
+incident angle,incident angle,3.5
+incident particle,incident particle,3.5
+incident wave,incident wave,2.75
+inclination,inclination,3.0
+incoherent,incoherent,3.0
+incoherent light,incoherent light,1.6666666666666667
+incommensurate,incommensurate,3.0
+incommensurate structure,incommensurate structure,2.0
+incommensurate transition,incommensurate transition,4.0
+incompressible fluid,incompressible fluid,4.0
+indefinite metric,indefinite metric,4.5
+independent particle model,independent particle model,3.222222222222222
+index,index,4.0
+index ellipsoid,index ellipsoid,4.0
+indicator,indicator,3.0
+induced charge,induce charge,4.5
+induced current,induce current,4.5
+induced emission,induce emission,6.0
+induced magnetic anisotropy,induce magnetic anisotropy,5.5
+induced magnetization,induced magnetization,3.0
+induced polarization,induce polarization,6.0
+induced radioactivity,induce radioactivity,6.0
+inductance,inductance,3.0
+induction,induction,5.0
+induction coil,induction coil,5.0
+induction heating,induction heating,3.5
+induction motor,induction motor,4.0
+inelastic collision,inelastic collision,3.0
+inelastic scattering,inelastic scattering,3.0
+inelasticity,inelasticity,3.0
+inertia,inertia,3.0
+inertial confinement,inertial confinement,5.0
+inertial confinement fusion,inertial confinement fusion,5.0
+inertial force,inertial force,3.0
+inertial mass,inertial mass,3.5
+infinite momentum frame,infinite momentum frame,3.0
+inflector,inflector,3.0
+information theory,information theory,2.0
+infrared absorption spectrum,infrare absorption spectrum,3.0
+infrared active,infrare active,3.0
+infrared detector,infrared detector,3.0
+infrared divergence,infrared divergence,5.0
+infrared laser,infrared laser,4.0
+infrared microscope,infrared microscope,4.0
+infrared radiation,infrared radiation,3.0
+infrared rays,infrared ray,2.0
+infrared spectrum,infrared spectrum,3.0
+inhomogeneous broadening,inhomogeneous broadening,3.0
+inhomogeneous plasma,inhomogeneous plasma,3.0
+initial conditions,initial condition,3.5
+initial permeability,initial permeability,3.5
+initial phase,initial phase,4.25
+initial value problem,initial value problem,2.5
+initial velocity,initial velocity,3.5
+injection,injection,4.0
+injection laser,injection laser,4.0
+injection molding,injection molding,4.0
+injector,injector,3.0
+inlet,inlet,3.0
+inlet pressure,inlet pressure,2.0
+inner product,inner product,2.0
+input,input,4.0
+input impedance,input impedance,4.0
+instantaneous velocity,instantaneous velocity,6.0
+instanton,instanton,3.0
+instrumental error,instrumental error,2.0
+insulation,insulation,3.0
+insulator,insulator,3.0
+integral of motion,integral of motion,3.3333333333333335
+integral transform,integral transform,4.0
+integrated circuit,integrate circuit,4.5
+integrated intensity,integrate intensity,4.0
+integrating circuit,integrate circuit,4.5
+integrating sphere,integrate sphere,3.5
+intensity,intensity,3.0
+intensity alternation,intensity alternation,3.0
+intensity factor,intensity factor,4.0
+intensity modulation,intensity modulation,3.0
+intensity region,intensity region,3.0
+interaction,interaction,3.0
+interatomic distance,interatomic distance,3.0
+interatomic potential,interatomic potential,3.5
+intercalant,intercalant,3.0
+intercalation,intercalation,3.0
+intercalation compound,intercalation compound,3.0
+interchange instability,interchange instability,3.0
+intercombination,intercombination,3.0
+interdiffusion,interdiffusion,3.0
+interface,interface,3.0
+interference,interference,3.0
+interference color,interference color,3.0
+interference filter,interference filter,3.0
+interference fringe,interference fringe,3.0
+interference microscope,interference microscope,4.0
+interferogram,interferogram,3.0
+interferometer,interferometer,3.0
+intergranular fracture,intergranular fracture,3.0
+interior solution,interior solution,3.0
+interlayer water,interlayer water,2.5
+intermediate coupling,intermediate coupling,3.0
+intermediate frequency,intermediate frequency,3.0
+intermediate state,intermediate state,3.1666666666666665
+intermetallic compound,intermetallic compound,3.0
+intermolecular force,intermolecular force,3.0
+intermolecular interaction,intermolecular interaction,3.0
+intermolecular potential,intermolecular potential,3.5
+internal conversion,internal conversion,3.5
+internal conversion electron,internal conversion electron,3.3333333333333335
+internal energy,internal energy,3.5
+internal force,internal force,3.0
+internal friction,internal friction,3.0
+internal impedance,internal impedance,3.0
+internal magnetic field,internal magnetic field,3.0
+internal pressure,internal pressure,2.5
+internal rotation,internal rotation,3.0
+internal target,internal target,2.5
+internal wave,internal wave,2.75
+internuclear distance,internuclear distance,3.0
+interplanetary space,interplanetary space,2.0
+interpolation,interpolation,3.0
+interstitial atom,interstitial atom,2.0
+intrinsic region,intrinsic region,4.5
+intrinsic semiconductor,intrinsic semiconductor,6.0
+invar,invar,3.0
+invariance,invariance,3.0
+invariant,invariant,3.0
+invariant mass,invariant mass,3.5
+invariant subspace,invariant subspace,3.0
+inverse bremsstrahlung,inverse bremsstrahlung,3.0
+inverse predissociation,inverse predissociation,3.0
+inverse problem,inverse problem,1.0
+inverse scattering method,inverse scattering method,2.0
+inversion,inversion,3.0
+inversion layer,inversion layer,3.0
+inversion temperature,inversion temperature,2.0
+inverted pendulum,invert pendulum,5.0
+inverter,inverter,3.0
+inviscid fluid,inviscid fluid,4.0
+ion,ion,3.0
+ion Larmor radius,ion larmor radius,3.0
+ion acoustic wave,ion acoustic wave,3.75
+ion beam,ion beam,4.0
+ion channeling,ion channeling,3.0
+ion current,ion current,3.0
+ion cyclotron frequency,ion cyclotron frequency,3.0
+ion cyclotron range of frequency heating,ion cyclotron range of frequency heating,2.25
+ion cyclotron resonance,ion cyclotron resonance,3.0
+ion density,ion density,3.0
+ion diffusion,ion diffusion,3.0
+ion impact,ion impact,2.0
+ion implantation,ion implantation,3.0
+ion laser,ion laser,4.0
+ion milling,ion milling,3.0
+ion mobility,ion mobility,4.0
+ion neutralization,ion neutralization,3.0
+ion optics,ion optic,3.0
+ion pair,ion pair,1.0
+ion plasma frequency,ion plasma frequency,3.0
+ion pump,ion pump,3.0
+ion recombination,ion recombination,3.0
+ion saturation current,ion saturation current,3.0
+ion scattering,ion scattering,3.0
+ion sheath,ion sheath,3.0
+ion source,ion source,2.0
+ion temperature,ion temperature,2.0
+ion-acoustic instability,ion - acoustic instability,5.0
+ion-molecule reaction,ion - molecule reaction,3.5
+ionic bond,ionic bond,3.0
+ionic conduction,ionic conduction,3.0
+ionic conductivity,ionic conductivity,3.0
+ionic conductor,ionic conductor,4.0
+ionic crystal,ionic crystal,3.0
+ionic polarization,ionic polarization,3.0
+ionic radius,ionic radius,3.0
+ionic structure,ionic structure,2.0
+ionization,ionization,3.0
+ionization chamber,ionization chamber,3.0
+ionization coefficient,ionization coefficient,3.0
+ionization cross section,ionization cross section,1.5
+ionization current,ionization current,3.0
+ionization efficiency,ionization efficiency,3.0
+ionization energy,ionization energy,4.0
+ionization limit,ionization limit,3.0
+ionization loss,ionization loss,3.0
+ionization potential,ionization potential,3.5
+ionization vacuum gauge,ionization vacuum gauge,3.0
+ionized gas,ionize gas,2.0
+ionizing radiation,ionize radiation,3.0
+ionosphere,ionosphere,3.0
+iron core,iron core,3.5
+iron loss,iron loss,3.0
+irradiation,irradiation,3.0
+irradiation damage,irradiation damage,3.0
+irradiation hardening,irradiation harden,3.0
+irreducible,irreducible,3.0
+irreducible representation,irreducible representation,3.0
+irreducible tensor,irreducible tensor,3.0
+irreversible,irreversible,3.0
+irreversible process,irreversible process,3.5
+irrotational,irrotational,3.0
+island structure,island structure,1.5
+isobar,isobar,3.0
+isoelectric point,isoelectric point,1.5
+isolated system,isolate system,3.5
+isolator,isolator,3.0
+isomer,isomer,3.0
+isomer shift,isomer shift,3.5
+isomerism,isomerism,3.0
+isoscalar,isoscalar,3.0
+isospin,isospin,3.0
+isotherm,isotherm,3.0
+isothermal compressibility,isothermal compressibility,3.0
+isotope,isotope,3.0
+isotope analysis,isotope analysis,3.0
+isotope effect,isotope effect,2.0
+isotope separation,isotope separation,3.0
+isotope separator,isotope separator,3.0
+isotope shift,isotope shift,3.5
+isotopic abundance,isotopic abundance,4.5
+isotopic spin,isotopic spin,4.0
+isotropic,isotropic,3.0
+isotropic turbulence,isotropic turbulence,3.0
+isovector,isovector,3.0
+iterative method,iterative method,2.0
+itinerant electron magnetism,itinerant electron magnetism,4.0
+jet,jet,1.0
+joule,joule,3.0
+junction,junction,3.0
+kaonic atom,kaonic atom,2.0
+kelvin,kelvin,3.0
+kerma,kerma,3.0
+kinematic viscosity,kinematic viscosity,3.0
+kinematical theory,kinematical theory,3.0
+kinematics,kinematic,3.0
+kinetic energy,kinetic energy,5.0
+kinetic equation,kinetic equation,5.0
+kinetic exchange,kinetic exchange,4.25
+kink,kink,3.0
+kink instability,kink instability,3.0
+klystron,klystron,3.0
+laboratory system,laboratory system,2.5
+ladder approximation,ladder approximation,3.0
+laminar flow,laminar flow,3.0
+langmuir,langmuir,3.0
+large polaron,large polaron,1.0
+laser,laser,4.0
+laser Doppler velocimeter,laser doppler velocimeter,4.0
+laser amplifier,laser amplifier,4.0
+laser annealing,laser annealing,4.0
+laser cooling,laser cooling,4.0
+laser damage,laser damage,3.5
+laser diode,laser diode,4.0
+laser discharge,laser discharge,4.0
+laser fusion,laser fusion,4.5
+laser gyroscope,laser gyroscope,4.0
+laser isotope separation,laser isotope separation,3.5
+laser medium,laser medium,3.5
+laser processing,laser processing,4.0
+laser resonator,laser resonator,4.0
+laser spectroscopy,laser spectroscopy,4.0
+laser-induced fluorescence spectroscopy,laser - induce fluorescence spectroscopy,5.0
+laser-produced plasma,laser - produce plasma,3.0
+latent heat,latent heat,3.75
+lateral strain,lateral strain,3.5
+latex,latex,3.0
+lattice,lattice,3.0
+lattice Green function,lattice green function,2.0
+lattice constant,lattice constant,4.0
+lattice defect,lattice defect,3.0
+lattice dynamics,lattice dynamic,4.0
+lattice energy,lattice energy,4.0
+lattice field theory,lattice field theory,2.0
+lattice gas model,lattice gas model,2.333333333333333
+lattice gauge theory,lattice gauge theory,3.0
+lattice model,lattice model,2.6666666666666665
+lattice plane,lattice plane,3.5
+lattice point,lattice point,1.5
+lattice relaxation,lattice relaxation,4.0
+lattice spacing,lattice space,2.0
+lattice specific heat,lattice specific heat,2.25
+lattice theory,lattice theory,3.0
+lattice vacancy,lattice vacancy,3.0
+lattice vibration,lattice vibration,4.0
+law,law,2.0
+layer structure,layer structure,2.5
+layered crystal,layered crystal,3.0
+layered material,layered material,2.0
+lead wire,lead wire,3.083333333333333
+leader,leader,1.0
+leak,leak,4.0
+leak test,leak test,3.25
+leakage current,leakage current,3.0
+length,length,3.0
+lens,len,3.0
+lepton number,lepton number,1.0
+level,level,3.0
+level density,level density,3.0
+level scheme,level scheme,3.5
+level spacing,level spacing,3.0
+level width,level width,3.5
+lever,lever,3.0
+life,life,1.0
+lifetime,lifetime,4.0
+lift,lift,3.0
+lift coefficient,lift coefficient,3.0
+ligand,ligand,3.0
+ligand field,ligand field,1.0
+light,light,1.6666666666666667
+light cone,light cone,2.8333333333333335
+light exposure,light exposure,1.6666666666666667
+light modulation,light modulation,1.6666666666666667
+light pressure,light pressure,1.8333333333333335
+light scattering,light scattering,1.6666666666666667
+light source,light source,1.8333333333333335
+light velocity,light velocity,1.6666666666666667
+light water reactor,light water reactor,2.0833333333333335
+light-emitting device,light - emit device,2.3333333333333335
+light-emitting diode,light - emit diode,1.6666666666666667
+light-figure method,light - figure method,1.888888888888889
+lightning conductor,lightning conductor,3.5
+lightning discharge,lightning discharge,3.5
+limit cycle,limit cycle,3.0
+limiter,limiter,3.0
+linac,linac,3.0
+line integral,line integral,3.75
+line of force,line of force,2.1666666666666665
+line profile,line profile,3.25
+line spectrum,line spectrum,2.5
+linear,linear,5.0
+linear accelerator,linear accelerator,5.0
+linear amplifier,linear amplifier,4.5
+linear density,linear density,5.0
+linear dichroism,linear dichroism,5.0
+linear molecule,linear molecule,4.0
+linear motion,linear motion,4.5
+linear motor,linear motor,4.0
+linear polarization,linear polarization,5.0
+linear response theory,linear response theory,3.3333333333333335
+linear uniform motion,linear uniform motion,3.6666666666666665
+linear velocity,linear velocity,5.0
+linear viscoelasticity,linear viscoelasticity,5.0
+linearization,linearization,3.0
+linearly dependent,linearly dependent,4.5
+linearly polarized light,linearly polarize light,3.3333333333333335
+linkage,linkage,3.0
+liquefaction,liquefaction,3.0
+liquid,liquid,3.0
+liquid alloy,liquid alloy,3.0
+liquid crystal,liquid crystal,3.0
+liquid helium,liquid helium,3.0
+liquid hydrogen,liquid hydrogen,3.0
+liquid metal,liquid metal,2.5
+liquid nitrogen,liquid nitrogen,3.0
+liquid oxygen,liquid oxygen,3.0
+liquid phase,liquid phase,4.0
+liquid phase growth,liquid phase growth,3.6666666666666665
+liquid scintillator,liquid scintillator,3.0
+liquidus,liquidus,3.0
+liquifier,liquifier,3.0
+lithography,lithography,3.0
+load,load,3.0
+load impedance,load impedance,3.0
+local density functional formalism,local density functional formalism,3.0
+local density of states,local density of state,2.111111111111111
+local electric field,local electric field,1.6666666666666667
+local equilibrium,local equilibrium,4.0
+local field,local field,1.5
+local interaction,local interaction,2.5
+local thermal equilibrium,local thermal equilibrium,4.0
+localized electron,localize electron,3.0
+localized level,localize level,3.0
+localized magnetic moment,localize magnetic moment,3.0
+localized mode,localize mode,3.0
+localized orbital,localize orbital,3.0
+localized spin model,localize spin model,3.333333333333333
+localized state,localize state,3.333333333333333
+lock-in amplifier,lock - in amplifier,2.6666666666666665
+logarithmic derivative,logarithmic derivative,3.0
+logic circuit,logic circuit,4.0
+lone pair,lone pair,1.0
+long wave,long wave,2.0
+long-range interaction,long - range interaction,2.5
+longitudinal,longitudinal,3.0
+longitudinal mode,longitudinal mode,3.0
+longitudinal photon,longitudinal photon,3.0
+longitudinal polarization,longitudinal polarization,3.0
+longitudinal relaxation,longitudinal relaxation,4.0
+longitudinal vibration,longitudinal vibration,4.0
+longitudinal wave,longitudinal wave,2.5
+loop,loop,3.0
+loss,loss,3.0
+loss angle,loss angle,3.5
+loss cone,loss cone,3.5
+loss modulus,loss modulus,3.0
+loudness,loudness,3.0
+loudness level,loudness level,3.0
+low dose irradiation,low dose irradiation,3.0
+low frequency,low frequency,2.5
+low temperature,low temperature,2.0
+low-energy electron diffraction,low - energy electron diffraction,3.0
+lower bound,lower bind,4.0
+lower hybrid resonance,low hybrid resonance,3.0
+lower yield point,low yield point,2.5
+lubricant,lubricant,3.0
+lubrication,lubrication,3.0
+luminance,luminance,3.0
+luminescence,luminescence,3.0
+luminescence center,luminescence center,3.0
+luminosity,luminosity,3.0
+luminous efficacy,luminous efficacy,3.0
+lyotropic liquid crystal,lyotropic liquid crystal,3.0
+macroscopic,macroscopic,3.0
+magic number,magic number,1.5
+magnet,magnet,3.0
+magnetic Reynolds number,magnetic reynolds number,3.0
+magnetic anisotropy,magnetic anisotropy,5.0
+magnetic balance,magnetic balance,4.25
+magnetic birefringence,magnetic birefringence,5.0
+magnetic bottle,magnetic bottle,3.75
+magnetic breakdown,magnetic breakdown,4.5
+magnetic bubble,magnetic bubble,4.0
+magnetic charge,magnetic charge,4.0
+magnetic circuit,magnetic circuit,5.0
+magnetic confinement,magnetic confinement,5.0
+magnetic core,magnetic core,4.5
+magnetic dipole,magnetic dipole,5.0
+magnetic dipole interaction,magnetic dipole interaction,4.0
+magnetic domain,magnetic domain,5.0
+magnetic domain walls,magnetic domain wall,3.0
+magnetic energy,magnetic energy,4.5
+magnetic entropy,magnetic entropy,5.0
+magnetic field,magnetic field,3.0
+magnetic field strength,magnetic field strength,2.6666666666666665
+magnetic fluid,magnetic fluid,4.5
+magnetic flux,magnetic flux,5.0
+magnetic flux compression,magnetic flux compression,4.5
+magnetic flux density,magnetic flux density,5.0
+magnetic flux tube,magnetic flux tube,3.0
+magnetic form factor,magnetic form factor,3.6666666666666665
+magnetic hysteresis,magnetic hysteresis,5.0
+magnetic hysteresis loop,magnetic hysteresis loop,5.0
+magnetic impurity,magnetic impurity,5.0
+magnetic induction,magnetic induction,5.0
+magnetic ion,magnetic ion,5.0
+magnetic lens,magnetic len,5.0
+magnetic line of force,magnetic line of force,2.875
+magnetic loss,magnetic loss,4.0
+magnetic material,magnetic material,3.5
+magnetic mirror,magnetic mirror,3.5
+magnetic modulation,magnetic modulation,5.0
+magnetic moment,magnetic moment,3.0
+magnetic monopole,magnetic monopole,5.0
+magnetic order,magnetic order,3.25
+magnetic permeability,magnetic permeability,5.0
+magnetic polarization,magnetic polarization,5.0
+magnetic polaron,magnetic polaron,5.0
+magnetic pole,magnetic pole,4.0
+magnetic potential,magnetic potential,4.25
+magnetic probe,magnetic probe,4.5
+magnetic quantum number,magnetic quantum number,3.0
+magnetic reconnection,magnetic reconnection,5.0
+magnetic recording,magnetic recording,4.0
+magnetic relaxation,magnetic relaxation,4.5
+magnetic resistance,magnetic resistance,4.5
+magnetic saturation,magnetic saturation,5.0
+magnetic semiconductor,magnetic semiconductor,5.0
+magnetic shielding,magnetic shielding,5.0
+magnetic structure,magnetic structure,3.5
+magnetic substance,magnetic substance,4.5
+magnetic superconductor,magnetic superconductor,5.0
+magnetic surface,magnetic surface,4.0
+magnetic susceptibility,magnetic susceptibility,5.0
+magnetic thin film,magnetic thin film,2.8333333333333335
+magnetic torque,magnetic torque,5.0
+magnetic transformation,magnetic transformation,4.0
+magnetic transition,magnetic transition,4.5
+magnetic well,magnetic well,3.0
+magnetics,magnetic,5.0
+magnetism,magnetism,5.0
+magnetization,magnetization,3.0
+magnetization curve,magnetization curve,3.0
+magneto-optic effect,magneto - optic effect,2.0
+magneto-optics,magneto - optic,3.0
+magneto-volume effect,magneto - volume effect,2.5
+magnetocaloric effect,magnetocaloric effect,2.0
+magnetocardiogram,magnetocardiogram,3.0
+magnetocrystalline anisotropy,magnetocrystalline anisotropy,3.0
+magnetoelectric effect,magnetoelectric effect,2.0
+magnetohydrodynamics,magnetohydrodynamic,3.0
+magnetometer,magnetometer,3.0
+magnetomotive force,magnetomotive force,3.0
+magneton,magneton,3.0
+magnetoresistance,magnetoresistance,3.0
+magnetorotation,magnetorotation,3.0
+magnetosphere,magnetosphere,3.0
+magnetostriction,magnetostriction,3.0
+magnetostrictive effect,magnetostrictive effect,2.0
+magnetron,magnetron,3.0
+magnification,magnification,3.0
+magnon,magnon,3.0
+majority carrier,majority carrier,4.0
+manifold,manifold,3.0
+manipulator,manipulator,3.0
+manometer,manometer,3.0
+mantle,mantle,3.0
+mapping,mapping,3.0
+marked line,mark line,2.25
+martensite,martensite,3.0
+martensitic transformation,martensitic transformation,3.0
+maser,maser,3.0
+mass,mass,3.5
+mass defect,mass defect,3.5
+mass filter,mass filter,3.25
+mass flowmeter,mass flowmeter,3.5
+mass formula,mass formula,3.25
+mass law,mass law,2.75
+mass number,mass number,2.25
+mass point,mass point,2.5
+mass renormalization,mass renormalization,3.5
+mass spectrograph,mass spectrograph,3.5
+mass spectrometer,mass spectrometer,3.5
+mass spectrometry,mass spectrometry,3.5
+mass spectroscopy,mass spectroscopy,3.5
+mass spectrum,mass spectrum,3.5
+master equation,master equation,4.0
+matching,match,2.0
+material constant,material constant,3.0
+materials,material,2.0
+matrix,matrix,3.0
+matrix element,matrix element,3.0
+matrix mechanics,matrix mechanic,3.0
+matter,matter,1.5
+matter wave,matter wave,2.0
+maxwell,maxwell,3.0
+mean field approximation,mean field approximation,1.6666666666666665
+mean free path,mean free path,2.222222222222222
+mean free time,mean free time,2.388888888888889
+mean lifetime,mean lifetime,3.1666666666666665
+mean square radius,mean square radius,2.1666666666666665
+mean value,mean value,2.6666666666666665
+mean velocity,mean velocity,2.333333333333333
+measurement,measurement,3.0
+mechanical energy,mechanical energy,3.5
+mechanical equivalent of heat,mechanical equivalent of heat,2.1666666666666665
+mechanical relaxation,mechanical relaxation,3.5
+mechanics,mechanic,3.0
+medium,medium,3.0
+medium energy electron diffraction,medium energy electron diffraction,3.3333333333333335
+medium vacuum,medium vacuum,3.0
+melt growth,melt growth,3.0
+melting,melting,3.0
+melting curve,melt curve,3.0
+melting point,melting point,1.5
+membrane,membrane,3.0
+membrane structure,membrane structure,2.0
+memory effect,memory effect,1.5
+meniscus,meniscus,3.0
+meridian,meridian,3.0
+meson,meson,3.0
+mesonic decay,mesonic decay,4.0
+mesopic vision,mesopic vision,3.0
+metal vapor laser,metal vapor laser,3.0
+metal-insulator transition,metal - insulator transition,3.0
+metallic bond,metallic bond,3.0
+metallic crystal,metallic crystal,3.0
+metallic thin film,metallic thin film,1.75
+metallurgy,metallurgy,3.0
+metamagnetism,metamagnetism,3.0
+metastable atom,metastable atom,2.0
+metastable molecule,metastable molecule,3.0
+metastable phase,metastable phase,5.0
+metastable state,metastable state,3.333333333333333
+meteor,meteor,3.0
+meter,meter,3.0
+method of images,method of image,1.6666666666666667
+method of least squares,method of least square,2.0
+metric,metric,4.0
+metric tensor,metric tensor,4.0
+metrology,metrology,3.0
+micro-optics,micro - optic,4.0
+microbalance,microbalance,3.0
+microbeam,microbeam,3.0
+microcanonical ensemble,microcanonical ensemble,3.0
+microcrystal,microcrystal,3.0
+microinstability,microinstability,3.0
+micromagnetics,micromagnetic,3.0
+micrometer,micrometer,3.0
+microscope,microscope,4.0
+microscope objective,microscope objective,3.75
+microscopic,microscopic,4.0
+microscopic Raman spectroscopy,microscopic raman spectroscopy,4.0
+microtron,microtron,3.0
+microwave,microwave,4.0
+microwave circuit,microwave circuit,4.5
+microwave heating,microwave heating,3.0
+microwave instability,microwave instability,4.0
+migration energy,migration energy,4.0
+minimization problem,minimization problem,1.0
+minimum surface,minimum surface,3.0
+minimum work,minimum work,2.0
+minimum yield,minimum yield,3.5
+minority carrier,minority carrier,4.0
+minute,minute,1.0
+mirror field,mirror field,1.5
+mirror image,mirror image,2.0
+mirror nuclei,mirror nucleus,2.5
+miscibility gap,miscibility gap,3.0
+misfit dislocation,misfit dislocation,3.0
+missing mass,miss mass,2.25
+mixed crystal,mix crystal,3.0
+mixed dislocation,mixed dislocation,3.0
+mixed state,mixed state,3.333333333333333
+mixed valence,mixed valence,3.0
+mixing,mix,3.0
+mixing length,mix length,3.0
+mixture,mixture,4.0
+mobility,mobility,4.0
+mobility edge,mobility edge,3.5
+modal noise,modal noise,1.0
+mode,mode,3.0
+mode coupling,mode coupling,3.0
+mode distribution,mode distribution,3.0
+mode locking,mode locking,3.0
+mode pattern,mode pattern,3.0
+mode pulling,mode pull,2.0
+mode selection,mode selection,3.0
+mode-locked laser,mode - lock laser,3.25
+model,model,2.6666666666666665
+moderator,moderator,3.0
+modulated structure,modulate structure,2.0
+modulation,modulation,3.0
+modulation index,modulation index,4.0
+modulation method,modulation method,2.0
+molar extinction coefficient,molar extinction coefficient,3.0
+molar fraction,molar fraction,5.0
+molar heat,molar heat,2.5
+molar heat capacity,molar heat capacity,2.75
+molar polarization,molar polarization,3.0
+molar volume,molar volume,3.0
+mole,mole,3.0
+molecular beam,molecular beam,4.0
+molecular collision,molecular collision,3.0
+molecular crystal,molecular crystal,3.0
+molecular field,molecular field,1.0
+molecular field approximation,molecular field approximation,1.0
+molecular flow,molecular flow,3.0
+molecular image,molecular image,2.0
+molecular integral,molecular integral,5.0
+molecular ion,molecular ion,3.0
+molecular motion,molecular motion,4.0
+molecular orbital,molecular orbital,3.0
+molecular physics,molecular physics,3.0
+molecular pump,molecular pump,3.0
+molecular refraction,molecular refraction,3.0
+molecular rotation,molecular rotation,3.0
+molecular science,molecular science,1.0
+molecular spectrum,molecular spectrum,3.0
+molecular structure,molecular structure,2.0
+molecular symmetry,molecular symmetry,3.0
+molecular vibration,molecular vibration,4.0
+molecular volume,molecular volume,3.0
+molecular weight,molecular weight,2.0
+molecular-beam epitaxy,molecular - beam epitaxy,4.0
+molecule,molecule,3.0
+moment,moment,1.0
+moment expansion,moment expansion,2.5
+moment of inertia,moment of inertia,1.0
+momentum,momentum,3.0
+momentum accommodation coefficient,momentum accommodation coefficient,4.0
+momentum compaction factor,momentum compaction factor,4.0
+momentum conservation law,momentum conservation law,2.5
+momentum thickness,momentum thickness,4.0
+momentum transfer,momentum transfer,3.5
+momentum transfer cross section,momentum transfer cross section,2.1666666666666665
+monochromatic,monochromatic,3.0
+monochromatic light,monochromatic light,1.6666666666666667
+monochromaticity,monochromaticity,3.0
+monochromatization,monochromatization,3.0
+monochromator,monochromator,3.0
+monochrome,monochrome,3.0
+monofilament,monofilament,3.0
+monolayer,monolayer,3.0
+monomer,monomer,3.0
+monomolecular film,monomolecular film,2.5
+monomolecular layer,monomolecular layer,3.0
+monopole,monopole,3.0
+mortar,mortar,4.0
+mosaic structure,mosaic structure,2.0
+most probable value,most probable value,2.8888888888888893
+motion,motion,4.0
+motional narrowing,motional narrowing,3.0
+motor,motor,3.0
+moving coordinate system,move coordinate system,1.75
+moving striation,move striation,1.5
+multichannel,multichannel,3.0
+multilayer,multilayer,3.0
+multilayer film,multilayer film,2.5
+multimode,multimode,3.0
+multiphase flow,multiphase flow,3.0
+multiphoton absorption,multiphoton absorption,3.0
+multiphoton dissociation,multiphoton dissociation,3.0
+multiple bond,multiple bond,3.5
+multiple diffraction,multiple diffraction,4.0
+multiple ionization,multiple ionization,4.0
+multiple reflection,multiple reflection,3.5
+multiple scattering,multiple scattering,4.0
+multiple-beam interference,multiple - beam interference,4.0
+multiplet,multiplet,3.0
+multiplication,multiplication,3.0
+multiplication factor,multiplication factor,4.0
+multiplicity,multiplicity,3.0
+multiplier,multiplier,3.0
+multipole,multipole,3.0
+multipole expansion,multipole expansion,4.0
+multipole field,multipole field,1.0
+multipole radiation,multipole radiation,3.0
+muon,muon,3.0
+muon capture,muon capture,3.0
+muonic atom,muonic atom,2.0
+muonium,muonium,3.0
+mutual conductance,mutual conductance,3.0
+mutual inductance,mutual inductance,3.0
+mutual induction,mutual induction,4.0
+n-type semiconductor,n - type semiconductor,2.0
+narrowing,narrow,3.0
+natural convection,natural convection,2.0
+natural frequency,natural frequency,2.5
+natural light,natural light,1.8333333333333335
+natural parity,natural parity,2.0
+natural science,natural science,1.5
+natural uranium,natural uranium,2.0
+natural width,natural width,3.0
+near field pattern,near field pattern,2.111111111111111
+near infrared radiation,near infrared radiation,2.6666666666666665
+nearly free electron approximation,nearly free electron approximation,2.444444444444444
+necking,neck,1.0
+negative corona,negative corona,3.0
+negative electrode,negative electrode,4.0
+negative feedback,negative feedback,3.0
+negative glow,negative glow,3.0
+negative ion,negative ion,2.0
+negative ion injection,negative ion injection,3.0
+negative ion source,negative ion source,2.0
+negative resistance,negative resistance,3.0
+negative temperature,negative temperature,2.0
+negatron,negatron,3.0
+nematic phase,nematic phase,5.0
+neoclassical transport,neoclassical transport,3.5
+nesting,nest,3.0
+network,network,3.0
+network structure,network structure,2.5
+neutral,neutral,3.0
+neutral beam,neutral beam,3.5
+neutral current,neutral current,3.0
+neutral particle,neutral particle,3.5
+neutral plane,neutral plane,3.25
+neutral-ionic transition,neutral - ionic transition,3.5
+neutralization,neutralization,3.0
+neutrino,neutrino,3.0
+neutrino oscillation,neutrino oscillation,3.0
+neutron,neutron,3.0
+neutron capture,neutron capture,3.0
+neutron detector,neutron detector,3.0
+neutron diffraction,neutron diffraction,3.0
+neutron diffractometer,neutron diffractometer,3.0
+neutron dosimetry,neutron dosimetry,3.0
+neutron excess,neutron excess,3.0
+neutron flux,neutron flux,3.0
+neutron resonance,neutron resonance,3.0
+neutron scattering,neutron scattering,3.0
+neutron source,neutron source,2.0
+neutron spectrometer,neutron spectrometer,3.0
+neutron spin echo method,neutron spin echo method,4.0
+neutron star,neutron star,2.0
+nitrogen laser,nitrogen laser,4.0
+noble metal,noble metal,3.0
+node,node,3.0
+noise,noise,1.0
+noise figure,noise figure,1.5
+noise generator,noise generator,1.0
+noise resistance,noise resistance,2.5
+noise temperature,noise temperature,1.5
+noise voltage,noise voltage,1.0
+non-Newtonian flow,non - newtonian flow,3.0
+non-Newtonian fluid,non - newtonian fluid,4.0
+non-destructive inspection,non - destructive inspection,3.0
+non-stoichiometry,non - stoichiometry,3.0
+nonlinear,nonlinear,3.0
+nonlinear circuit,nonlinear circuit,5.0
+nonlinear conduction,nonlinear conduction,3.0
+nonlinear element,nonlinear element,3.0
+nonlinear optics,nonlinear optic,3.0
+nonlinear oscillation,nonlinear oscillation,3.0
+nonlinear resistor,nonlinear resistor,3.0
+nonlinear resonance,nonlinear resonance,3.0
+nonlinear spectroscopy,nonlinear spectroscopy,3.0
+nonlinear susceptibility,nonlinear susceptibility,3.0
+nonlinear viscoelasticity,nonlinear viscoelasticity,3.0
+nonlinear wave,nonlinear wave,2.5
+nonthermal radiation,nonthermal radiation,3.0
+norm,norm,3.0
+normal conducting state,normal conduct state,2.944444444444444
+normal conduction,normal conduction,2.0
+normal coordinates,normal coordinate,2.0
+normal dispersion,normal dispersion,2.0
+normal distribution,normal distribution,2.5
+normal force,normal force,2.5
+normal gravity,normal gravity,2.0
+normal liquid,normal liquid,2.5
+normal mode,normal mode,2.0
+normal shock wave,normal shock wave,2.5
+normal state,normal state,2.6666666666666665
+normal stress,normal stress,2.75
+normal velocity,normal velocity,2.0
+normalization,normalization,3.0
+normalized emittance,normalize emittance,3.0
+north pole,north pole,2.5
+nozzle,nozzle,3.0
+nuclear astrophysics,nuclear astrophysic,3.0
+nuclear deformation,nuclear deformation,3.0
+nuclear emulsion,nuclear emulsion,3.0
+nuclear energy,nuclear energy,3.5
+nuclear fission,nuclear fission,3.0
+nuclear force,nuclear force,3.0
+nuclear fragmentation,nuclear fragmentation,4.0
+nuclear fuel,nuclear fuel,3.0
+nuclear fusion,nuclear fusion,4.0
+nuclear isomer,nuclear isomer,3.0
+nuclear magnetic relaxation,nuclear magnetic relaxation,4.0
+nuclear magnetic resonance,nuclear magnetic resonance,4.0
+nuclear magnetism,nuclear magnetism,4.0
+nuclear magneton,nuclear magneton,3.0
+nuclear matter,nuclear matter,2.25
+nuclear moment,nuclear moment,2.0
+nuclear orientation,nuclear orientation,3.0
+nuclear physics,nuclear physics,3.0
+nuclear potential,nuclear potential,3.25
+nuclear quadrupole resonance,nuclear quadrupole resonance,3.0
+nuclear radius,nuclear radius,3.0
+nuclear reaction,nuclear reaction,3.5
+nuclear reactor,nuclear reactor,3.0
+nuclear resonance fluorescence,nuclear resonance fluorescence,3.0
+nuclear scattering,nuclear scattering,3.0
+nuclear spectroscopy,nuclear spectroscopy,3.0
+nuclear stopping power,nuclear stopping power,2.5
+nuclear structure,nuclear structure,2.5
+nuclear temperature,nuclear temperature,2.5
+nuclear transmutation,nuclear transmutation,3.0
+nucleation,nucleation,3.0
+nucleon,nucleon,3.0
+nucleus,nucleus,3.0
+nuclide,nuclide,3.0
+number density,number density,1.0
+number operator,number operator,2.5
+numerical calculation,numerical calculation,3.5
+numerical integration,numerical integration,5.0
+numerical solution,numerical solution,3.0
+nutation,nutation,3.0
+object wave,object wave,3.0
+objective,objective,3.5
+oblique shock wave,oblique shock wave,3.8333333333333335
+observable,observable,3.0
+observation,observation,3.0
+observation equation,observation equation,3.5
+observed value,observe value,3.0
+observer,observer,4.0
+octahedral site,octahedral site,1.0
+octet,octet,3.0
+octupole,octupole,3.0
+octupole moment,octupole moment,1.0
+ocular,ocular,3.0
+ohm,ohm,3.0
+ohmic contact,ohmic contact,2.0
+ohmic heating,ohmic heating,2.0
+oil diffusion pump,oil diffusion pump,2.5
+oligomer,oligomer,3.0
+omnidirectional,omnidirectional,3.0
+one particle operator,one particle operator,3.1111111111111107
+one-body potential,one - body potential,1.9444444444444444
+one-dimensional,one - dimensional,1.3333333333333333
+one-dimensional system,one - dimensional system,1.6666666666666665
+one-electron approximation,one - electron approximation,2.1666666666666665
+opacity,opacity,6.0
+open end,open end,1.25
+open shell,open shell,2.0
+open system,open system,1.5
+open tube,open tube,1.0
+operation,operation,3.0
+operational amplifier,operational amplifier,4.0
+operational calculus,operational calculus,3.0
+operator,operator,4.0
+optic axis,optic axis,4.0
+optical activity,optical activity,1.0
+optical amplifier,optical amplifier,4.0
+optical axis,optical axis,4.0
+optical beat,optical beat,3.5
+optical bench,optical bench,2.0
+optical bistability,optical bistability,3.0
+optical communication,optical communication,2.0
+optical confinement,optical confinement,5.0
+optical constant,optical constant,4.0
+optical damage,optical damage,3.0
+optical deflection,optical deflection,3.0
+optical deflector,optical deflector,3.0
+optical density,optical density,3.0
+optical depth,optical depth,3.0
+optical fiber,optical fiber,3.0
+optical glass,optical glass,1.0
+optical heterodyne,optical heterodyne,3.0
+optical integrated circuit,optical integrate circuit,4.5
+optical isolator,optical isolator,3.0
+optical isomerism,optical isomerism,3.0
+optical lever,optical lever,3.0
+optical memory,optical memory,1.0
+optical microscope,optical microscope,4.0
+optical mixing,optical mixing,3.0
+optical model,optical model,2.6666666666666665
+optical modulator,optical modulator,3.0
+optical oscillator strength,optical oscillator strength,2.0
+optical parametric amplification,optical parametric amplification,5.0
+optical parametric oscillation,optical parametric oscillation,3.0
+optical path,optical path,2.0
+optical path difference,optical path difference,1.5
+optical path length,optical path length,2.5
+optical potential,optical potential,3.5
+optical pulse compression,optical pulse compression,4.0
+optical pumping,optical pumping,3.0
+optical rectification,optical rectification,3.0
+optical resonator,optical resonator,3.0
+optical rotation,optical rotation,3.0
+optical rotatory power,optical rotatory power,2.0
+optical shutter,optical shutter,3.0
+optical spin orientation,optical spin orientation,4.0
+optical strain,optical strain,3.5
+optical switch,optical switch,3.0
+optical system,optical system,2.0
+optical theorem,optical theorem,3.0
+optical thickness,optical thickness,4.0
+optical transfer function,optical transfer function,3.0
+optical transmission,optical transmission,4.0
+optical waveguide,optical waveguide,3.0
+optical wedge,optical wedge,3.0
+optically pumped laser,optically pump laser,3.5
+optics,optic,3.0
+optimal control,optimal control,2.5
+optimization,optimization,3.0
+optoelectronics,optoelectronic,3.0
+orbit,orbit,3.0
+orbital,orbital,3.0
+orbital angular momentum,orbital angular momentum,6.0
+orbital diamagnetism,orbital diamagnetism,3.0
+orbital electron,orbital electron,3.0
+orbital magnetic moment,orbital magnetic moment,3.0
+orbital paramagnetism,orbital paramagnetism,3.0
+orbital susceptibility,orbital susceptibility,3.0
+order parameter,order parameter,3.75
+order-disorder ferroelectrics,order - disorder ferroelectric,2.75
+order-disorder transition,order - disorder transition,3.1666666666666665
+ordered alloy,order alloy,1.5
+ordered lattice,order lattice,1.5
+ordered state,order state,2.4166666666666665
+ordered structure,order structure,1.75
+ordinate,ordinate,3.0
+organic semiconductor,organic semiconductor,3.0
+organic superconductor,organic superconductor,3.0
+orientation,orientation,3.0
+orientational order,orientational order,1.5
+orifice,orifice,3.0
+ortho-para conversion,ortho - para conversion,4.0
+orthonormality,orthonormality,3.0
+orthorhombic system,orthorhombic system,2.0
+oscillating current,oscillate current,3.0
+oscillation,oscillation,3.0
+oscillator,oscillator,3.0
+oscillator strength,oscillator strength,2.0
+oscilloscope,oscilloscope,3.0
+outgassing,outgas,3.0
+outgassing rate,outgas rate,3.0
+outlet,outlet,4.0
+output,output,4.0
+overcurrent,overcurrent,3.0
+overdamping,overdamping,3.0
+overlap integral,overlap integral,4.5
+overlap population,overlap population,3.0
+overload,overload,3.0
+overshoot,overshoot,3.0
+overtone,overtone,3.0
+overvoltage,overvoltage,3.0
+oxidation,oxidation,3.0
+oxidation number,oxidation number,1.0
+oxidation-reduction potential,oxidation - reduction potential,3.25
+p orbital,p orbital,3.0
+p-i-n diode,p - i - n diode,1.0
+p-n junction,p - n junction,3.0
+p-type semiconductor,p - type semiconductor,2.0
+p-wave,p - wave,2.5
+pH,ph,4.0
+packing,packing,3.0
+pair annihilation,pair annihilation,1.0
+pair correlation function,pair correlation function,3.1666666666666665
+pair creation,pair creation,2.5
+pair potential,pair potential,2.25
+pairing effect,pair effect,1.5
+pairing force,pair force,2.0
+pairing interaction,pair interaction,2.0
+pairing rotation,pair rotation,1.0
+para-hydrogen,para - hydrogen,3.0
+parabolic mirror,parabolic mirror,2.0
+paracrystal,paracrystal,3.0
+paradox,paradox,4.0
+parallax,parallax,3.0
+parallel resonance,parallel resonance,3.0
+paramagnetic resonance,paramagnetic resonance,3.0
+paramagnetic scattering,paramagnetic scattering,3.0
+paramagnetism,paramagnetism,3.0
+paramagnon,paramagnon,3.0
+parametric amplifier,parametric amplifier,4.0
+parametric array,parametric array,3.0
+parametric excitation,parametric excitation,3.0
+parasitic oscillation,parasitic oscillation,6.0
+paraxial ray,paraxial ray,2.0
+parity,parity,3.0
+parity violation,parity violation,3.0
+partial differential equation,partial differential equation,3.5
+partial differentiation,partial differentiation,3.0
+partial discharge,partial discharge,3.5
+partial dislocation,partial dislocation,3.0
+partial irradiation,partial irradiation,3.0
+partial pressure,partial pressure,2.5
+partial wave,partial wave,2.75
+partial width,partial width,3.5
+particle,particle,4.0
+particle beam,particle beam,4.0
+particle detector,particle detector,4.0
+particle dynamics,particle dynamic,4.0
+particle velocity,particle velocity,4.0
+particle-rotor coupling,particle - rotor coupling,4.0
+particular solution,particular solution,3.0
+partition function,partition function,2.5
+partition noise,partition noise,1.0
+parton model,parton model,2.6666666666666665
+passive element,passive element,3.0
+passive filter,passive filter,3.0
+path integral,path integral,3.5
+pattern recognition,pattern recognition,3.5
+peak time,peak time,3.25
+pendulum,pendulum,5.0
+penetration depth,penetration depth,3.0
+perceptron,perceptron,3.0
+percolation,percolation,3.0
+perfect conductor,perfect conductor,3.75
+perfect crystal,perfect crystal,3.5
+perfect diamagnetism,perfect diamagnetism,3.5
+perfect dislocation,perfect dislocation,3.5
+perfect fluid,perfect fluid,3.75
+perfect gas,perfect gas,2.75
+perihelion,perihelion,3.0
+period,period,1.0
+periodic boundary condition,periodic boundary condition,3.5
+periodic field,periodic field,1.0
+periodic motion,periodic motion,4.0
+periodic potential,periodic potential,3.5
+periodic table,periodic table,1.0
+peritectic,peritectic,3.0
+permalloy,permalloy,3.0
+permanent magnet,permanent magnet,3.0
+permeability,permeability,3.0
+permeance,permeance,3.0
+permittivity,permittivity,3.0
+permutation group,permutation group,2.0
+perovskite structure,perovskite structure,2.0
+perpendicular susceptibility,perpendicular susceptibility,3.0
+persistent current,persistent current,3.5
+perturbation,perturbation,3.0
+perturbation theory,perturbation theory,3.0
+phantom,phantom,4.5
+phase,phase,5.0
+phase angle,phase angle,4.5
+phase average,phase average,3.5
+phase boundary,phase boundary,5.0
+phase change,phase change,3.0
+phase conjugate wave,phase conjugate wave,3.75
+phase conjugation,phase conjugation,5.0
+phase contrast method,phase contrast method,3.0
+phase detection,phase detection,5.0
+phase diagram,phase diagram,4.0
+phase difference,phase difference,3.0
+phase distortion,phase distortion,4.5
+phase equilibrium,phase equilibrium,5.5
+phase grating,phase grating,5.0
+phase hologram,phase hologram,5.0
+phase margin,phase margin,4.5
+phase matching,phase match,3.5
+phase mode,phase mode,5.0
+phase modulation,phase modulation,5.0
+phase oscillation,phase oscillation,5.0
+phase plate,phase plate,3.5
+phase problem,phase problem,3.0
+phase separation,phase separation,4.0
+phase shift,phase shift,4.25
+phase shifter,phase shifter,5.0
+phase space,phase space,3.5
+phase stability,phase stability,4.5
+phase transformation,phase transformation,4.0
+phase transition,phase transition,4.5
+phase velocity,phase velocity,5.0
+phase volume,phase volume,4.0
+phase-contrast microscope,phase - contrast microscope,3.6666666666666665
+phason,phason,3.0
+phenomenological theory,phenomenological theory,3.0
+phenomenology,phenomenology,3.0
+phonon,phonon,3.0
+phonon drag,phonon drag,3.0
+phonon excitation,phonon excitation,3.0
+phonon scattering,phonon scattering,3.0
+phosphor,phosphor,3.0
+phosphorescence,phosphorescence,3.0
+photo-polymerization,photo - polymerization,1.0
+photocathode,photocathode,3.0
+photocell,photocell,3.0
+photoconduction,photoconduction,3.0
+photocurrent,photocurrent,3.0
+photodetachment,photodetachment,3.0
+photodetector,photodetector,3.0
+photodiode,photodiode,3.0
+photodisintegration,photodisintegration,3.0
+photodissociation,photodissociation,3.0
+photoelastic effect,photoelastic effect,2.0
+photoelasticity,photoelasticity,3.0
+photoelectric absorption,photoelectric absorption,3.0
+photoelectric current,photoelectric current,3.0
+photoelectric effect,photoelectric effect,2.0
+photoelectric tube,photoelectric tube,1.0
+photoelectromotive force,photoelectromotive force,3.0
+photoelectron,photoelectron,3.0
+photoelectron spectroscopy,photoelectron spectroscopy,3.0
+photoemission,photoemission,3.0
+photographic sensitivity,photographic sensitivity,3.0
+photoionization,photoionization,3.0
+photoirradiation,photoirradiation,3.0
+photoisomerization,photoisomerization,3.0
+photoluminescence,photoluminescence,3.0
+photolysis,photolysis,3.0
+photomagnetism,photomagnetism,3.0
+photometer,photometer,3.0
+photometry,photometry,3.0
+photomultiplier tube,photomultiplier tube,1.0
+photon,photon,3.0
+photon counting method,photon counting method,2.0
+photon echo,photon echo,6.0
+photon statistics,photon statistic,3.0
+photopic vision,photopic vision,3.0
+photoproduction,photoproduction,3.0
+photoreaction,photoreaction,3.0
+photoresist,photoresist,3.0
+photosynthesis,photosynthesis,3.0
+phototransistor,phototransistor,3.0
+photovoltaic effects,photovoltaic effect,2.0
+physical chemistry,physical chemistry,2.5
+physical optics,physical optic,2.0
+physics,physics,3.0
+physisorption,physisorption,3.0
+picosecond light pulse,picosecond light pulse,2.8333333333333335
+piezoelectric crystal,piezoelectric crystal,3.0
+piezoelectric effect,piezoelectric effect,2.0
+piezoelectric element,piezoelectric element,3.0
+piezoelectric semiconductor,piezoelectric semiconductor,3.0
+piezoelectric transducer,piezoelectric transducer,3.0
+piezoelectric vibration,piezoelectric vibration,4.0
+piezoelectric vibrator,piezoelectric vibrator,3.0
+piezoelectricity,piezoelectricity,3.0
+piezoresistance,piezoresistance,3.0
+piezoresistor,piezoresistor,3.0
+pinch,pinch,3.0
+pion,pion,3.0
+pion condensation,pion condensation,6.0
+pionic atom,pionic atom,2.0
+piston source,piston source,2.0
+pitching moment,pitch moment,2.5
+plane mirror,plane mirror,2.75
+plane of incidence,plane of incidence,2.25
+plane of polarization,plane of polarization,2.25
+plane wave,plane wave,3.0
+plane wave approximation,plane wave approximation,3.0
+plant,plant,2.5
+plasma,plasma,3.0
+plasma accelerator,plasma accelerator,3.0
+plasma confinement,plasma confinement,5.0
+plasma diagnostics,plasma diagnostic,3.0
+plasma frequency,plasma frequency,3.0
+plasma gun,plasma gun,2.0
+plasma heating,plasma heating,2.0
+plasma instability,plasma instability,3.0
+plasma oscillation,plasma oscillation,3.0
+plasma physics,plasma physics,3.0
+plasma potential,plasma potential,3.5
+plasma source,plasma source,2.0
+plasmoid,plasmoid,3.0
+plasmon,plasmon,3.0
+plasmon excitation,plasmon excitation,3.0
+plasmon scattering,plasmon scattering,3.0
+plastic deformation,plastic deformation,2.5
+plastic flow,plastic flow,2.75
+plasticity,plasticity,3.0
+plate,plate,2.0
+plating,plating,3.0
+point charge,point charge,2.25
+point defect,point defect,1.5
+point group,point group,1.75
+point image,point image,1.75
+point source,point source,1.75
+pointer,pointer,3.0
+polar coordinate,polar coordinate,3.0
+polar crystal,polar crystal,3.0
+polar liquid,polar liquid,3.0
+polar molecule,polar molecule,3.0
+polarimeter,polarimeter,3.0
+polariton,polariton,3.0
+polarizability,polarizability,3.0
+polarizance,polarizance,3.0
+polarization,polarization,3.0
+polarization analysis,polarization analysis,3.0
+polarization angle,polarization angle,4.0
+polarization charge,polarization charge,3.0
+polarization current,polarization current,3.0
+polarization effect,polarization effect,2.0
+polarization factor,polarization factor,4.0
+polarization force,polarization force,3.0
+polarization interferometer,polarization interferometer,3.0
+polarization spectroscopy,polarization spectroscopy,3.0
+polarization tensor,polarization tensor,3.0
+polarized Raman scattering,polarize raman scattering,3.0
+polarized beam,polarize beam,4.0
+polarized ion source,polarize ion source,2.0
+polarized light,polarize light,1.6666666666666667
+polarized nucleus,polarize nucleus,3.0
+polarized target,polarize target,2.0
+polarized wave,polarize wave,2.5
+polarizer,polarizer,3.0
+polarizing microscope,polarize microscope,4.0
+polaron,polaron,3.0
+pole,pole,3.0
+poloidal magnetic field,poloidal magnetic field,3.0
+polychromator,polychromator,3.0
+polycrystal,polycrystal,3.0
+polycrystalline material,polycrystalline material,2.0
+polyelectrolyte,polyelectrolyte,3.0
+polygonization,polygonization,3.0
+polymer,polymer,3.0
+polymer liquid crystal,polymer liquid crystal,3.0
+polymer solution,polymer solution,2.0
+polymerization,polymerization,3.0
+polymorph,polymorph,3.0
+polytype,polytype,3.0
+poor solvent,poor solvent,2.5
+population,population,2.0
+population inversion,population inversion,2.0
+porosity,porosity,3.0
+position resolution,position resolution,3.0
+position vector,position vector,2.0
+position-sensitive detector,position - sensitive detector,3.0
+positive column,positive column,2.5
+positive corona,positive corona,3.5
+positive electrode,positive electrode,4.5
+positive feedback,positive feedback,3.5
+positive hole,positive hole,2.0
+positive ion,positive ion,3.0
+positron,positron,3.0
+positron annihilation,positron annihilation,3.0
+positron emission,positron emission,3.0
+positronium,positronium,3.0
+potential,potential,3.5
+potential barrier,potential barrier,3.75
+potential curve,potential curve,3.25
+potential difference,potential difference,2.25
+potential energy,potential energy,3.75
+potential flow,potential flow,3.25
+potential scattering,potential scattering,3.5
+potential surface,potential surface,3.25
+powder diffraction,powder diffraction,3.5
+power,power,2.0
+power factor,power factor,3.0
+power level,power level,2.5
+power series,power series,2.5
+power spectrum,power spectrum,2.0
+power supply,power supply,2.75
+pre-amplifier,pre - amplifier,4.0
+precession,precession,3.0
+precipitation,precipitation,3.0
+precision,precision,5.0
+precursor state,precursor state,3.333333333333333
+predissociation,predissociation,3.0
+preferred orientation,preferred orientation,3.0
+preinjector,preinjector,3.0
+preionization,preionization,3.0
+pressure,pressure,2.0
+pressure distribution,pressure distribution,2.5
+pressure drag,pressure drag,2.5
+pressure gauge,pressure gauge,2.0
+pressure gradient,pressure gradient,2.0
+pressure level,pressure level,2.5
+pressure loss,pressure loss,2.5
+primary beam,primary beam,4.0
+primary coil,primary coil,4.0
+primary color,primary color,4.0
+primary current,primary current,3.5
+primary recrystallization,primary recrystallization,4.0
+principal axis,principal axis,3.5
+principal axis of inertia,principal axis of inertia,2.6666666666666665
+principal quantum number,principal quantum number,2.0
+principal ray,principal ray,2.5
+principal series,principal series,3.0
+principal strain,principal strain,3.25
+principal stress,principal stress,3.25
+principal value,principal value,3.0
+principle,principle,3.0
+principle of equivalence,principle of equivalence,2.0
+principle of virtual work,principle of virtual work,2.0
+prism,prism,3.0
+probabilistic interpretation,probabilistic interpretation,4.0
+probability,probability,3.0
+probability amplitude,probability amplitude,3.0
+probability density,probability density,3.0
+probability distribution,probability distribution,3.0
+probe,probe,4.0
+profile,profile,4.0
+progression,progression,3.0
+progressive wave,progressive wave,2.25
+projectile,projectile,3.0
+projection,projection,4.0
+projection operator,projection operator,4.0
+propagation,propagation,3.0
+propagation constant,propagation constant,4.0
+propagation vector,propagation vector,3.0
+propagator,propagator,3.0
+proper time,proper time,2.25
+proportional counter,proportional counter,4.75
+proton,proton,3.0
+proton decay,proton decay,4.0
+protostar,protostar,3.0
+prototype,prototype,3.0
+proximity effect,proximity effect,3.0
+pseudomorphism,pseudomorphism,3.0
+pseudopotential,pseudopotential,3.0
+pseudorapidity,pseudorapidity,3.0
+pseudoscalar,pseudoscalar,3.0
+pseudoscalar meson,pseudoscalar meson,3.0
+pseudotensor,pseudotensor,3.0
+pulley,pulley,3.0
+pulsar,pulsar,3.0
+pulsating current,pulsate current,3.0
+pulse,pulse,4.0
+pulse discharge,pulse discharge,4.0
+pulse generator,pulse generator,4.0
+pulse height,pulse height,3.5
+pulse height analyzer,pulse height analyzer,3.5
+pulse modulation,pulse modulation,4.0
+pulse motor,pulse motor,3.5
+pulse transformer,pulse transformer,4.0
+pulse width,pulse width,4.0
+pulsed beam,pulse beam,4.0
+pulsed laser,pulse laser,4.0
+pulsed neutron source,pulse neutron source,3.0
+pumping,pump,3.0
+pumping source,pump source,2.5
+pumping speed,pump speed,2.75
+pupil,pupil,4.0
+pure state,pure state,3.1666666666666665
+pycnonuclear reaction,pycnonuclear reaction,4.0
+pyroelectricity,pyroelectricity,3.0
+pyrometer,pyrometer,3.0
+quadratic form,quadratic form,2.0
+quadratic surface,quadratic surface,3.0
+quadrupole,quadrupole,3.0
+quadrupole deformation,quadrupole deformation,3.0
+quadrupole interaction,quadrupole interaction,3.0
+quadrupole magnet,quadrupole magnet,3.0
+quadrupole mass spectrometer,quadrupole mass spectrometer,3.5
+quadrupole moment,quadrupole moment,1.0
+quadrupole vibration,quadrupole vibration,4.0
+qualitative analysis,qualitative analysis,4.5
+quality factor,quality factor,3.25
+quantitative analysis,quantitative analysis,3.0
+quantization,quantization,3.0
+quantization axis,quantization axis,4.0
+quantized vortex,quantize vortex,6.0
+quantum,quantum,3.0
+quantum chaos,quantum chaos,3.0
+quantum chromodynamics,quantum chromodynamic,3.0
+quantum correction,quantum correction,3.0
+quantum defect,quantum defect,3.0
+quantum effect,quantum effect,2.0
+quantum efficiency,quantum efficiency,3.0
+quantum electrodynamics,quantum electrodynamic,3.0
+quantum fluctuation,quantum fluctuation,6.0
+quantum gravity,quantum gravity,3.0
+quantum limit,quantum limit,3.0
+quantum liquid,quantum liquid,3.0
+quantum logic,quantum logic,3.0
+quantum mechanics,quantum mechanic,3.0
+quantum noise,quantum noise,1.0
+quantum number,quantum number,1.0
+quantum optics,quantum optic,3.0
+quantum size effect,quantum size effect,1.5
+quantum solid,quantum solid,3.0
+quantum state,quantum state,3.333333333333333
+quantum theory,quantum theory,3.0
+quantum well,quantum well,1.0
+quark,quark,3.0
+quark cluster model,quark cluster model,2.6666666666666665
+quark model,quark model,2.6666666666666665
+quark-gluon plasma,quark - gluon plasma,3.0
+quark-lepton symmetry,quark - lepton symmetry,3.0
+quartet,quartet,3.0
+quartz,quartz,3.0
+quasi-elastic scattering,quasi - elastic scattering,5.0
+quasicrystal,quasicrystal,3.0
+quasimolecule,quasimolecule,3.0
+quasiparticle,quasiparticle,3.0
+quenching,quenching,3.0
+quintet,quintet,3.0
+rad,rad,3.0
+radar,radar,4.0
+radial coupling,radial coupling,3.0
+radial distribution function,radial distribution function,2.75
+radial velocity,radial velocity,3.0
+radiant flux,radiant flux,3.0
+radiation,radiation,3.0
+radiation damage,radiation damage,3.0
+radiation damping,radiation damp,3.0
+radiation detector,radiation detector,3.0
+radiation dose,radiation dose,3.5
+radiation effect,radiation effect,2.5
+radiation energy,radiation energy,3.5
+radiation impedance,radiation impedance,3.0
+radiation law,radiation law,2.5
+radiation loss,radiation loss,3.0
+radiation pressure,radiation pressure,2.5
+radiation protection,radiation protection,3.0
+radiation resistance,radiation resistance,3.5
+radiation source,radiation source,2.5
+radiation thermometer,radiation thermometer,3.5
+radiative capture,radiative capture,3.0
+radiative correction,radiative correction,3.0
+radiative decay,radiative decay,4.0
+radiative equilibrium,radiative equilibrium,6.0
+radiative recombination,radiative recombination,3.0
+radical,radical,4.0
+radio astronomy,radio astronomy,2.5
+radio interferometer,radio interferometer,1.0
+radio source,radio source,1.5
+radio wave,radio wave,1.75
+radioactive decay,radioactive decay,4.0
+radioactive isotope,radioactive isotope,3.0
+radioactive waste,radioactive waste,3.0
+radioactivity,radioactivity,3.0
+radioisotope,radioisotope,3.0
+radiolysis,radiolysis,3.0
+radiometer,radiometer,3.0
+radionuclide,radionuclide,3.0
+radiotherapy,radiotherapy,3.0
+radius of curvature,radius of curvature,1.0
+rainbow scattering,rainbow scatter,3.5
+random error,random error,2.0
+random matrix,random matrix,3.0
+random packing structure,random packing structure,2.5
+random phase approximation,random phase approximation,5.0
+random process,random process,3.5
+random system,random system,2.0
+random vibration,random vibration,4.0
+random walk,random walk,1.0
+range,range,3.0
+range straggling,range straggling,3.0
+rapidity,rapidity,3.0
+rare earth elements,rare earth element,2.6666666666666665
+rare earth nuclei,rare earth nucleus,2.6666666666666665
+rare gas,rare gas,2.5
+rarefaction,rarefaction,3.0
+rarefied gas,rarefy gas,2.0
+rate constant,rate constant,3.5
+rate equation,rate equation,3.5
+rate process,rate process,3.25
+ratio control,ratio control,2.5
+ray,ray,2.0
+ray tracing,ray trace,2.75
+reactance,reactance,3.0
+reaction,reaction,4.0
+reaction path,reaction path,3.0
+reaction product,reaction product,3.0
+reaction rate,reaction rate,3.5
+reaction rate constant,reaction rate constant,3.6666666666666665
+reaction time,reaction time,3.25
+reactor,reactor,3.0
+reactor core,reactor core,4.0
+real gas,real gas,1.5
+real image,real image,1.5
+receive,receive,2.0
+reciprocal lattice,reciprocal lattice,3.0
+reciprocal space,reciprocal space,2.0
+reciprocity,reciprocity,3.0
+reciprocity theorem,reciprocity theorem,3.0
+recoil,recoil,3.0
+recoil energy,recoil energy,4.0
+recombination,recombination,3.0
+recombination line,recombination line,2.5
+recombination radiation,recombination radiation,3.0
+reconstructed image,reconstruct image,2.0
+reconstruction,reconstruction,3.0
+recovery,recovery,3.0
+recovery time,recovery time,2.75
+recrystallization,recrystallization,3.0
+rectification,rectification,3.0
+rectifier,rectifier,3.0
+recurrence,recurrence,3.0
+recursive,recursive,3.0
+red shift,red shift,2.5
+reduced mass,reduce mass,3.25
+reduced viscosity,reduce viscosity,3.0
+reduction,reduction,3.0
+reference wave,reference wave,3.25
+reflected wave,reflect wave,2.25
+reflecting mirror,reflect mirror,2.0
+reflection,reflection,3.0
+reflection angle,reflection angle,3.5
+reflection coefficient,reflection coefficient,3.0
+reflection electron diffraction,reflection electron diffraction,3.0
+reflection electron microscope,reflection electron microscope,3.3333333333333335
+reflection grating,reflection grating,3.0
+reflection high-energy electron diffraction,reflection high - energy electron diffraction,2.875
+reflection profile,reflection profile,3.5
+reflection spectrum,reflection spectrum,3.0
+reflectivity,reflectivity,3.0
+reflector,reflector,3.0
+refraction,refraction,3.0
+refraction angle,refraction angle,4.0
+refractive index,refractive index,4.0
+refractometer,refractometer,3.0
+refrigerant,refrigerant,3.0
+refrigeration capacity,refrigeration capacity,3.0
+regeneration,regeneration,3.0
+register,register,3.0
+regression analysis,regression analysis,3.0
+regular reflection,regular reflection,2.5
+regularization,regularization,3.0
+regulator,regulator,3.0
+relation,relation,3.0
+relative coordinates,relative coordinate,3.0
+relative humidity,relative humidity,3.0
+relative motion,relative motion,3.5
+relative permeability,relative permeability,3.0
+relative permittivity,relative permittivity,3.0
+relative pressure,relative pressure,2.5
+relative sensitivity,relative sensitivity,3.0
+relative velocity,relative velocity,3.0
+relativistic,relativistic,3.0
+relativistic dynamics,relativistic dynamic,4.0
+relativistic quantum mechanics,relativistic quantum mechanic,3.0
+relativity,relativity,4.0
+relativity theory,relativity theory,3.5
+relaxation,relaxation,4.0
+relaxation function,relaxation function,3.25
+relaxation modulus,relaxation modulus,4.0
+relaxation oscillation,relaxation oscillation,4.0
+relaxation phenomena,relaxation phenomenon,3.5
+relaxation process,relaxation process,3.75
+relaxation spectrum,relaxation spectrum,4.0
+relaxation time,relaxation time,3.25
+relay,relay,4.0
+reliability,reliability,3.0
+remanence,remanence,3.0
+remanent magnetization,remanent magnetization,3.0
+remote control,remote control,2.25
+renormalization,renormalization,3.0
+renormalization group,renormalization group,2.0
+renormalization theory,renormalization theory,3.0
+repeated stress,repeat stress,2.25
+replacement,replacement,4.0
+replica method,replica method,3.0
+representation,representation,3.0
+reproducibility,reproducibility,3.0
+repulsive force,repulsive force,3.0
+residence time,residence time,3.25
+residual current,residual current,4.5
+residual gas,residual gas,4.0
+residual interaction,residual interaction,4.5
+residual nucleus,residual nucleus,4.5
+residual resistance,residual resistance,5.0
+residual strain,residual strain,4.75
+residual stress,residual stress,4.75
+residual voltage,residual voltage,6.0
+resistance,resistance,4.0
+resistance minimum,resistance minimum,3.5
+resistive wall instability,resistive wall instability,1.0
+resistivity,resistivity,3.0
+resistor,resistor,3.0
+resolution,resolution,4.0
+resolved shear stress,resolve shear stress,3.25
+resolvent,resolvent,3.0
+resolving power,resolve power,2.5
+resonance,resonance,3.0
+resonance Raman effect,resonance raman effect,2.0
+resonance absorption,resonance absorption,3.0
+resonance circuit,resonance circuit,5.0
+resonance curve,resonance curve,3.0
+resonance energy,resonance energy,4.0
+resonance fluorescence,resonance fluorescence,3.0
+resonance formula,resonance formula,3.0
+resonance frequency,resonance frequency,3.0
+resonance integral,resonance integral,5.0
+resonance level,resonance level,3.0
+resonance line,resonance line,2.5
+resonance radiation,resonance radiation,3.0
+resonance scattering,resonance scatter,3.0
+resonance spectrum,resonance spectrum,3.0
+resonance state,resonance state,3.333333333333333
+resonant interaction,resonant interaction,3.5
+resonant tunneling diode,resonant tunneling diode,4.0
+resonator,resonator,3.0
+response,response,2.0
+response function,response function,2.25
+rest mass,rest mass,3.25
+restoring force,restore force,3.0
+resultant force,resultant force,3.0
+retardation,retardation,3.0
+retardation time,retardation time,2.5
+retarded Green function,retarded green function,2.0
+retroreflection,retroreflection,3.0
+reverberation,reverberation,6.0
+reverberation time,reverberation time,4.25
+reverse breakdown voltage,reverse breakdown voltage,4.0
+reverse voltage,reverse voltage,4.0
+reversed field pinch,reverse field pinch,2.5
+reversible change,reversible change,1.0
+reversible cycle,reversible cycle,3.0
+reversible process,reversible process,3.5
+revolution,revolution,4.0
+rheology,rheology,3.0
+rheometer,rheometer,3.0
+rhombohedral system,rhombohedral system,2.0
+rigid body,rigid body,1.0
+rigid sphere,rigid sphere,3.0
+rigidity,rigidity,3.0
+ring,ring,1.5
+ring current,ring current,2.25
+ring laser,ring laser,2.75
+ringing,ring,1.5
+ripple,ripple,3.0
+ripplon,ripplon,3.0
+rise time,rise time,2.75
+rock salt,rock salt,2.5
+rocking curve,rock curve,3.0
+room temperature,room temperature,2.0
+rotating fluid,rotate fluid,4.5
+rotating magnetic field,rotate magnetic field,3.6666666666666665
+rotation,rotation,3.0
+rotation angle,rotation angle,4.0
+rotation axis,rotation axis,4.0
+rotation group,rotation group,2.0
+rotation spectrum,rotation spectrum,3.0
+rotational band,rotational band,1.0
+rotational coupling,rotational coupling,3.0
+rotational energy,rotational energy,4.0
+rotational excitation,rotational excitation,3.0
+rotational level,rotational level,3.0
+rotational motion,rotational motion,4.0
+rotational quantum number,rotational quantum number,1.0
+rotational relaxation,rotational relaxation,4.0
+rotational structure,rotational structure,2.0
+rotational symmetry,rotational symmetry,3.0
+rotational temperature,rotational temperature,2.0
+rotational transition,rotational transition,4.0
+rotatory dispersion,rotatory dispersion,3.0
+rotatory power,rotatory power,2.0
+rotor,rotor,3.0
+roughening transition,roughen transition,4.0
+roughing,rough,3.0
+roughness factor,roughness factor,4.0
+ruby laser,ruby laser,4.0
+rule,rule,2.5
+rutile structure,rutile structure,2.0
+saccharimeter,saccharimeter,3.0
+saddle point method,saddle point method,1.75
+safety factor,safety factor,3.5
+sampling oscilloscope,sample oscilloscope,2.0
+sampling theorem,sample theorem,2.0
+satellite,satellite,3.0
+satellite line,satellite line,2.75
+satellite reflection,satellite reflection,3.0
+saturable absorber,saturable absorber,3.0
+saturated absorption,saturate absorption,3.0
+saturated vapor,saturate vapor,3.0
+saturated vapor pressure,saturate vapor pressure,2.0
+saturation,saturation,3.0
+saturation current,saturation current,3.0
+saturation curve,saturation curve,3.0
+saturation magnetization,saturation magnetization,3.0
+saturation polarization,saturation polarization,3.0
+saturation temperature,saturation temperature,2.0
+scalar,scalar,3.0
+scalar field,scalar field,1.0
+scalar particle,scalar particle,4.0
+scalar potential,scalar potential,3.5
+scale,scale,2.0
+scale effect,scale effect,2.0
+scale invariance,scale invariance,2.0
+scaler,scaler,3.0
+scaling law,scale law,2.0
+scan,scan,3.5
+scanning electron microscope,scan electron microscope,3.5
+scanning tunneling microscope,scan tunnel microscope,3.8333333333333335
+scattered wave,scatter wave,2.75
+scatterer,scatterer,3.0
+scattering,scatter,3.0
+scattering amplitude,scatter amplitude,3.0
+scattering angle,scatter angle,3.5
+scattering cross section,scatter cross section,2.0
+scattering factor,scatter factor,3.5
+scattering length,scatter length,3.0
+scattering matrix,scatter matrix,3.0
+scattering operator,scatter operator,3.5
+scattering theory,scatter theory,3.0
+scattering vector,scatter vector,3.0
+schlieren method,schlieren method,2.0
+scintillation,scintillation,3.0
+scintillation counter,scintillation counter,3.5
+scintillator,scintillator,3.0
+scotopic vision,scotopic vision,3.0
+scratch hardness,scratch hardness,3.5
+screening,screen,3.0
+screening constant,screen constant,3.5
+screening effect,screen effect,2.5
+screw axis,screw axis,3.5
+screw dislocation,screw dislocation,3.0
+screw motion,screw motion,3.5
+screw pinch,screw pinch,3.0
+second,second,2.0
+second harmonic generation,second harmonic generation,2.0
+second law of thermodynamics,second law of thermodynamic,1.6666666666666667
+second order phase transition,second order phase transition,3.125
+second quantization,second quantization,2.0
+second resonance,second resonance,2.0
+second sound,second sound,2.333333333333333
+secondary cosmic rays,secondary cosmic ray,4.0
+secondary defect,secondary defect,4.0
+secondary electron,secondary electron,3.5
+secondary ion emission,secondary ion emission,4.0
+secondary ion mass spectrometry,secondary ion mass spectrometry,3.75
+secondary particle,secondary particle,4.0
+secondary structure,secondary structure,3.0
+secular equation,secular equation,5.0
+sedimentation,sedimentation,3.0
+segment,segment,4.0
+segregation,segregation,3.0
+seismic wave,seismic wave,4.25
+selected area diffraction,select area diffraction,2.75
+selection rule,selection rule,2.75
+selective excitation,selective excitation,3.0
+selective growth,selective growth,3.0
+selective pumping,selective pumping,3.0
+self-adjoint,self - adjoint,1.0
+self-consistent field,self - consistent field,2.0
+self-diffusion,self - diffusion,1.0
+self-diffusion coefficient,self - diffusion coefficient,1.0
+self-energy,self - energy,2.5
+self-excited oscillation,self - excite oscillation,1.0
+self-focusing,self - focus,1.75
+self-induced transparency,self - induce transparency,3.5
+self-phase modulation,self - phase modulation,3.0
+self-trapped exciton,self - trap exciton,1.5
+self-trapping,self - trap,1.5
+semi-group,semi - group,2.0
+semiclassical theory,semiclassical theory,3.0
+semiconductor,semiconductor,3.0
+semiconductor device,semiconductor device,3.0
+semiconductor laser,semiconductor laser,4.0
+semiconductor memory,semiconductor memory,1.0
+semiempirical molecular orbital method,semiempirical molecular orbital method,2.0
+semileptonic decay,semileptonic decay,4.0
+semimetal,semimetal,3.0
+seniority number,seniority number,1.0
+sensible heat,sensible heat,3.25
+sensitivity,sensitivity,3.0
+sensitization,sensitization,3.0
+sensor,sensor,3.0
+separation,separation,3.0
+separation energy,separation energy,3.5
+separatrix,separatrix,3.0
+septet,septet,3.0
+septum magnet,septum magnet,3.0
+sequence,sequence,3.0
+series,series,3.0
+series connection,series connection,3.0
+series solution,series solution,2.5
+servomechanism,servomechanism,3.0
+servomotor,servomotor,3.0
+settling time,settle time,2.75
+sextet,sextet,3.0
+sextupole,sextupole,3.0
+shadowing,shadow,2.5
+shake-up,shake - up,1.75
+shallow level,shallow level,3.0
+shape anisotropy,shape anisotropy,2.5
+shape memory alloy,shape memory alloy,1.75
+shape memory effect,shape memory effect,1.8333333333333333
+shape resonance,shape resonance,2.5
+sharpness,sharpness,3.0
+shear,shear,3.0
+shear flow,shear flow,3.0
+shear modulus,shear modulus,3.0
+shearing interferometer,shear interferometer,3.0
+shearing stress,shear stress,3.5
+shell,shell,3.0
+shell model,shell model,2.833333333333333
+shell structure,shell structure,2.5
+shield,shield,4.0
+shielding,shielding,3.0
+shielding material,shielding material,2.0
+shift,shift,3.5
+shift factor,shift factor,3.75
+shock tube,shock tube,2.0
+shock wave,shock wave,2.75
+short wave,short wave,1.75
+short-circuit,short - circuit,3.0
+short-range correlation,short - range correlation,3.3333333333333335
+short-range interaction,short - range interaction,2.3333333333333335
+short-range order,short - range order,1.8333333333333333
+shot noise,shot noise,1.5
+shunt,shunt,3.0
+shunt impedance,shunt impedance,3.0
+sideband,sideband,3.0
+sieve,sieve,3.0
+signal,signal,4.0
+signal generator,signal generator,4.0
+signal-to-noise ratio,signal - to - noise ratio,2.0
+silencer,silencer,3.0
+simple cubic lattice,simple cubic lattice,2.0
+simple harmonic motion,simple harmonic motion,3.0
+simulation,simulation,3.0
+simultaneity,simultaneity,3.0
+simultaneous reflection,simultaneous reflection,3.5
+sine condition,sine condition,3.5
+single bond,single bond,2.75
+single crystal,single crystal,2.5
+single mode,single mode,2.5
+single-particle energy,single - particle energy,3.5
+single-particle potential,single - particle potential,3.3333333333333335
+single-phase,single - phase,3.75
+singlet,singlet,3.0
+singlet state,singlet state,3.333333333333333
+singular perturbation,singular perturbation,2.0
+singular point,singular point,1.75
+singularity,singularity,3.0
+sink,sink,2.5
+sinusoidal wave,sinusoidal wave,2.5
+size effect,size effect,1.5
+skimmer,skimmer,3.0
+skin effect,skin effect,2.5
+skin friction,skin friction,3.0
+skyrmion,skyrmion,3.0
+skyshine,skyshine,3.0
+sliding friction,slide friction,3.0
+slip,slip,3.0
+slip coefficient,slip coefficient,3.0
+slip line,slip line,2.75
+slip plane,slip plane,3.25
+slip system,slip system,2.5
+slit,slit,3.0
+slope,slope,3.0
+slow beam extraction,slow beam extraction,3.1666666666666665
+slow neutron,slow neutron,2.333333333333333
+small angle scattering,small angle scattering,2.5
+small oscillation,small oscillation,1.0
+small polaron,small polaron,1.0
+smectic phase,smectic phase,5.0
+snowplow model,snowplow model,2.6666666666666665
+soft X-rays,soft x - ray,2.0
+soft core,soft core,3.0
+soft magnetic material,soft magnetic material,3.0
+soft mode,soft mode,2.0
+softening,soften,3.0
+sol,sol,3.0
+solar battery,solar battery,3.75
+solar cell,solar cell,3.5
+solar constant,solar constant,4.0
+solar eclipse,solar eclipse,4.0
+solar flare,solar flare,4.0
+solar furnace,solar furnace,4.0
+solar neutrino,solar neutrino,4.0
+solar radiation,solar radiation,3.5
+solar wind,solar wind,3.25
+solder,solder,3.0
+solenoid,solenoid,3.0
+solenoidal field,solenoidal field,1.0
+solid,solid,3.0
+solid angle,solid angle,3.5
+solid borne sound,solid borne sound,2.833333333333333
+solid phase,solid phase,4.0
+solid phase growth,solid phase growth,3.6666666666666665
+solid solution,solid solution,2.5
+solid solution hardening,solid solution harden,2.5
+solid-state detector,solid - state detector,3.1666666666666665
+solid-state electronics,solid - state electronic,3.1111111111111107
+solid-state laser,solid - state laser,3.444444444444444
+solidification,solidification,3.0
+solidus,solidus,3.0
+solitary wave,solitary wave,4.25
+soliton,soliton,3.0
+solubility,solubility,3.0
+solubility limit,solubility limit,3.0
+solubility product,solubility product,2.0
+solute,solute,3.0
+solution,solution,2.0
+solution growth,solution growth,2.5
+solution velocity,solution velocity,2.0
+solvation,solvation,3.0
+solvent,solvent,4.0
+sonar,sonar,3.0
+sonoluminescence,sonoluminescence,3.0
+sorption,sorption,3.0
+sound,sound,2.6666666666666665
+sound absorbing material,sound absorbing material,2.333333333333333
+sound absorption,sound absorption,2.6666666666666665
+sound absorption coefficient,sound absorption coefficient,2.6666666666666665
+sound attenuation,sound attenuation,2.6666666666666665
+sound field,sound field,1.8333333333333333
+sound insulation,sound insulation,2.6666666666666665
+sound intensity,sound intensity,2.6666666666666665
+sound pressure,sound pressure,2.333333333333333
+sound quality,sound quality,2.583333333333333
+sound radiation,sound radiation,2.833333333333333
+sound ray,sound ray,2.333333333333333
+sound reflection,sound reflection,2.833333333333333
+sound scattering,sound scatter,2.833333333333333
+sound source,sound source,2.333333333333333
+sound velocity,sound velocity,2.6666666666666665
+sound wave,sound wave,2.583333333333333
+source,source,2.0
+space,space,2.0
+space group,space group,2.0
+space inversion,space inversion,2.0
+space physics,space physics,2.5
+space potential,space potential,2.75
+space-charge,space - charge,2.5
+space-like,space - like,1.8333333333333335
+space-time,space - time,2.25
+spacing of lattice planes,spacing of lattice plane,2.25
+spallation,spallation,3.0
+spark discharge,spark discharge,4.0
+spark gap,spark gap,3.5
+spark line,spark line,3.25
+spatial coherence,spatial coherence,5.0
+spatial frequency,spatial frequency,4.5
+specific acoustic impedance,specific acoustic impedance,3.5
+specific charge,specific charge,2.5
+specific gravity,specific gravity,2.0
+specific heat,specific heat,2.25
+specific heat at constant volume,specific heat at constant volume,2.5
+specific resistance,specific resistance,3.0
+specific surface area,specific surface area,2.3333333333333335
+specific volume,specific volume,2.5
+speckle pattern,speckle pattern,3.0
+spectral line,spectral line,2.5
+spectral line broadening,spectral line broaden,3.25
+spectral line shape,spectral line shape,2.5
+spectral line width,spectral line width,3.25
+spectral luminous efficiency,spectral luminous efficiency,3.0
+spectral representation,spectral representation,3.0
+spectral resolution,spectral resolution,4.0
+spectral sensitivity,spectral sensitivity,3.0
+spectrograph,spectrograph,3.0
+spectrometer,spectrometer,3.0
+spectrophotometer,spectrophotometer,3.0
+spectrophotometry,spectrophotometry,3.0
+spectroscope,spectroscope,3.0
+spectroscopic analysis,spectroscopic analysis,3.0
+spectroscopic factor,spectroscopic factor,4.0
+spectroscopy,spectroscopy,3.0
+spectrum,spectrum,3.0
+spectrum analyzer,spectrum analyzer,3.0
+spectrum function,spectrum function,2.5
+specular reflection,specular reflection,3.0
+speech production,speech production,1.5
+speech recognition,speech recognition,2.5
+speech sound,speech sound,1.8333333333333333
+speed,speed,2.5
+speed of light,speed of light,1.7222222222222223
+spherical aberration,spherical aberration,6.0
+spherical function,spherical function,2.5
+spherical mirror,spherical mirror,2.0
+spherical model,spherical model,2.6666666666666665
+spherical molecule,spherical molecule,3.0
+spherical wave,spherical wave,2.5
+sphericity,sphericity,3.0
+spheroid,spheroid,3.0
+spherulite,spherulite,3.0
+spicule,spicule,3.0
+spin,spin,4.0
+spin Hamiltonian,spin hamiltonian,4.0
+spin correlation,spin correlation,5.0
+spin density wave,spin density wave,3.25
+spin echo,spin echo,5.0
+spin flip,spin flip,4.0
+spin flop,spin flop,4.0
+spin fluctuation,spin fluctuation,5.0
+spin glass,spin glass,2.5
+spin orientation,spin orientation,4.0
+spin pair correlation function,spin pair correlation function,3.375
+spin polarization,spin polarization,4.0
+spin quantum number,spin quantum number,2.5
+spin resonance,spin resonance,4.0
+spin sublevel,spin sublevel,4.0
+spin wave,spin wave,3.25
+spin-Peierls transition,spin - peierl transition,4.0
+spin-lattice relaxation,spin - lattice relaxation,4.0
+spin-orbit coupling,spin - orbit coupling,3.5
+spin-orbit force,spin - orbit force,3.3333333333333335
+spin-orbit interaction,spin - orbit interaction,3.3333333333333335
+spin-orbit splitting,spin - orbit splitting,3.5
+spin-orbital,spin - orbital,4.0
+spin-phonon interaction,spin - phonon interaction,3.5
+spin-spin interaction,spin - spin interaction,3.6666666666666665
+spin-spin relaxation,spin - spin relaxation,4.0
+spinel,spinel,3.0
+spinodal decomposition,spinodal decomposition,4.0
+spinor,spinor,3.0
+spinor field,spinor field,1.0
+spiral growth,spiral growth,3.0
+spiral structure,spiral structure,2.5
+spline,spline,3.0
+spontaneous electric polarization,spontaneous electric polarization,3.5
+spontaneous emission,spontaneous emission,5.0
+spontaneous magnetization,spontaneous magnetization,5.0
+spontaneous polarization,spontaneous polarization,5.0
+spontaneous strain,spontaneous strain,4.25
+spot size,spot size,1.75
+spread function,spread function,2.75
+spreading width,spread width,3.5
+spring constant,spring constant,2.5
+sputter ion pump,sputter ion pump,3.0
+sputtering,sputtering,3.0
+square wave,square wave,2.25
+square well potential,square well potential,2.1666666666666665
+stability,stability,4.0
+stabilization,stabilization,3.0
+stable,stable,3.0
+stable equilibrium,stable equilibrium,4.5
+stable phase,stable phase,4.0
+stable state,stable state,3.1666666666666665
+stacking fault,stack fault,3.0
+stage,stage,1.0
+stagnation point,stagnation point,1.5
+standard,standard,3.5
+standard cell,standard cell,3.25
+standard deviation,standard deviation,3.5
+standard light source,standard light source,2.388888888888889
+standard pressure,standard pressure,2.75
+standard source,standard source,2.75
+standard temperature,standard temperature,2.75
+standardization,standardization,3.0
+standing wave,stand wave,2.0
+star,star,2.0
+star pattern,star pattern,2.5
+state,state,3.333333333333333
+state density,state density,3.333333333333333
+state function,state function,2.9166666666666665
+state variable,state variable,3.333333333333333
+state vector,state vector,3.333333333333333
+static,static,3.0
+static electricity,static electricity,3.0
+static fatigue,static fatigue,5.0
+static friction,static friction,3.0
+static induction transistor,static induction transistor,4.5
+static magnetic field,static magnetic field,3.0
+static pressure,static pressure,2.0
+static pressure tube,static pressure tube,1.5
+statics,statics,3.0
+stationary,stationary,3.0
+stationary current,stationary current,3.0
+stationary process,stationary process,3.5
+stationary state,stationary state,3.333333333333333
+stationary wave,stationary wave,2.5
+statistical average,statistical average,2.0
+statistical ensemble,statistical ensemble,3.0
+statistical equilibrium,statistical equilibrium,6.0
+statistical error,statistical error,2.0
+statistical mechanics,statistical mechanic,3.0
+statistical operator,statistical operator,4.0
+statistical theory,statistical theory,3.0
+statistical thermodynamics,statistical thermodynamic,3.0
+statistical weight,statistical weight,2.0
+steady,steady,3.0
+steady flow,steady flow,3.0
+stellarator,stellarator,3.0
+stepping motor,step motor,2.25
+stereographic projection,stereographic projection,4.0
+stereoscopic vision,stereoscopic vision,3.0
+steric effect,steric effect,2.0
+steric hindrance,steric hindrance,6.0
+sticking probability,stick probability,3.25
+stiffness,stiffness,3.0
+stimulated emission,stimulate emission,4.0
+stochastic cooling,stochastic cooling,3.0
+stochastic integral,stochastic integral,5.0
+stochastic process,stochastic process,3.5
+stochastic quantization,stochastic quantization,3.0
+stoichiometry,stoichiometry,3.0
+stokes,stokes,3.0
+stop,stop,1.0
+stop band,stop band,1.0
+stopping cross section,stop cross section,1.3333333333333333
+stopping power,stop power,1.5
+storage modulus,storage modulus,3.0
+storage oscilloscope,storage oscilloscope,3.0
+storage ring,storage ring,2.25
+straggling,straggle,3.0
+straight chain,straight chain,1.75
+strain,strain,3.5
+strain energy,strain energy,3.75
+strain gauge,strain gauge,3.5
+strain hardening,strain harden,3.5
+strain rate,strain rate,3.25
+strain wave,strain wave,3.0
+strange quark,strange quark,1.0
+strangeness,strangeness,3.0
+stratified fluid,stratify fluid,4.0
+stray light,stray light,3.3333333333333335
+streak camera,streak camera,1.0
+stream function,stream function,2.75
+stream tube,stream tube,2.0
+streamer,streamer,3.0
+streamline,streamline,3.0
+strength,strength,2.0
+strength function,strength function,2.25
+stress,stress,3.5
+stress concentration,stress concentration,3.25
+stress intensity factor,stress intensity factor,3.75
+stress relaxation,stress relaxation,3.75
+stress tensor,stress tensor,3.5
+stress wave,stress wave,3.0
+stress-strain curve,stress - strain curve,3.3333333333333335
+stretching vibration,stretch vibration,3.5
+striation,striation,3.0
+string,string,2.0
+strip transmission line,strip transmission line,3.3333333333333335
+stripping reaction,strip reaction,3.75
+stroboscope,stroboscope,3.0
+strong coupling,strong coupling,1.0
+strong interaction,strong interaction,2.0
+structural phase transition,structural phase transition,4.666666666666667
+structural relaxation,structural relaxation,4.5
+structure,structure,2.0
+structure analysis,structure analysis,2.5
+structure factor,structure factor,3.0
+structure function,structure function,2.25
+structure image,structure image,2.0
+subcritical,subcritical,3.0
+subharmonic,subharmonic,3.0
+sublattice,sublattice,3.0
+sublattice magnetization,sublattice magnetization,3.0
+sublimation,sublimation,3.0
+sublimation pump,sublimation pump,3.0
+subsonic,subsonic,3.0
+substitution method,substitution method,2.0
+substrate,substrate,3.0
+successive approximation,successive approximation,4.0
+successive phase transition,successive phase transition,4.333333333333333
+sudden approximation,sudden approximation,2.0
+sum frequency generation,sum frequency generation,2.0
+sum rule,sum rule,1.75
+sunlight,sunlight,2.0
+super-resolution,super - resolution,2.5
+superconducting cavity,superconducte cavity,5.0
+superconducting magnet,superconducte magnet,3.0
+superconducting quantum interference device,superconducte quantum interference device,3.0
+superconducting state,superconducte state,3.333333333333333
+superconducting wire,superconducte wire,3.5
+superconductive,superconductive,3.0
+superconductivity,superconductivity,3.0
+superconductor,superconductor,3.0
+supercooling,supercooling,3.0
+supercritical,supercritical,3.0
+superexchange interaction,superexchange interaction,3.0
+superfluid,superfluid,3.0
+superfluid helium,superfluid helium,3.0
+superfluidity,superfluidity,3.0
+supergravity,supergravity,3.0
+superheating,superheating,3.0
+superheavy element,superheavy element,3.0
+superionic conductor,superionic conductor,4.0
+superlattice,superlattice,3.0
+superlattice dislocation,superlattice dislocation,3.0
+superlattice reflection,superlattice reflection,3.0
+superlattice structure,superlattice structure,2.0
+superleak,superleak,3.0
+supermultiplet,supermultiplet,3.0
+supernova,supernova,3.0
+supernova explosion,supernova explosion,3.0
+supernova remnant,supernova remnant,3.0
+superparamagnetism,superparamagnetism,3.0
+superplasticity,superplasticity,3.0
+superradiance,superradiance,3.0
+supersaturated solid solution,supersaturate solid solution,2.5
+supersaturation,supersaturation,3.0
+supersonic nozzle,supersonic nozzle,3.0
+superstring theory,superstre theory,3.0
+supersymmetry,supersymmetry,3.0
+surface acoustic wave,surface acoustic wave,3.5
+surface active agent,surface active agent,2.6666666666666665
+surface barrier detector,surface barrier detector,3.5
+surface characterization,surface characterization,3.0
+surface charge,surface charge,3.0
+surface condition,surface condition,3.25
+surface coverage,surface coverage,4.0
+surface current,surface current,3.0
+surface density,surface density,3.0
+surface diffusion,surface diffusion,3.0
+surface energy,surface energy,3.5
+surface finish,surface finish,2.0
+surface integral,surface integral,4.0
+surface ionization,surface ionization,3.0
+surface level,surface level,3.0
+surface magnetism,surface magnetism,4.0
+surface phonon,surface phonon,3.0
+surface plasma,surface plasma,3.0
+surface plasmon,surface plasmon,3.0
+surface potential,surface potential,3.25
+surface pressure,surface pressure,2.5
+surface reaction,surface reaction,3.5
+surface recombination,surface recombination,3.0
+surface relaxation,surface relaxation,3.5
+surface resistance,surface resistance,3.5
+surface roughness,surface roughness,3.0
+surface segregation,surface segregation,3.0
+surface tension,surface tension,3.0
+surface vibration,surface vibration,3.5
+surface wave,surface wave,2.75
+susceptance,susceptance,3.0
+susceptibility,susceptibility,3.0
+suspension,suspension,5.0
+swelling,swell,3.0
+swirl,swirl,3.0
+switch,switch,3.0
+switching time,switch time,2.75
+symmetric fission,symmetric fission,3.0
+symmetric group,symmetric group,2.0
+symmetric tensor,symmetric tensor,3.0
+symmetric top,symmetric top,2.0
+symmetry,symmetry,3.0
+symmetry breakdown,symmetry breakdown,4.0
+symmetry group,symmetry group,2.0
+symmetry of glide,symmetry of glide,2.0
+symplectic group,symplectic group,2.0
+synchronization,synchronization,3.0
+synchronous detection,synchronous detection,3.0
+synchrotron,synchrotron,3.0
+synchrotron acceleration,synchrotron acceleration,3.0
+synchrotron oscillation,synchrotron oscillation,3.0
+synthetic resin,synthetic resin,5.25
+system of particles,system of particle,2.3333333333333335
+systematic error,systematic error,2.5
+t quark,t quark,3.0
+tachyon,tachyon,3.0
+tacticity,tacticity,3.0
+tagging,tag,4.0
+tandem mirror,tandem mirror,2.0
+tangential stress,tangential stress,3.5
+tap,tap,3.0
+target,target,2.0
+target nucleus,target nucleus,2.5
+tearing instability,tear instability,2.5
+telescope,telescope,4.0
+temperature,temperature,2.0
+temperature coefficient,temperature coefficient,2.0
+temperature dispersion,temperature dispersion,2.0
+temperature distribution,temperature distribution,2.5
+temperature gradient,temperature gradient,2.0
+temperature scale,temperature scale,2.0
+temporal coherence,temporal coherence,4.0
+tensile strength,tensile strength,2.0
+tensile stress,tensile stress,3.5
+tension,tension,3.0
+tensor,tensor,3.0
+tensor force,tensor force,3.0
+tensor operator,tensor operator,4.0
+tensor product,tensor product,2.0
+term,term,3.0
+terminal,terminal,3.0
+terminal velocity,terminal velocity,3.0
+tesla,tesla,3.0
+tetragonal system,tetragonal system,2.0
+tetrahedral molecule,tetrahedral molecule,3.0
+tetrahedral site,tetrahedral site,1.0
+tetrode,tetrode,3.0
+theorem,theorem,3.0
+theory,theory,3.0
+theory of elementary particles,theory of elementary particle,2.25
+theory of gravity,theory of gravity,2.0
+theory of relativity,theory of relativity,2.6666666666666665
+thermal activation,thermal activation,3.0
+thermal conduction,thermal conduction,3.0
+thermal conductivity,thermal conductivity,3.0
+thermal desorption,thermal desorption,3.0
+thermal diffuse scattering,thermal diffuse scattering,6.0
+thermal diffusion,thermal diffusion,3.0
+thermal diffusivity,thermal diffusivity,3.0
+thermal dissociation,thermal dissociation,3.0
+thermal efficiency,thermal efficiency,3.0
+thermal electron,thermal electron,3.0
+thermal equilibrium,thermal equilibrium,6.0
+thermal excitation,thermal excitation,3.0
+thermal expansion,thermal expansion,4.0
+thermal fatigue,thermal fatigue,5.0
+thermal instability,thermal instability,3.0
+thermal ionization,thermal ionization,3.0
+thermal lens effect,thermal lens effect,2.0
+thermal motion,thermal motion,4.0
+thermal neutron,thermal neutron,3.0
+thermal noise,thermal noise,1.0
+thermal radiation,thermal radiation,3.0
+thermal resistance,thermal resistance,4.0
+thermal shock,thermal shock,3.0
+thermal stress,thermal stress,3.5
+thermal transpiration,thermal transpiration,3.0
+thermal treatment,thermal treatment,3.0
+thermal velocity,thermal velocity,3.0
+thermal vibration,thermal vibration,4.0
+thermal wave,thermal wave,2.5
+thermionic emission,thermionic emission,3.0
+thermistor,thermistor,3.0
+thermochromism,thermochromism,3.0
+thermocouple,thermocouple,3.0
+thermodynamic potential,thermodynamic potential,3.5
+thermodynamic stability,thermodynamic stability,4.0
+thermodynamics,thermodynamic,3.0
+thermoelectric effect,thermoelectric effect,2.0
+thermoelectric power,thermoelectric power,2.0
+thermoelectromotive force,thermoelectromotive force,3.0
+thermoelectron,thermoelectron,3.0
+thermofield dynamics,thermofield dynamic,4.0
+thermography,thermography,3.0
+thermogravimetric analysis,thermogravimetric analysis,3.0
+thermoluminescence,thermoluminescence,3.0
+thermoluminescence dosimeter,thermoluminescence dosimeter,3.0
+thermometer,thermometer,4.0
+thermonuclear reaction,thermonuclear reaction,4.0
+thermopile,thermopile,3.0
+thermoplastic,thermoplastic,3.0
+thermoremanent magnetization,thermoremanent magnetization,3.0
+thermosetting,thermosetting,3.0
+thermostat,thermostat,3.0
+thermotropic liquid crystal,thermotropic liquid crystal,3.0
+thick lens,thick len,1.0
+thin film,thin film,1.75
+thin lens,thin len,1.0
+thin-film transistor,thin - film transistor,2.5
+thought experiment,think experiment,2.25
+three-phase,three - phase,3.0
+threshold condition,threshold condition,3.5
+threshold dose,threshold dose,4.0
+threshold energy,threshold energy,4.0
+throughput,throughput,3.0
+thrust,thrust,3.0
+thyratron,thyratron,3.0
+thyristor,thyristor,3.0
+tide,tide,3.0
+tilt boundary,tilt boundary,3.0
+timbre,timbre,3.0
+time,time,2.5
+time average,time average,2.25
+time constant,time constant,3.25
+time correlation function,time correlation function,3.6666666666666665
+time resolution,time resolution,3.25
+time reversal,time reversal,2.5
+time reversal invariance,time reversal invariance,2.5
+time series,time series,2.75
+time-dependence,time - dependence,2.5
+time-lag,time - lag,2.5
+time-like,time - like,2.0833333333333335
+time-of-flight method,time - of - flight method,1.875
+titration,titration,3.0
+tokamak,tokamak,3.0
+tolerance,tolerance,3.0
+ton,ton,4.0
+tone,tone,3.5
+top,top,2.0
+toroidal magnetic field,toroidal magnetic field,3.0
+torque,torque,3.0
+torque magnetometer,torque magnetometer,3.0
+torr,torr,3.0
+torsion,torsion,3.0
+torsion pendulum,torsion pendulum,5.0
+torsional rigidity,torsional rigidity,3.0
+torsional vibration,torsional vibration,4.0
+total angular momentum,total angular momentum,4.5
+total differential,total differential,3.0
+total pressure,total pressure,2.5
+total reflection,total reflection,3.0
+total strain,total strain,3.25
+total width,total width,3.5
+toughness,toughness,5.0
+tourmaline,tourmaline,3.0
+trace,trace,3.5
+tracer,tracer,3.0
+track,track,3.0
+trailing vortex,trail vortex,4.75
+trajectory,trajectory,3.0
+transducer,transducer,3.0
+transfer function,transfer function,3.0
+transfer integral method,transfer integral method,3.5
+transfer matrix,transfer matrix,3.5
+transferred momentum,transfer momentum,3.5
+transformation,transformation,3.0
+transformation group,transformation group,2.5
+transformation theory,transformation theory,3.0
+transformer,transformer,3.0
+transient phenomenon,transient phenomenon,3.5
+transient response,transient response,3.0
+transistor,transistor,4.0
+transit,transit,5.0
+transit time,transit time,3.75
+transition,transition,4.0
+transition amplitude,transition amplitude,4.0
+transition element,transition element,3.5
+transition energy,transition energy,4.0
+transition frequency,transition frequency,3.5
+transition matrix,transition matrix,4.0
+transition metal,transition metal,3.0
+transition moment,transition moment,2.5
+transition point,transition point,2.75
+transition probability,transition probability,3.5
+transition radiation,transition radiation,3.5
+transition state,transition state,3.6666666666666665
+transition temperature,transition temperature,3.0
+transitional region,transitional region,3.0
+translation,translation,4.0
+translational motion,translational motion,4.0
+translational order,translational order,1.5
+translational symmetry,translational symmetry,3.0
+transmission,transmission,4.0
+transmission coefficient,transmission coefficient,4.0
+transmission electron diffraction,transmission electron diffraction,3.5
+transmission electron microscope,transmission electron microscope,3.6666666666666665
+transmission grating,transmission grating,4.0
+transmission line,transmission line,3.25
+transmission loss,transmission loss,3.5
+transmissivity,transmissivity,3.0
+transmittance,transmittance,3.0
+transmitted wave,transmit wave,3.25
+transmitter,transmitter,6.0
+transonic,transonic,3.0
+transport coefficient,transport coefficient,3.5
+transport cross section,transport cross section,2.1666666666666665
+transport equation,transport equation,3.75
+transport phenomenon,transport phenomenon,3.25
+transverse,transverse,3.0
+transverse mode,transverse mode,3.0
+transverse momentum,transverse momentum,3.0
+transverse polarization,transverse polarization,3.0
+transverse relaxation,transverse relaxation,4.0
+transverse wave,transverse wave,2.5
+trap,trap,2.0
+trapezoidal rule,trapezoidal rule,2.5
+trapped particle,trap particle,3.0
+travelling-wave,travel - wave,2.0
+triangle anomaly,triangle anomaly,4.0
+triboelectricity,triboelectricity,3.0
+tribology,tribology,3.0
+triboluminescence,triboluminescence,3.0
+tricritical point,tricritical point,1.5
+triggered discharge,trigger discharge,3.5
+triode,triode,3.0
+triple bond,triple bond,3.0
+triple point,triple point,1.5
+triplet,triplet,3.0
+triplet state,triplet state,3.333333333333333
+tritium,tritium,3.0
+triton,triton,3.0
+trough,trough,3.0
+tunable laser,tunable laser,4.0
+tuning,tune,3.5
+tuning fork,tune fork,2.75
+tunnel diode,tunnel diode,4.0
+tunnel effect,tunnel effect,3.0
+tunnel junction,tunnel junction,4.0
+turbidity,turbidity,3.0
+turbulence,turbulence,3.0
+turbulent,turbulent,4.0
+turbulent diffusion,turbulent diffusion,4.0
+turbulent flow,turbulent flow,3.5
+turbulent plasma,turbulent plasma,4.0
+twin,twin,3.0
+twin boundary,twin boundary,3.0
+twin structure,twin structure,2.5
+twist boundary,twist boundary,3.0
+two-dimensional lattice,two - dimensional lattice,1.0
+two-dimensional system,two - dimensional system,1.5
+two-photon absorption,two - photon absorption,1.0
+ultimate pressure,ultimate pressure,3.0
+ultra-high vacuum,ultra - high vacuum,1.5
+ultra-low temperature,ultra - low temperature,2.0
+ultramicroscope,ultramicroscope,3.0
+ultrashort wave,ultrashort wave,2.5
+ultrasonic,ultrasonic,3.0
+ultrasonic absorption,ultrasonic absorption,3.0
+ultrasonic attenuation,ultrasonic attenuation,3.0
+ultrasonic cleaning,ultrasonic cleaning,3.0
+ultrasonic relaxation,ultrasonic relaxation,4.0
+ultrasonic wave,ultrasonic wave,2.5
+ultraviolet detector,ultraviolet detector,3.0
+ultraviolet divergence,ultraviolet divergence,5.0
+ultraviolet laser,ultraviolet laser,4.0
+ultraviolet light source,ultraviolet light source,1.8333333333333335
+ultraviolet photoelectron spectroscopy,ultraviolet photoelectron spectroscopy,3.0
+ultraviolet radiation,ultraviolet radiation,3.0
+ultraviolet rays,ultraviolet ray,2.0
+ultraviolet spectrum,ultraviolet spectrum,3.0
+uncertainty principle,uncertainty principle,3.0
+uncertainty relation,uncertainty relation,3.0
+underwater acoustics,underwater acoustic,4.0
+undulator,undulator,3.0
+unified field theory,unify field theory,2.3333333333333335
+uniform flow,uniform flow,2.5
+uniformly accelerated motion,uniformly accelerate motion,4.0
+unit,unit,2.0
+unit cell,unit cell,2.5
+unit vector,unit vector,2.0
+unitarity,unitarity,3.0
+unitarity limit,unitarity limit,3.0
+unitary equivalent,unitary equivalent,3.0
+unitary group,unitary group,2.0
+unitary operator,unitary operator,4.0
+unitary transformation,unitary transformation,3.0
+united atom,united atom,3.0
+universal constant,universal constant,4.0
+universality,universality,3.0
+universe,universe,3.0
+unnatural parity,unnatural parity,4.0
+unpaired electron,unpaired electron,3.0
+unstable,unstable,3.0
+unstable state,unstable state,3.333333333333333
+upper bound,upper bind,3.5
+upper hybrid resonance,upper hybrid resonance,3.5
+uranium enrichment,uranium enrichment,3.0
+vacancy,vacancy,3.0
+vacancy diffusion,vacancy diffusion,3.0
+vacuum,vacuum,3.0
+vacuum arc,vacuum arc,3.0
+vacuum discharge,vacuum discharge,4.0
+vacuum expectation value,vacuum expectation value,3.5
+vacuum gauge,vacuum gauge,3.0
+vacuum level,vacuum level,3.0
+vacuum polarization,vacuum polarization,3.0
+vacuum pump,vacuum pump,3.0
+vacuum tube,vacuum tube,1.0
+vacuum ultraviolet,vacuum ultraviolet,3.0
+vacuum valve,vacuum valve,3.0
+valence,valence,3.0
+valence band,valence band,1.0
+valence electron,valence electron,3.0
+valence fluctuation,valence fluctuation,6.0
+valence quark,valence quark,3.0
+valence state,valence state,3.333333333333333
+valley,valley,2.0
+van Hove singularity,van hove singularity,3.0
+van der Waals force,van der waal force,3.0
+van der Waals molecules,van der waal molecule,3.0
+vapor,vapor,3.0
+vapor phase growth,vapor phase growth,4.0
+vapor pressure,vapor pressure,2.0
+vaporization,vaporization,3.0
+varactor,varactor,3.0
+variable capacitor,variable capacitor,3.0
+variable range hopping,variable range hop,3.0
+variational method,variational method,2.0
+variational principle,variational principle,3.0
+vector,vector,3.0
+vector analysis,vector analysis,3.0
+vector current,vector current,3.0
+vector field,vector field,1.0
+vector meson,vector meson,3.0
+vector model,vector model,2.6666666666666665
+vector potential,vector potential,3.5
+vector product,vector product,2.0
+vector space,vector space,2.0
+velocity,velocity,3.0
+velocity distribution function,velocity distribution function,2.75
+velocity potential,velocity potential,3.5
+verification,verification,3.0
+vertex,vertex,3.0
+vertical line,vertical line,3.75
+very low temperature,very low temperature,2.1666666666666665
+vibration,vibration,4.0
+vibration meter,vibration meter,4.0
+vibration spectrum,vibration spectrum,4.0
+vibrational constant,vibrational constant,4.0
+vibrational excitation,vibrational excitation,3.0
+vibrational mode,vibrational mode,3.0
+vibrational quantum number,vibrational quantum number,1.0
+vibrational relaxation,vibrational relaxation,4.0
+vibrational state,vibrational state,3.333333333333333
+vibrational temperature,vibrational temperature,2.0
+vibrational transition,vibrational transition,4.0
+vibrometer,vibrometer,3.0
+vibronic interaction,vibronic interaction,3.0
+vibronic state,vibronic state,3.333333333333333
+vierbein,vierbein,3.0
+virial,virial,3.0
+virtual bound state,virtual bind state,3.444444444444444
+virtual cathode,virtual cathode,3.0
+virtual image,virtual image,2.5
+virtual mass,virtual mass,3.25
+virtual photon,virtual photon,3.0
+virtual source,virtual source,2.5
+virtual state,virtual state,3.1666666666666665
+virtual transition,virtual transition,3.5
+virtual work,virtual work,2.0
+viscoelastic fluid,viscoelastic fluid,4.0
+viscoelasticity,viscoelasticity,3.0
+viscometer,viscometer,3.0
+viscosity,viscosity,3.0
+viscous drag,viscous drag,3.0
+viscous flow,viscous flow,3.0
+viscous fluid,viscous fluid,4.0
+visibility,visibility,3.0
+visible laser,visible laser,3.5
+visible light,visible light,2.3333333333333335
+visible spectrum,visible spectrum,3.0
+visual field,visual field,2.0
+visualization,visualization,3.0
+void,void,3.0
+volt,volt,3.0
+volt-ampere,volt - ampere,3.0
+voltage,voltage,3.0
+voltage divider,voltage divider,3.0
+voltage drop,voltage drop,1.5
+voltage source,voltage source,2.0
+voltammetry,voltammetry,3.0
+voltmeter,voltmeter,3.0
+volume,volume,3.0
+volume density,volume density,3.0
+volume hologram,volume hologram,3.0
+volume relaxation,volume relaxation,3.5
+volume resistivity,volume resistivity,3.0
+volume velocity,volume velocity,3.0
+volumetric analysis,volumetric analysis,3.0
+vortex,vortex,6.0
+vortex filament,vortex filament,6.0
+vortex line,vortex line,4.25
+vortex motion,vortex motion,5.0
+vortex pair,vortex pair,3.5
+vortex ring,vortex ring,3.75
+vortex sheet,vortex sheet,4.5
+vortex street,vortex street,3.5
+vortex tube,vortex tube,3.5
+vorticity,vorticity,3.0
+wake,wake,2.0
+wake potential,wake potential,2.75
+water load,water load,2.75
+water vapor,water vapor,2.5
+water wave,water wave,2.5
+watt,watt,3.0
+wave,wave,2.5
+wave aberration,wave aberration,4.25
+wave absorber,wave absorber,2.5
+wave equation,wave equation,3.25
+wave front,wave front,2.0
+wave function,wave function,2.5
+wave guide,wave guide,2.75
+wave mechanics,wave mechanic,2.75
+wave motion,wave motion,3.25
+wave number,wave number,1.75
+wave optics,wave optic,2.5
+wave packet,wave packet,3.25
+wave plate,wave plate,2.25
+wave train,wave train,2.0
+wave vector,wave vector,2.5
+waveguide laser,waveguide laser,4.0
+wavelength,wavelength,3.0
+weak boson,weak boson,2.0
+weak ferromagnetism,weak ferromagnetism,2.0
+weak interaction,weak interaction,2.5
+weight,weight,2.0
+weighting function,weight function,2.25
+wetness,wetness,3.0
+wettability,wettability,3.0
+wetting,wet,2.0
+whisker,whisker,3.0
+white X-rays,white x - ray,1.5
+white light,white light,1.3333333333333335
+white noise,white noise,1.0
+wiggler,wiggler,3.0
+wind tunnel,wind tunnel,3.25
+wind velocity,wind velocity,2.5
+work,work,1.0
+work function,work function,1.75
+working distance,work distance,2.0
+working fluid,work fluid,2.5
+working hypothesis,work hypothesis,3.5
+world sheet,world sheet,2.0
+wurtzite structure,wurtzite structure,2.0
+xenon lamp,xenon lamp,2.0
+yield,yield,4.0
+yield point,yield point,2.75
+yield stress,yield stress,3.75
+zero point,zero point,1.5
+zero sound,zero sound,2.6666666666666665
+zigzag structure,zigzag structure,2.0
+zone,zone,2.0
+zone axis,zone axis,3.0
+zone melting method,zone melting method,2.0
+zone plate,zone plate,2.0
+α particle,α particle,4.0
+α process,α process,3.5
+α relaxation,α relaxation,4.0
+β decay,β decay,4.0
+β value,β value,3.0
+γ-ray irradiation,γ - ray irradiation,2.0
+γ-ray spectroscopy,γ - ray spectroscopy,2.0
+γ-rays,γ - ray,2.0
+δ function,δ function,2.5
+μSR,μsr,3.0
+π orbital,π orbital,3.0
+π-electron,π - electron,3.0

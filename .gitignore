@@ -1,0 +1,57 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Virtual environments and local env files
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Large local embeddings and binary model artifacts
+data/*.bin
+data/**/*.bin
+data_timeline/*.bin
+data_timeline/**/*.bin
+*.pt
+*.pth
+*.ckpt
+*.pkl
+
+# Pipeline outputs
+TermRGNNPipeline/runs/
+
+# RGNN generated datasets, checkpoints, metrics, and visualizations
+RGNN/data/processed_dataset.pt
+RGNN/data/trained_dataset.pt
+RGNN/data/debug_dataset.pt
+RGNN/data/reconstructed_terms.txt
+RGNN/data/dataset*/
+RGNN/data/model/
+RGNN/data/metrics/
+RGNN/metrics/
+RGNN/results/
+RGNN/**/metrics/
+RGNN/**/result/
+RGNN/**/*.html
+
+# Local scratch outputs
+tmp/
+temp/
+scratch/
+
+# Keep raw dataset text/csv files tracked unless they are explicitly generated.

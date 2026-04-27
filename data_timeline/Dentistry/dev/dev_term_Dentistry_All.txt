@@ -1,0 +1,563 @@
+aspirin
+contraceptive
+diarrhea
+dysrhythmia
+corticosterone
+decarboxylase
+decoding
+contraindication
+gastrin
+gerontology
+kinetoplast
+hemophilia
+hypoparathyroidism
+heterograft
+idp
+lipofuscin
+hypertension
+imipramine
+hypergammaglobulinemia
+hepatitis
+mepivacaine
+mrc
+mycoplasma
+methemoglobinemia
+neurinoma
+norepinephrine
+methoxyflurane
+neuron
+nucleotidase
+monitor
+odc
+nmr
+radiotherapy
+polymyositis
+pacemaker
+radiosensitizer
+peristalsis
+superinfection
+synthetase
+rhodopsin
+synapse
+sphygmomanometer
+schizophrenia
+transcription
+atonia
+asystole
+acidosis
+analgesia
+apc
+azotemia
+amyloidosis
+carcinoid
+amnesia
+dysostosis
+disinfection
+cycloheximide
+cholesterol
+fluorometry
+glucosidase
+egta
+gpt
+fibrocyte
+epidemiology
+embrasure
+immunodiffusion
+killer
+hyperuricemia
+hypercapnia
+keratosis
+ligand
+hyperkeratosis
+hypoplasia
+illuminance
+lactase
+incubator
+lincomycin
+leukocyte
+nephron
+pleomorphism
+pronase
+pseudoarthrosis
+photosensitivity
+pulpectomy
+sarcomere
+solubilization
+ribosome
+repolarization
+transferase
+tonofibril
+triglyceride
+viscoelasticity
+biopsy
+capsid
+angiosarcoma
+adenocarcinoma
+carcinogen
+catecholamine
+auscultation
+activator
+chemotherapy
+dermatomyositis
+corticosteroid
+chemoreceptor
+desensitization
+exotoxin
+encapsulation
+enterovirus
+lacrimation
+hyperosmotic
+hyperpyrexia
+isoproterenol
+hydrophobic
+leiomyosarcoma
+hemangioma
+isometry
+isomerase
+lentigo
+lavage
+obesity
+mutagen
+lysosome
+malabsorption
+lyase
+liposarcoma
+neuroma
+phosphokinase
+patency
+reductase
+proteinuria
+organelle
+phosphoprotein
+polyamine
+ozone
+pharmacodynamics
+rhabdomyoma
+retinol
+somatoscopy
+replantation
+syncope
+viremia
+wheeze
+toxoplasma
+androgen
+anticonvulsant
+cryptococcosis
+cpr
+echolalia
+chlorpheniramine
+enterotoxin
+estradiol
+euchromatin
+encephalocele
+glomangioma
+enterobacteriaceae
+gestosis
+hypocalcification
+hyperbilirubinemia
+hydroxyapatite
+hyperparathyroidism
+homocystinuria
+hybridization
+interface
+mycosis
+mf
+nitrazepam
+microcirculation
+peroxidase
+pericoronitis
+prolactin
+placebo
+osmoreceptor
+peptidase
+overbite
+peptide
+symbiosis
+sweetener
+thermography
+template
+thermoregulation
+testosterone
+arrhythmia
+astrocytoma
+bradykinin
+ampicillin
+buccoversion
+cdf
+aldose
+atopy
+carcinogenesis
+detoxification
+cytoarchitecture
+constipation
+csf
+effector
+etec
+gmp
+electrostimulator
+guanosine
+ipsp
+interneuron
+intersex
+hydrolase
+heterochromatin
+keloid
+kyphosis
+histiocyte
+monitoring
+metabolite
+monosaccharide
+operon
+mhc
+mrna
+neurofibromatosis
+neonate
+medication
+lymphoblast
+neuroleptanalgesia
+polygraph
+pollutant
+phenytoin
+overdose
+polymorphism
+progeria
+splicing
+subunit
+thrombocyte
+urinalysis
+carnitine
+autotransplantation
+angiotensin
+aminotransferase
+cohort
+cystadenoma
+glycolipid
+estrogen
+epsp
+globin
+glucan
+encephalopathy
+genotype
+hemostasis
+immunoglobulin
+hydroxylase
+impetigo
+migraine
+optimization
+myotonia
+lipoprotein
+lymphocyte
+neurophysin
+phosphodiesterase
+pseudohypoparathyroidism
+preleukoplakia
+palatinose
+phosphorylation
+penetrance
+polyacrylamide
+pentazocine
+oxytocin
+sequela
+regurgitation
+suppressor
+sarcoid
+scintigram
+streptokinase
+xylitol
+transporter
+sex determination
+smear test
+steroid hormone
+surgical drainage
+thyroglossal duct
+tumor cell
+tubular adenocarcinoma
+ventilatory frequency
+abused child
+acupuncture therapy
+addison disease
+anaphylactoid reaction
+animal bite
+antimycotic agent
+antitussive drug
+behcet disease
+bending test
+biological indicator
+brush border
+cardiogenic shock
+carbonate dehydratase
+cavity floor
+cholinesterase inhibitor
+chromaffin cell
+cholinergic nerve
+composite graft
+contrast radiography
+cushing disease
+dna replication
+double immunodiffusion
+drug resistance
+drug history
+endotracheal tube
+enzyme inhibition
+fenestration procedure
+fluid intake
+fluid therapy
+fluorescence microscope
+gastric lavage
+genetic counselling
+genetic polymorphism
+golgi apparatus
+heart failure
+hepatitis a
+hodgkin disease
+infusion fluid
+involuntary muscle
+intracavitary irradiation
+m wave
+mandibular position
+medical malpractice
+metastatic tumor
+molecular compound
+myasthenia gravis
+multiple myeloma
+nonsteroidal antiphlogistic
+nocturnal enuresis
+oral medication
+paranasal sinuses
+peritubular matrix
+periosteal reaction
+plasma concentration
+plasma membrane
+platelet aggregation
+polysynaptic reflex
+primary focus
+protein binding
+rectal administration
+respiratory distress
+root length
+secondary hyperparathyroidism
+sinus tachycardia
+surface immunoglobulin
+systemic disorder
+tracheal tube
+vickers hardness
+whole saliva
+withdrawal syndrome
+young modulus
+adenylate cyclase
+aerosol therapy
+algesic substance
+antitumor agent
+bone screw
+bone fracture
+cardiac index
+carcinoembryonic antigen
+cardiac arrest
+catalytic site
+cerebrovascular accident
+citrate synthase
+citrovorum factor
+collagen fiber
+constant region
+digestive enzyme
+drug hypersensitivity
+drug tolerance
+electrochemical corrosion
+escherichia coli
+fabry disease
+gingival recession
+h antigen
+hunter syndrome
+hypotensive drug
+implant material
+intravenous hyperalimentation
+limbic system
+lipoprotein lipase
+local anesthetic
+longitudinal study
+lymphoblastoid cell
+mass disaster
+medical environment
+myotonic dystrophy
+nodular hyperplasia
+pain threshold
+periodontal tissue
+pigmented nevus
+primary care
+psychic trauma
+pulse pressure
+pulseless disease
+pyramidal cell
+radiation carcinogenesis
+rem sleep
+respiratory failure
+retrospective study
+secretory component
+self mutilation
+side effect
+sign language
+somatosensory area
+static compliance
+subcutaneous bleeding
+target organ
+thermoregulatory center
+ultrasonic echography
+undifferentiated carcinoma
+viral infection
+acute inflammation
+acute myelofibrosis
+atrioventricular block
+atrioventricular conduction
+b cell
+benzalkonium chloride
+biological evaluation
+cavernous hemangioma
+cohort analysis
+complete response
+core temperature
+cumulative dose
+delayed puberty
+dental pain
+diabetic microangiopathy
+drug interaction
+fanconi anemia
+fc receptor
+freund adjuvant
+gastrointestinal hormone
+gene locus
+gas embolism
+gaucher disease
+genetic marker
+gingival index
+grain boundary
+growth spurt
+histiocytic lymphoma
+image distortion
+indirect agglutination
+inhibitory synapse
+insoluble glucan
+internal respiration
+isometric exercise
+ketamine hydrochloride
+lipid a
+live vaccine
+masticatory muscle
+mast cell
+mefenamic acid
+monitoring device
+mycoplasma pneumonia
+mycobacterium bovis
+myeloma kidney
+nasal mask
+nodular lymphoma
+oral infection
+oriental medicine
+oxalate stone
+papillary hyperplasia
+penicillin allergy
+periodontal pocket
+programming language
+protein a
+pulmonary surfactant
+resistant bacteria
+respiratory therapy
+rib graft
+satellite dna
+sclerosing osteomyelitis
+sinus bradycardia
+skin cancer
+spontaneous pain
+streptococcus mutans
+synaptic cleft
+trigeminal neuralgia
+treatment plan
+urinary stone
+vitamin k
+wilson disease
+adjuvant immunotherapy
+albright syndrome
+antiarrhythmic agent
+bacteroides fragilis
+basal infoldings
+blood type
+bowen disease
+carcinoid tumor
+clinical microbiology
+component transfusion
+contact dermatitis
+crohn disease
+drug receptor
+endotracheal intubation
+feedback regulation
+germ cell
+glass transition
+glioblastoma multiforme
+guanosine monophosphate
+health behavior
+hepatitis b
+histocompatibility antigen
+incisional biopsy
+intrathoracic pressure
+nasal drops
+neural crest
+night guard
+passive agglutination
+patch test
+perinatal period
+primary prevention
+qt interval
+pyogenic granuloma
+radiographic contrast
+reye syndrome
+sensory disturbance
+sezary cell
+singlet oxygen
+sipple syndrome
+storage condition
+streptococcus sanguis
+streptococcus pneumoniae
+substance p
+t lymphocyte
+toxicity test
+turbine handpiece
+aldehyde dehydrogenase
+airway obstruction
+amphotericin b
+antigen receptor
+arachidonic acid
+atypical pain
+autoimmune phenomenon
+brush border membrane
+composite resin restoration
+disseminated intravascular coagulation
+neuromuscular blocking agent
+japanese encephalitis vaccine
+biological response modifiers
+dosage form design
+major histocompatibility complex
+medial pterygoid muscle
+systemic lupus erythematosus
+tricarboxylic acid cycle
+adenoid cystic carcinoma
+major histocompatibility antigen
+nuclear magnetic resonance
+sickle cell anemia
+superficial temporal artery
+t cell leukemia
+autosomal dominant inheritance
+comprehensive health care
+focal epithelial hyperplasia
+neural crest cell
+t cell lymphoma
+accelerated acute rejection
+acquired immunodeficiency syndrome
+aneurysmal bone cyst
+basic life support
+chronic granulomatous disease
+infraorbital nerve block
+lateral cervical cyst
+maxillary nerve block
+presurgical orthodontic treatment
+advanced life support
+congestive heart failure
+denture base resin
