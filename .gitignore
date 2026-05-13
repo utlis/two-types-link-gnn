@@ -34,6 +34,8 @@ data_timeline/**/*.bin
 
 # Pipeline outputs
 TermRGNNPipeline/runs/
+experiments/nonterm_link_prediction/runs/
+experiments/nonterm_link_prediction/.cache/
 
 # RGNN generated datasets, checkpoints, metrics, and visualizations
 RGNN/data/processed_dataset.pt
