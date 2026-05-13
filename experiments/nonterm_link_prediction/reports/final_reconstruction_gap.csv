@@ -1,0 +1,9 @@
+feature,epoch,experiment,predicted_type1_pos_edges,predicted_type2_pos_edges,false_positive_type1_neg_edges,false_positive_type2_neg_edges,reconstructed_terms_unique,pred_type2_minus_reconstructed
+no_ft,100,exp1_st_only,433,986,356,566,941,45
+no_ft,100,exp2_st_sn,546,653,97,125,642,11
+no_ft,1000,exp1_st_only,357,510,159,198,485,25
+no_ft,1000,exp2_st_sn,546,653,97,125,642,11
+fasttext,100,exp1_st_only,387,578,125,197,544,34
+fasttext,100,exp2_st_sn,507,607,76,72,592,15
+fasttext,1000,exp1_st_only,348,596,117,189,582,14
+fasttext,1000,exp2_st_sn,517,618,73,80,605,13

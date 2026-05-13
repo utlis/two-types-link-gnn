@@ -1,0 +1,53 @@
+run_name: agriculture_nonterm_all_fasttext_epoch1000
+data_dir: data
+use_embedding: true
+embedding_path: data/cc.en.300.bin
+domains:
+  - Agriculture
+ngram: all
+seed: 42
+
+experiments:
+  - name: exp1_st_only
+    use_nonterm_train: false
+  - name: exp2_st_sn
+    use_nonterm_train: true
+
+negative_sampling:
+  seed: 42
+  ratio: 1
+  explicit_policy: match_positive  # match_positive or all
+  hard_mode: mixed
+  corrupt_mode: both
+
+training:
+  epochs: 1000
+  eval_every: 10
+  seed: 42
+  device: auto
+  encoder: rgcn
+  decoder: complex
+  compgcn_composition: mult
+  num_bases: null
+  hidden_dim: 64
+  embedding_dim: 32
+  dropout: 0.2
+  lr: 0.01
+  loss_type: bce_balanced
+  weight_decay: 0.0001
+  edge_dropout: 0.0
+  label_smoothing: 0.0
+  lr_scheduler: false
+  no_final_model: true
+  neg_resample_every: 0
+  early_stopping_patience: 0
+
+postprocess:
+  cutoff: 5
+  shortest_only: true
+  reconstruction_mode: predicted_term_links
+  include_predicted_negatives: false
+  composition_from_test: false
+
+outputs:
+  root: experiments/nonterm_link_prediction/runs
